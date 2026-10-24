@@ -1,0 +1,9 @@
+# Generated archives stay outside the repository root.
+*.zip
+*.7z
+*.tar.gz
+
+# Local editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db

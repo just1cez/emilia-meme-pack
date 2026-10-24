@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "id": "emilia-chibi-meme-pack",
+  "name": "爱蜜莉雅 Q版表情包",
+  "version": "0.4.0",
+  "description": "120 张原创 AI 生成的爱蜜莉雅 Q版反应表情，覆盖 21 个聊天语义分类，并附逐图 caption 与 tags。",
+  "author": "Codex + OpenAI Image Generation",
+  "homepage": "https://www.re-zero.com/character/%E3%82%A8%E3%83%9F%E3%83%AA%E3%82%A2/",
+  "license": "非官方同人资源；仅建议个人非商业使用。角色与作品版权归 Re:Zero 权利人所有，生成素材不得视为官方授权。",
+  "tags": [
+    "actions",
+    "ai-generated",
+    "anime",
+    "chibi",
+    "community",
+    "emilia",
+    "expanded",
+    "meme-pack",
+    "png",
+    "re-zero",
+    "rezero"
+  ],
+  "icon": "previews/cover.png",
+  "previews": [
+    "previews/cover.png",
+    "previews/overview.png"
+  ],
+  "compat": {
+    "min_plugin_version": "4.0.0"
+  },
+  "categories": {
+    "happy": {
+      "description": "用于开心庆祝、期待好消息、眼睛发亮或轻快地表达快乐。"
+    },
+    "approval": {
+      "description": "用于点头、点赞、认可、鼓励、加油和表示“可以”。"
+    },
+    "angry": {
+      "description": "用于委屈地生气、责备或夸张地表达不满；不用于真实暴力威胁。"
+    },
+    "sad": {
+      "description": "用于哭泣、难过、受挫、失落或夸张地表示自己倒下了。"
+    },
+    "confused": {
+      "description": "用于发呆、疑惑、思考、加载、头晕或突然没听懂。"
+    },
+    "surprised": {
+      "description": "用于惊讶、紧张、害怕、冒汗或突然遇到意外。"
+    },
+    "shy": {
+      "description": "用于害羞、脸红、不好意思、眨眼卖萌或轻轻撒娇。"
+    },
+    "sleep": {
+      "description": "用于困倦、睡觉、准备休息、闲置等待或放松。"
+    },
+    "affection": {
+      "description": "用于爱心、安慰、送礼、摸头、亲近和表达喜欢。"
+    },
+    "food": {
+      "description": "用于馋嘴、吃零食、开饭、喝饮料、干杯或围观吃瓜。"
+    },
+    "money": {
+      "description": "用于付款、红包、撒钱、打赏、求赞助或金钱玩笑。"
+    },
+    "greeting": {
+      "description": "用于到达、冒泡、打招呼、挥手或提醒大家注意。"
+    },
+    "work": {
+      "description": "用于工作、打字、记录、电脑、加班、疲倦或带薪摸鱼。"
+    },
+    "entertainment": {
+      "description": "用于游戏、音乐、唱歌、跳舞、节庆、魔法或玩乐。"
+    },
+    "teasing": {
+      "description": "用于眨眼、恶作剧、装酷、自嘲、反转或轻松调侃。"
+    },
+    "reply": {
+      "description": "用于解释、说教、否定、回应、提醒或表达“听我说”。"
+    },
+    "comfort": {
+      "description": "用于安慰、鼓励、陪伴、递纸巾、拥抱或让对方安心。"
+    },
+    "tired": {
+      "description": "用于疲惫、犯困、等待、休息、打哈欠或准备睡觉。"
+    },
+    "eating": {
+      "description": "用于吃饭、喝水、零食、料理、甜点、干杯或等待开饭。"
+    },
+    "tech": {
+      "description": "用于加载、报错、调试、代码、服务器、完成任务或技术讨论。"
+    },
+    "mischief": {
+      "description": "用于恶作剧、偷看、装酷、被抓包、按按钮或轻松调侃。"
+    }
+  },
+  "extensions": {
+    "semantic": {
+      "version": 1,
+      "file": "semantic_metadata.json"
+    }
+  }
+}

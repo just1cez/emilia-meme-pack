@@ -1,0 +1,1910 @@
+{
+  "schema_version": "2.0",
+  "pack_id": "emilia-chibi-meme-pack",
+  "images": {
+    "e21ab3d93a98bf938ad25616a88007b1fae6288de9fb1397596ab294e67a4d1b": {
+      "entry_id": "e21ab3d93a98bf938ad25616a88007b1fae6288de9fb1397596ab294e67a4d1b",
+      "content_sha256": "ce0d5e048560352d0f21691ccbed4cdcfe9b9b6c9899eae07825eccb75a8ce37",
+      "relative_path": "memes/affection/0001_affection.png",
+      "category": "affection",
+      "caption": "爱蜜莉雅 Q版亲近表情：affection动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "affection"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "3e0ba5abcdaa5fb7e0cf32d1fe9c4537c5813295665b07841d6baff8b6716d83": {
+      "entry_id": "3e0ba5abcdaa5fb7e0cf32d1fe9c4537c5813295665b07841d6baff8b6716d83",
+      "content_sha256": "2dc2cdc91242e4e95a69ef912f731929d94344fd19dd51b8134d7d86b57b05f8",
+      "relative_path": "memes/affection/0002_pat.png",
+      "category": "affection",
+      "caption": "爱蜜莉雅 Q版亲近表情：pat动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "affection",
+        "pat"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "b0574eaecf6fd164e7eb1ec4ec44c2e37ffcac217b9a6a6e31e0c8129abc612a": {
+      "entry_id": "b0574eaecf6fd164e7eb1ec4ec44c2e37ffcac217b9a6a6e31e0c8129abc612a",
+      "content_sha256": "944017d3c65b34479a289ad8e3ec52d35b4a4ca1d8f505506cdab7d1022f32b7",
+      "relative_path": "memes/affection/0003_hug.png",
+      "category": "affection",
+      "caption": "爱蜜莉雅 Q版亲近表情：hug动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "affection",
+        "hug"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "a9275226d6082426fa751411d3eea67a47bffd6a998f771e82b88fec4c2cd6a5": {
+      "entry_id": "a9275226d6082426fa751411d3eea67a47bffd6a998f771e82b88fec4c2cd6a5",
+      "content_sha256": "48787e5c0cd2781bf134e89a13e47ab9f0a3700f1dd0312501c795c2e932b2a0",
+      "relative_path": "memes/affection/0004_thanks.png",
+      "category": "affection",
+      "caption": "爱蜜莉雅 Q版亲近表情：thanks动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "affection",
+        "thanks"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "d0743e2e997bebdbfcb5c5d0abb8467fd1dfdbcd8319db35f51ce6d88a9cb967": {
+      "entry_id": "d0743e2e997bebdbfcb5c5d0abb8467fd1dfdbcd8319db35f51ce6d88a9cb967",
+      "content_sha256": "a13fb63830ee0efe4f85bb9e64b142eb003d7ab2df29c5b6bbf3c51c3e94d6f8",
+      "relative_path": "memes/affection/0005_wave_heart.png",
+      "category": "affection",
+      "caption": "爱蜜莉雅 Q版亲近表情：wave heart动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "affection",
+        "wave heart"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "00636d6f16d566797c42ede85b6648f4ece3afe450f692e2307eeb7f19386d02": {
+      "entry_id": "00636d6f16d566797c42ede85b6648f4ece3afe450f692e2307eeb7f19386d02",
+      "content_sha256": "bcca64dd4fdef2787dbb510ee76b11fc445a64b926b497820a35f6d247175f73",
+      "relative_path": "memes/affection/0006_pat_received.png",
+      "category": "affection",
+      "caption": "爱蜜莉雅 Q版亲近表情：pat received动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "affection",
+        "pat received"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "7bec834dca0f6bca5cf7e478d31b8896cf1c41398cb3aa4402a72dbcddac5be2": {
+      "entry_id": "7bec834dca0f6bca5cf7e478d31b8896cf1c41398cb3aa4402a72dbcddac5be2",
+      "content_sha256": "270352633cb57c410acabfa445c6504c2ed5cecbacdb875130d63de3aa8a8bd5",
+      "relative_path": "memes/angry/0001_angry.png",
+      "category": "angry",
+      "caption": "爱蜜莉雅 Q版生气表情：angry动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "angry"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "b2ef27fc6c76cb2a338cf544fb7c592152d953152816c5c17c53e2fb08e0bdf2": {
+      "entry_id": "b2ef27fc6c76cb2a338cf544fb7c592152d953152816c5c17c53e2fb08e0bdf2",
+      "content_sha256": "24263b1e1cfaa2cd457090106ed6b8aa4e797557994be7ad52066fc1ac1154f7",
+      "relative_path": "memes/angry/0002_stomp.png",
+      "category": "angry",
+      "caption": "爱蜜莉雅 Q版生气表情：stomp动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "angry",
+        "stomp"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "2c9db84f22c78c09684e822b2fc6076ecbb283027928942eed50117795fc3f7d": {
+      "entry_id": "2c9db84f22c78c09684e822b2fc6076ecbb283027928942eed50117795fc3f7d",
+      "content_sha256": "00f16d4db82606df713f45ae67c1a4cbbd873a9360bbbec318fa746143e1f28d",
+      "relative_path": "memes/angry/0003_shout.png",
+      "category": "angry",
+      "caption": "爱蜜莉雅 Q版生气表情：shout动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "angry",
+        "shout"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "cc5654bba80665f88d6297bd437c79d642e79f32ae935e33c188567186116f3e": {
+      "entry_id": "cc5654bba80665f88d6297bd437c79d642e79f32ae935e33c188567186116f3e",
+      "content_sha256": "b6b27a5153676ee3f6840176c7fa724f322e398a6fa1b11c76914ea8ff0a523f",
+      "relative_path": "memes/angry/0004_warning.png",
+      "category": "angry",
+      "caption": "爱蜜莉雅 Q版生气表情：warning动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "angry",
+        "warning"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "767f3e3475246977484c4caf203b39bc6c4d5d325df67c353f055c0bd77b1095": {
+      "entry_id": "767f3e3475246977484c4caf203b39bc6c4d5d325df67c353f055c0bd77b1095",
+      "content_sha256": "f3aba24a7d4c55fb77588a4bb4cf808f6a9b22218011f0e4450d30d28e103019",
+      "relative_path": "memes/angry/0005_crossed_arms.png",
+      "category": "angry",
+      "caption": "爱蜜莉雅 Q版生气表情：crossed arms动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "angry",
+        "crossed arms"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "c86e1dd1fc705de21af7143d1724470ba976ead37e280c413bce7d27c64c1304": {
+      "entry_id": "c86e1dd1fc705de21af7143d1724470ba976ead37e280c413bce7d27c64c1304",
+      "content_sha256": "a7f7e8ebb1b3b18835c6667db0b6ab52f0dd65105af76c34a0991430854ee00c",
+      "relative_path": "memes/angry/0006_steam.png",
+      "category": "angry",
+      "caption": "爱蜜莉雅 Q版生气表情：steam动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "angry",
+        "steam"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "4029ca9e3585b4f5827850885ca69a9163d6d5aa85e2c92d80366a3a4ee13b3a": {
+      "entry_id": "4029ca9e3585b4f5827850885ca69a9163d6d5aa85e2c92d80366a3a4ee13b3a",
+      "content_sha256": "f40b6396359d4d83a462c01f834fe42cec9a7fcf4e1d6376107709c958df69f9",
+      "relative_path": "memes/approval/0001_approval.png",
+      "category": "approval",
+      "caption": "爱蜜莉雅 Q版认可表情：approval动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "approval"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "c6fede49bc4543364501ece3b0b7158589d33d1e7c7fb88e5b5e0a1a73d529a1": {
+      "entry_id": "c6fede49bc4543364501ece3b0b7158589d33d1e7c7fb88e5b5e0a1a73d529a1",
+      "content_sha256": "4fa482a9eba014272dbe268f00a7b4b9c126d7001ba3d4646eb57ec2ee76519d",
+      "relative_path": "memes/approval/0002_ok_sign.png",
+      "category": "approval",
+      "caption": "爱蜜莉雅 Q版认可表情：ok sign动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "approval",
+        "ok sign"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "6a502cc5ef2e721edc92ef7093dcb06b1a1fd1eaa450129e1638aca5fc7f9eda": {
+      "entry_id": "6a502cc5ef2e721edc92ef7093dcb06b1a1fd1eaa450129e1638aca5fc7f9eda",
+      "content_sha256": "a0591bb3e3b340e2a4b2afe565292f9a72c9619e5781fcf934f77933f5e31632",
+      "relative_path": "memes/approval/0003_pointing.png",
+      "category": "approval",
+      "caption": "爱蜜莉雅 Q版认可表情：pointing动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "approval",
+        "pointing"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "6cf7cdfff01812093b39b429327277d4faa92597b6595db8e002c6dd0bdd8f77": {
+      "entry_id": "6cf7cdfff01812093b39b429327277d4faa92597b6595db8e002c6dd0bdd8f77",
+      "content_sha256": "5e0c1d6f092197e5e9b81e879a940e326153c6d4e6e6d454cc4d68330870ba6f",
+      "relative_path": "memes/approval/0004_high_five.png",
+      "category": "approval",
+      "caption": "爱蜜莉雅 Q版认可表情：high five动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "approval",
+        "high five"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "b96b9d070334c2236684f182ca40264916d5d01058db9bc812d11db938a8bebf": {
+      "entry_id": "b96b9d070334c2236684f182ca40264916d5d01058db9bc812d11db938a8bebf",
+      "content_sha256": "8db473cb05b408d61d4eec1cd4fb741da5f4250866ab598177ff6d10852c56ca",
+      "relative_path": "memes/approval/0005_clap.png",
+      "category": "approval",
+      "caption": "爱蜜莉雅 Q版认可表情：clap动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "approval",
+        "clap"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "e9e2f946868e100ea39a8d024fc16645959f4f6e52156299ce5b764fa9730abf": {
+      "entry_id": "e9e2f946868e100ea39a8d024fc16645959f4f6e52156299ce5b764fa9730abf",
+      "content_sha256": "c0d054450ac53cb2e888c0b6718022320cdcbe63964c4c967cac27ab7ee8878e",
+      "relative_path": "memes/approval/0006_salute.png",
+      "category": "approval",
+      "caption": "爱蜜莉雅 Q版认可表情：salute动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "approval",
+        "salute"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "bbdcbeba84a4f4451b180aafaaed051be5c681a492cd7689fd04a013b29666a4": {
+      "entry_id": "bbdcbeba84a4f4451b180aafaaed051be5c681a492cd7689fd04a013b29666a4",
+      "content_sha256": "270845f8ad8cc899efd140bf5972bc61f9226beccb35d7b4f03194fcfb0c9b6c",
+      "relative_path": "memes/comfort/0001_pat_back.png",
+      "category": "comfort",
+      "caption": "爱蜜莉雅 Q版安慰表情：pat back动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "comfort",
+        "pat back"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "7b906819888f5b41bf6819e8aab4c865140d11bbb25c327eb05f9f58b09d7efd": {
+      "entry_id": "7b906819888f5b41bf6819e8aab4c865140d11bbb25c327eb05f9f58b09d7efd",
+      "content_sha256": "1835df086e35f28eb7fb55120a3d3e235f7d040f460a7df7a95d05747a11188d",
+      "relative_path": "memes/comfort/0002_tissue.png",
+      "category": "comfort",
+      "caption": "爱蜜莉雅 Q版安慰表情：tissue动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "comfort",
+        "tissue"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "354d6e7ba59f199f324ab16e86a67fd8730c81e7aae0d88e0fa2e7e3f4ee3401": {
+      "entry_id": "354d6e7ba59f199f324ab16e86a67fd8730c81e7aae0d88e0fa2e7e3f4ee3401",
+      "content_sha256": "f96d4ee85efeb57c6a456d507bd8bdd705dd0644d138b98ed6b1efc5857afde9",
+      "relative_path": "memes/comfort/0003_hug_side.png",
+      "category": "comfort",
+      "caption": "爱蜜莉雅 Q版安慰表情：hug side动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "comfort",
+        "hug side"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "b344f7cc8b890d3fd9782f75a723a57cbdf9488c48d9636d948a8a6f12bdb55d": {
+      "entry_id": "b344f7cc8b890d3fd9782f75a723a57cbdf9488c48d9636d948a8a6f12bdb55d",
+      "content_sha256": "16412a64bc4dbeca5488f1ba66972bbc154fd0c8a71739f5f23c0f790ed63b8e",
+      "relative_path": "memes/comfort/0004_thumbs_up.png",
+      "category": "comfort",
+      "caption": "爱蜜莉雅 Q版安慰表情：thumbs up动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "comfort",
+        "thumbs up"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "ab0a62fbfa359a61556b27c08f7e02e4dc2d31054514c84281285e63da79bad2": {
+      "entry_id": "ab0a62fbfa359a61556b27c08f7e02e4dc2d31054514c84281285e63da79bad2",
+      "content_sha256": "b4ad221dfd9421a66a67fd075a81a94899be7ef8d99b6851e1a869e8aa4ebdea",
+      "relative_path": "memes/comfort/0005_calm.png",
+      "category": "comfort",
+      "caption": "爱蜜莉雅 Q版安慰表情：calm动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "comfort",
+        "calm"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "8cf77d93d003e641908e5c8bf068a62b19e0d2e24f42969840f8dc6a26d9d93a": {
+      "entry_id": "8cf77d93d003e641908e5c8bf068a62b19e0d2e24f42969840f8dc6a26d9d93a",
+      "content_sha256": "6393afb24fd399915e2012bbede08bce94e7aac899d88fc9836cd9dd42442bd1",
+      "relative_path": "memes/comfort/0006_proud.png",
+      "category": "comfort",
+      "caption": "爱蜜莉雅 Q版安慰表情：proud动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "comfort",
+        "proud"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "9f4536f64b2b7656bec07b389c289c9ee3bc0f3095c3eed1a675a23f8505ab6b": {
+      "entry_id": "9f4536f64b2b7656bec07b389c289c9ee3bc0f3095c3eed1a675a23f8505ab6b",
+      "content_sha256": "9c61252db243f59ff8120b3490dfee3138f0f0262f6851f8e6fc5ad2ff7a8ca6",
+      "relative_path": "memes/confused/0001_confused.png",
+      "category": "confused",
+      "caption": "爱蜜莉雅 Q版困惑表情：confused动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "confused"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "3a89c5f4a1182e8478730db73ee591ace44a44bb18107f6f50240a0a243c8394": {
+      "entry_id": "3a89c5f4a1182e8478730db73ee591ace44a44bb18107f6f50240a0a243c8394",
+      "content_sha256": "ae6558524125b9dfe0a0c0bf0b70093c67c2854c31bf1cf41d841780705fd1a7",
+      "relative_path": "memes/confused/0002_loading.png",
+      "category": "confused",
+      "caption": "爱蜜莉雅 Q版困惑表情：loading动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "confused",
+        "loading"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "8c37798378b6879a1f21a5a71fdb4691288e2020dc3d197c7582eb057a3c0152": {
+      "entry_id": "8c37798378b6879a1f21a5a71fdb4691288e2020dc3d197c7582eb057a3c0152",
+      "content_sha256": "9f656e98f35499aaf9a75d7f25ca1468e97986abeed85d9511984090530416b2",
+      "relative_path": "memes/confused/0003_choice.png",
+      "category": "confused",
+      "caption": "爱蜜莉雅 Q版困惑表情：choice动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "confused",
+        "choice"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "358783a5828f862854a4237471dafd2e22f653efcbbcfb044c091ce76a0512a8": {
+      "entry_id": "358783a5828f862854a4237471dafd2e22f653efcbbcfb044c091ce76a0512a8",
+      "content_sha256": "e46f1a8e8f243850eba8f53baca0a21c6187da8477df9ec15c8de563b53bfe0d",
+      "relative_path": "memes/confused/0004_facepalm.png",
+      "category": "confused",
+      "caption": "爱蜜莉雅 Q版困惑表情：facepalm动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "confused",
+        "facepalm"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "f3b9467d52355c34f37203ce1ac8b35f01c631419739efb46efcf6d945aa3964": {
+      "entry_id": "f3b9467d52355c34f37203ce1ac8b35f01c631419739efb46efcf6d945aa3964",
+      "content_sha256": "d40d8e4854dabb9fdf4994e462edb598859d14739ebe03e6fc8008c18d72f873",
+      "relative_path": "memes/confused/0005_manual.png",
+      "category": "confused",
+      "caption": "爱蜜莉雅 Q版困惑表情：manual动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "confused",
+        "manual"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "721507b0acb0d644751f2893735b18e2ce7c6948f4b512266ef36a585e032c49": {
+      "entry_id": "721507b0acb0d644751f2893735b18e2ce7c6948f4b512266ef36a585e032c49",
+      "content_sha256": "bbad83dd56ae91e64b2878e86c6a2ebf2157a8cf10f12590eec8a91316925b4d",
+      "relative_path": "memes/confused/0006_split.png",
+      "category": "confused",
+      "caption": "爱蜜莉雅 Q版困惑表情：split动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "confused",
+        "split"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "3608e3b6f815d16ab41ece9636304511f704453823a6dcff0bf272306358b82f": {
+      "entry_id": "3608e3b6f815d16ab41ece9636304511f704453823a6dcff0bf272306358b82f",
+      "content_sha256": "a1785ad65eb55f092c16091a41548cd945915b6290592a64120bfd6f30e018fe",
+      "relative_path": "memes/eating/0001_peel.png",
+      "category": "eating",
+      "caption": "爱蜜莉雅 Q版进食表情：peel动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "eating",
+        "peel"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "0369c3b8f78af441fee3077778d914f5d5467ee5c363b2ec6a145c6d2dadbc5d": {
+      "entry_id": "0369c3b8f78af441fee3077778d914f5d5467ee5c363b2ec6a145c6d2dadbc5d",
+      "content_sha256": "b6b22e9d6bf61a105a51c94921162d74b84089d4e2a04ef8e4eadeddeb86ba75",
+      "relative_path": "memes/eating/0002_bento.png",
+      "category": "eating",
+      "caption": "爱蜜莉雅 Q版进食表情：bento动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "eating",
+        "bento"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "607060f1c8e127fe9dc166feda5b0d10e4bc492d4a34b6f1f4b63a4dfb9768e6": {
+      "entry_id": "607060f1c8e127fe9dc166feda5b0d10e4bc492d4a34b6f1f4b63a4dfb9768e6",
+      "content_sha256": "42f9088917450929fac09e230675e03f7666144e6fad4c7dba56bbccd698caf8",
+      "relative_path": "memes/eating/0003_noodles.png",
+      "category": "eating",
+      "caption": "爱蜜莉雅 Q版进食表情：noodles动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "eating",
+        "noodles"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "f2a22da5a8f7e23213f2994d14a7c4cad5f8ea24acc3bd8637b848a5e16e5a21": {
+      "entry_id": "f2a22da5a8f7e23213f2994d14a7c4cad5f8ea24acc3bd8637b848a5e16e5a21",
+      "content_sha256": "94e269697f5076fd39a6838ae319b69162e47e88570e6a7f8dba9932830e9df1",
+      "relative_path": "memes/eating/0004_icecream.png",
+      "category": "eating",
+      "caption": "爱蜜莉雅 Q版进食表情：icecream动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "eating",
+        "icecream"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "bcdb6f043fffc1964500bb00c5077e20b5999648a4508f66b0b67857fadd0452": {
+      "entry_id": "bcdb6f043fffc1964500bb00c5077e20b5999648a4508f66b0b67857fadd0452",
+      "content_sha256": "b47680cfd3fa974430c4a07004dcd1319efc6930251ef1620c106ab3bf82ad22",
+      "relative_path": "memes/eating/0005_cook.png",
+      "category": "eating",
+      "caption": "爱蜜莉雅 Q版进食表情：cook动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "eating",
+        "cook"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "4bcfb17c0e1a6e70ac8a59d76cf3689646413d6f2d931ce9e50f956a4642b068": {
+      "entry_id": "4bcfb17c0e1a6e70ac8a59d76cf3689646413d6f2d931ce9e50f956a4642b068",
+      "content_sha256": "4446b08bbec1918da4b6690b1c80c481bc824438bccca73f5a0f482a779e60ca",
+      "relative_path": "memes/eating/0006_cheers.png",
+      "category": "eating",
+      "caption": "爱蜜莉雅 Q版进食表情：cheers动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "eating",
+        "cheers"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "ad346222d495a57f78cc334631a5797e2e0165c9f36e5836716d1e3d394480a1": {
+      "entry_id": "ad346222d495a57f78cc334631a5797e2e0165c9f36e5836716d1e3d394480a1",
+      "content_sha256": "1c163b87672b92558ffed4bbf10e10f7086c84e636b7e5d242a27a5c91cb44c6",
+      "relative_path": "memes/entertainment/0001_entertainment.png",
+      "category": "entertainment",
+      "caption": "爱蜜莉雅 Q版娱乐表情：entertainment动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "entertainment"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "71c53c96f60989885e874d141afa1b431e4e94be5d632daee0d8e6d556d75620": {
+      "entry_id": "71c53c96f60989885e874d141afa1b431e4e94be5d632daee0d8e6d556d75620",
+      "content_sha256": "f532c851fc67fa722767d5736a158349ffe4ed897e5924fe4109888fda3a8095",
+      "relative_path": "memes/entertainment/0002_sing.png",
+      "category": "entertainment",
+      "caption": "爱蜜莉雅 Q版娱乐表情：sing动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "entertainment",
+        "sing"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "5d288085fbe2c4b82ae4919cb1a0d2982633ff2da405656c77c5bd7fffeaf172": {
+      "entry_id": "5d288085fbe2c4b82ae4919cb1a0d2982633ff2da405656c77c5bd7fffeaf172",
+      "content_sha256": "e7833a5180f069b75c43b7795ab966a57443e7409ff693ee67b498fcadc544f9",
+      "relative_path": "memes/entertainment/0003_dance.png",
+      "category": "entertainment",
+      "caption": "爱蜜莉雅 Q版娱乐表情：dance动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "entertainment",
+        "dance"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "b7d58917819f9a12935131acad8e0563a6c0ec23edb6c49c3a709944afb6ca74": {
+      "entry_id": "b7d58917819f9a12935131acad8e0563a6c0ec23edb6c49c3a709944afb6ca74",
+      "content_sha256": "d966a50096b733ac88b2b772c6eb7b60338399288416bcfdb32cb9962b2a7034",
+      "relative_path": "memes/entertainment/0004_photo.png",
+      "category": "entertainment",
+      "caption": "爱蜜莉雅 Q版娱乐表情：photo动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "entertainment",
+        "photo"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "2ef13cd55ef4a5da323bb2edb1e9053f0aac66a62a9331dd593b5083a078fc6c": {
+      "entry_id": "2ef13cd55ef4a5da323bb2edb1e9053f0aac66a62a9331dd593b5083a078fc6c",
+      "content_sha256": "8af89420689cbd657b3402a60fac04c2612dec82111bf7126869650c41e880ce",
+      "relative_path": "memes/entertainment/0005_draw.png",
+      "category": "entertainment",
+      "caption": "爱蜜莉雅 Q版娱乐表情：draw动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "entertainment",
+        "draw"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "a8dc7fab89e6eace1ed8cad797269abd8075547078ee7eba7d8a5308805036d4": {
+      "entry_id": "a8dc7fab89e6eace1ed8cad797269abd8075547078ee7eba7d8a5308805036d4",
+      "content_sha256": "21ff13dfd4e89ee1d6dfb1f9eda68028aea6e08490486c98ef1e248c61ac4958",
+      "relative_path": "memes/entertainment/0006_read.png",
+      "category": "entertainment",
+      "caption": "爱蜜莉雅 Q版娱乐表情：read动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "entertainment",
+        "read"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "3b452961ef6b49fa661e63ea879405debbaa007090ba236192f788b5238bb2c7": {
+      "entry_id": "3b452961ef6b49fa661e63ea879405debbaa007090ba236192f788b5238bb2c7",
+      "content_sha256": "e40b087a6329ca7d3e91aecfd2df43730727015b69d1ebdfe6d68c5f8287c9df",
+      "relative_path": "memes/food/0001_food.png",
+      "category": "food",
+      "caption": "爱蜜莉雅 Q版美食表情：food动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "food"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "e01d502bebcbf125ddf1ce50e4d822ca064da846b90275f6d22da5519127f2d0": {
+      "entry_id": "e01d502bebcbf125ddf1ce50e4d822ca064da846b90275f6d22da5519127f2d0",
+      "content_sha256": "3ae16a376485a040d462a66836da3d37c080f0de8d9116938806fafe86ac99b3",
+      "relative_path": "memes/food/0002_drink.png",
+      "category": "food",
+      "caption": "爱蜜莉雅 Q版美食表情：drink动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "food",
+        "drink"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "1e3f5adb2984972239e08c91dac44257f19f7559df8a9ff406404cfd0184e796": {
+      "entry_id": "1e3f5adb2984972239e08c91dac44257f19f7559df8a9ff406404cfd0184e796",
+      "content_sha256": "a22cb2e649f596102827e263d3d6537155fdb2a83741ea96daeabc4a74687461",
+      "relative_path": "memes/food/0003_cake.png",
+      "category": "food",
+      "caption": "爱蜜莉雅 Q版美食表情：cake动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "food",
+        "cake"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "31fdb62d9be2cb512d0dad90bc022dff6b73158c2d4a05eec26fe6cf250c8294": {
+      "entry_id": "31fdb62d9be2cb512d0dad90bc022dff6b73158c2d4a05eec26fe6cf250c8294",
+      "content_sha256": "dc401e63d42d5cfb819a16dc257ecca02976a792055c3a2f5dac3f06751d0e96",
+      "relative_path": "memes/food/0004_omnom.png",
+      "category": "food",
+      "caption": "爱蜜莉雅 Q版美食表情：omnom动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "food",
+        "omnom"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "b01d0e11d133c9de59901cf69237ba5a676966f15038d636ef9e113beb921168": {
+      "entry_id": "b01d0e11d133c9de59901cf69237ba5a676966f15038d636ef9e113beb921168",
+      "content_sha256": "795bbac29ed0640f3b5e2243b4c16178f9079e20ead5ff4f7da2353163407dc1",
+      "relative_path": "memes/food/0005_snack.png",
+      "category": "food",
+      "caption": "爱蜜莉雅 Q版美食表情：snack动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "food",
+        "snack"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "99b6b4ea175126b22cbf2c442f9dbd74c6cd7bea64a719b5bb3dece48eb2c36e": {
+      "entry_id": "99b6b4ea175126b22cbf2c442f9dbd74c6cd7bea64a719b5bb3dece48eb2c36e",
+      "content_sha256": "c8838eff9fa1b1e1c75560fa6041c1ef3fd8ebabe318a35c6e651f9a50981313",
+      "relative_path": "memes/food/0006_takeout.png",
+      "category": "food",
+      "caption": "爱蜜莉雅 Q版美食表情：takeout动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "food",
+        "takeout"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "28ce612cc460010109ed28c732ea7bb40a32bf9d134d028af5c2c754139959b1": {
+      "entry_id": "28ce612cc460010109ed28c732ea7bb40a32bf9d134d028af5c2c754139959b1",
+      "content_sha256": "13d2f1d8afa09f1bb3e9bd3d236dafcb448f81757cdc864cfe11140548a8ef4e",
+      "relative_path": "memes/greeting/0001_greeting.png",
+      "category": "greeting",
+      "caption": "爱蜜莉雅 Q版问候表情：greeting动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "greeting"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "fc039a19912df3756d32c639a495a21ebb5e90ff5b8f373fb647c8419a363a17": {
+      "entry_id": "fc039a19912df3756d32c639a495a21ebb5e90ff5b8f373fb647c8419a363a17",
+      "content_sha256": "482fcf871dac68b48d1c6b7109a21ca0a49d982756fd5bbbc2a221e2c71836db",
+      "relative_path": "memes/greeting/0002_bye.png",
+      "category": "greeting",
+      "caption": "爱蜜莉雅 Q版问候表情：bye动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "greeting",
+        "bye"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "71e4de3f48f51df9848853a5799129ab42525c11693841a26c799662ebd25b15": {
+      "entry_id": "71e4de3f48f51df9848853a5799129ab42525c11693841a26c799662ebd25b15",
+      "content_sha256": "a62cb922f23ad04a29623dd6e0b60e8ad8b628301049c05c4baab4ff12756812",
+      "relative_path": "memes/greeting/0003_attention.png",
+      "category": "greeting",
+      "caption": "爱蜜莉雅 Q版问候表情：attention动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "greeting",
+        "attention"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "bafcac92ee675fefd6a29b33d4a1715bf90089a6a0bad7b1fa624fdaeef71886": {
+      "entry_id": "bafcac92ee675fefd6a29b33d4a1715bf90089a6a0bad7b1fa624fdaeef71886",
+      "content_sha256": "54880874b259f84b3ab0b8f2d78ae60baec04ca6c54b5aa16e03d4c195e4e8ab",
+      "relative_path": "memes/greeting/0004_welcome.png",
+      "category": "greeting",
+      "caption": "爱蜜莉雅 Q版问候表情：welcome动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "greeting",
+        "welcome"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "d4bff2481c877805368d6f4fdd1a47df519bb613ce1996fad1e8ef71003a39e9": {
+      "entry_id": "d4bff2481c877805368d6f4fdd1a47df519bb613ce1996fad1e8ef71003a39e9",
+      "content_sha256": "be923f1586dc01d08fdb1dd99595f76aa757b823cd530ddff411188de701654e",
+      "relative_path": "memes/greeting/0005_morning.png",
+      "category": "greeting",
+      "caption": "爱蜜莉雅 Q版问候表情：morning动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "greeting",
+        "morning"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "fe50aa7f5e692137da3b91a970ba9d06339725d5a4906442f1c4f7e747e7fd66": {
+      "entry_id": "fe50aa7f5e692137da3b91a970ba9d06339725d5a4906442f1c4f7e747e7fd66",
+      "content_sha256": "f447cb44ba67534cbbb14b19dd58a3f7110f2e288f7360b501ff89ea51714610",
+      "relative_path": "memes/greeting/0006_arrival.png",
+      "category": "greeting",
+      "caption": "爱蜜莉雅 Q版问候表情：arrival动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "greeting",
+        "arrival"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "7fc904d7a11782a57d8e502ed692a3aa9a274f1ab61156629d48881fbc70e4d4": {
+      "entry_id": "7fc904d7a11782a57d8e502ed692a3aa9a274f1ab61156629d48881fbc70e4d4",
+      "content_sha256": "7607c472e43d0e224cfd6e630bf709b6d9b5ad104f724b4d22e5771e90a7d542",
+      "relative_path": "memes/happy/0001_happy.png",
+      "category": "happy",
+      "caption": "爱蜜莉雅 Q版开心表情：happy动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "happy"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "f682e226f27fb9da904386f00f8366879104d55482b55f50b260c51500b5d1b9": {
+      "entry_id": "f682e226f27fb9da904386f00f8366879104d55482b55f50b260c51500b5d1b9",
+      "content_sha256": "f41d072220f4f42b95bce772532e3106f7e14e9704ea5d3b121da6fdd0c414ea",
+      "relative_path": "memes/happy/0002_cheering.png",
+      "category": "happy",
+      "caption": "爱蜜莉雅 Q版开心表情：cheering动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "happy",
+        "cheering"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "c31693fdba3a1ce52af75e59d326446820c01c6f7216004fe49d0b6ed892a623": {
+      "entry_id": "c31693fdba3a1ce52af75e59d326446820c01c6f7216004fe49d0b6ed892a623",
+      "content_sha256": "626a53c13dbb8d6791cf15ef1beb5a729977223bfb08bbd6a7a664dee9e8d688",
+      "relative_path": "memes/happy/0003_laughing.png",
+      "category": "happy",
+      "caption": "爱蜜莉雅 Q版开心表情：laughing动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "happy",
+        "laughing"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "bc056855babbe29b8c3b7b0a8d8aad65ee9d7351dae0111825bbf1ba0377d25d": {
+      "entry_id": "bc056855babbe29b8c3b7b0a8d8aad65ee9d7351dae0111825bbf1ba0377d25d",
+      "content_sha256": "85aba4d91f07007e3faa9c605395f06f28117fffcc2b8e3b9d8a707b4a29f1d3",
+      "relative_path": "memes/happy/0004_clap.png",
+      "category": "happy",
+      "caption": "爱蜜莉雅 Q版开心表情：clap动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "happy",
+        "clap"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "6dbf1da2be4897b3b431a1b1ed6ca24c98eb418a8383983d7928b64db6b863ff": {
+      "entry_id": "6dbf1da2be4897b3b431a1b1ed6ca24c98eb418a8383983d7928b64db6b863ff",
+      "content_sha256": "8370ba8fb632728b1277a634d51559e498a7c516153b651f4cc2ec57848fd752",
+      "relative_path": "memes/happy/0005_party.png",
+      "category": "happy",
+      "caption": "爱蜜莉雅 Q版开心表情：party动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "happy",
+        "party"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "ec8d489fd88e5a80d2b9c29dc01216246347e8df4d549bb839408b8aa0b107ed": {
+      "entry_id": "ec8d489fd88e5a80d2b9c29dc01216246347e8df4d549bb839408b8aa0b107ed",
+      "content_sha256": "e74d28200b97ecd255290065b6c57a0a62875ec6cf76b7aa8bffdbce11cd4da9",
+      "relative_path": "memes/happy/0006_victory.png",
+      "category": "happy",
+      "caption": "爱蜜莉雅 Q版开心表情：victory动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "happy",
+        "victory"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "4d80f0be61f82ed38bdcc2e6d7bbe5251b6178b687a1fab9c4f9e0dbf0792440": {
+      "entry_id": "4d80f0be61f82ed38bdcc2e6d7bbe5251b6178b687a1fab9c4f9e0dbf0792440",
+      "content_sha256": "68d886bcb1787503f653d163c46889df6e609f95a91f59755a2fbc1a23ed8902",
+      "relative_path": "memes/mischief/0001_peekaboo.png",
+      "category": "mischief",
+      "caption": "爱蜜莉雅 Q版恶作剧表情：peekaboo动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "mischief",
+        "peekaboo"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "9327b57b6c2def326f63fd5fbbc963c35ec4930f36a8f4be0e09573b54a4acc9": {
+      "entry_id": "9327b57b6c2def326f63fd5fbbc963c35ec4930f36a8f4be0e09573b54a4acc9",
+      "content_sha256": "063508f8f9fa1004060d5ee9dfec64094babe34cabd1b928ab416e36028eaf6c",
+      "relative_path": "memes/mischief/0002_prank_button.png",
+      "category": "mischief",
+      "caption": "爱蜜莉雅 Q版恶作剧表情：prank button动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "mischief",
+        "prank button"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "49ae7aff6599296cf6508f84b4134f604b7199f861d00789f9820ac0c98d9cfc": {
+      "entry_id": "49ae7aff6599296cf6508f84b4134f604b7199f861d00789f9820ac0c98d9cfc",
+      "content_sha256": "911326cc3e0046490884b297449080341027a7496764610a380b4ff67a52decf",
+      "relative_path": "memes/mischief/0003_caught.png",
+      "category": "mischief",
+      "caption": "爱蜜莉雅 Q版恶作剧表情：caught动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "mischief",
+        "caught"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "0e67c434c9411a5e49168ce06113a999a7e574779e75001682a129a3cc6c23ac": {
+      "entry_id": "0e67c434c9411a5e49168ce06113a999a7e574779e75001682a129a3cc6c23ac",
+      "content_sha256": "22a3cd174a7fda6808c166cbb62ee22263ebe59a7f98d9b3610c1e8c2b15c678",
+      "relative_path": "memes/mischief/0004_cool.png",
+      "category": "mischief",
+      "caption": "爱蜜莉雅 Q版恶作剧表情：cool动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "mischief",
+        "cool"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "9c4d5b115dde7e73eef77c0cbaaccc040772fa1b36a057e9228b2c3555e5d5aa": {
+      "entry_id": "9c4d5b115dde7e73eef77c0cbaaccc040772fa1b36a057e9228b2c3555e5d5aa",
+      "content_sha256": "ca1f90fa3124fde998aeb8ba52971f37b6a12078bf0552b894a338c585fa1da2",
+      "relative_path": "memes/mischief/0005_tongue.png",
+      "category": "mischief",
+      "caption": "爱蜜莉雅 Q版恶作剧表情：tongue动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "mischief",
+        "tongue"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "4ea88ce1a08d6624d861683f42a127c00ebb686f80d962587edbf6d1c0af5c60": {
+      "entry_id": "4ea88ce1a08d6624d861683f42a127c00ebb686f80d962587edbf6d1c0af5c60",
+      "content_sha256": "b054478beed771e1d609bad1bffb64e8a770f6e94f47f93ab9a0dcfd67b42a73",
+      "relative_path": "memes/mischief/0006_hide.png",
+      "category": "mischief",
+      "caption": "爱蜜莉雅 Q版恶作剧表情：hide动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "mischief",
+        "hide"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "4321f2f2d52b18cb211fe76f3ce85e4e8334d2bf4b56fdea4baaab967ea99cb2": {
+      "entry_id": "4321f2f2d52b18cb211fe76f3ce85e4e8334d2bf4b56fdea4baaab967ea99cb2",
+      "content_sha256": "7d90638f0c56fc6335061b63ac9ff2847edb5f171652e7eb01d3ecdc41334590",
+      "relative_path": "memes/money/0001_money.png",
+      "category": "money",
+      "caption": "爱蜜莉雅 Q版金钱表情：money动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "money"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "f750f0c9b94d686de8ebd1842f0b045c5dd41b436bf1ff1ace8ea089135d50cd": {
+      "entry_id": "f750f0c9b94d686de8ebd1842f0b045c5dd41b436bf1ff1ace8ea089135d50cd",
+      "content_sha256": "97db2231c585a5ccb2588c5db06947a0497da936c4c30686a09152983076b55b",
+      "relative_path": "memes/money/0002_payment.png",
+      "category": "money",
+      "caption": "爱蜜莉雅 Q版金钱表情：payment动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "money",
+        "payment"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "23a6c26bf7f51ba059be604837a4b7d0f1c18fd81fa15660f765508a02b4c30e": {
+      "entry_id": "23a6c26bf7f51ba059be604837a4b7d0f1c18fd81fa15660f765508a02b4c30e",
+      "content_sha256": "0dc723d4b87e2fb8c94c36c467e2be0499f686114cb964154120176a37159dae",
+      "relative_path": "memes/money/0003_reward.png",
+      "category": "money",
+      "caption": "爱蜜莉雅 Q版金钱表情：reward动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "money",
+        "reward"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "07e91533b999494cd85ec795c4311782f0250886d09731787602cb8cf257b5c8": {
+      "entry_id": "07e91533b999494cd85ec795c4311782f0250886d09731787602cb8cf257b5c8",
+      "content_sha256": "1cb3ae64fea0001d74ed4cfa495afa5d62d3cc06c2e267ab60ef35408603416c",
+      "relative_path": "memes/money/0004_budget.png",
+      "category": "money",
+      "caption": "爱蜜莉雅 Q版金钱表情：budget动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "money",
+        "budget"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "8bc2ba7b44782ce2b7f2c43707b45bd6977df3daed24358a19b3c5c5adde3218": {
+      "entry_id": "8bc2ba7b44782ce2b7f2c43707b45bd6977df3daed24358a19b3c5c5adde3218",
+      "content_sha256": "f2c4c2055900ccffc3cb73569f2267e9c46b92a21f63c9dfe5f97da9800d29e6",
+      "relative_path": "memes/money/0005_sponsor.png",
+      "category": "money",
+      "caption": "爱蜜莉雅 Q版金钱表情：sponsor动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "money",
+        "sponsor"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "f7594110a2b9c0a251b603e233a40c6e1ced91aaf30b5159a3ba1de428908356": {
+      "entry_id": "f7594110a2b9c0a251b603e233a40c6e1ced91aaf30b5159a3ba1de428908356",
+      "content_sha256": "24366985eb1ac08ddd880d832b1be3ff7536be6ab5de8ebbc1e834cda8788010",
+      "relative_path": "memes/money/0006_receipt.png",
+      "category": "money",
+      "caption": "爱蜜莉雅 Q版金钱表情：receipt动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "money",
+        "receipt"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "379920e02a756097cf59646e2dfb350b68723c9dcab334b7831f71c1c1e01a68": {
+      "entry_id": "379920e02a756097cf59646e2dfb350b68723c9dcab334b7831f71c1c1e01a68",
+      "content_sha256": "2237d885f40a612c7b7a4c2e7f5a7306be361ecb9e5af0187542238abbcbfc26",
+      "relative_path": "memes/reply/0001_reply.png",
+      "category": "reply",
+      "caption": "爱蜜莉雅 Q版回复表情：reply动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "reply"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "9176fd63fa8784d14378982340cdca52dae8b462b513706c323107df2700ae74": {
+      "entry_id": "9176fd63fa8784d14378982340cdca52dae8b462b513706c323107df2700ae74",
+      "content_sha256": "f4f5ee51e2c93617f380665d41a2f478e11994591d025aaab16973aaef4c6441",
+      "relative_path": "memes/reply/0002_explain.png",
+      "category": "reply",
+      "caption": "爱蜜莉雅 Q版回复表情：explain动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "reply",
+        "explain"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "c460837940afe398549b990b71b808de5c6d38f7e0d4b72288f2a2003c4c78be": {
+      "entry_id": "c460837940afe398549b990b71b808de5c6d38f7e0d4b72288f2a2003c4c78be",
+      "content_sha256": "3f4632729cbdc7bb61818eebd41a0fcf94c4e94640c6685d1a8638571647603d",
+      "relative_path": "memes/reply/0003_quiet.png",
+      "category": "reply",
+      "caption": "爱蜜莉雅 Q版回复表情：quiet动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "reply",
+        "quiet"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "d1c25a57de0ef1937b794e111aeeae0916be90f1a98fa3bbd42897051969e3ae": {
+      "entry_id": "d1c25a57de0ef1937b794e111aeeae0916be90f1a98fa3bbd42897051969e3ae",
+      "content_sha256": "39a75780065179eb5e990df5092f47534ab3f6af56769283ae65871180848448",
+      "relative_path": "memes/reply/0004_agree.png",
+      "category": "reply",
+      "caption": "爱蜜莉雅 Q版回复表情：agree动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "reply",
+        "agree"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "e05b29b3d1ccb5ac3bc9da7e582c80cfe476b2db03b6a4f15dcc92c3f65b9aae": {
+      "entry_id": "e05b29b3d1ccb5ac3bc9da7e582c80cfe476b2db03b6a4f15dcc92c3f65b9aae",
+      "content_sha256": "410874d27abf96a4610235ca79635cc265b960c6f8e9fd1b0148eff0f13fb763",
+      "relative_path": "memes/reply/0005_deny.png",
+      "category": "reply",
+      "caption": "爱蜜莉雅 Q版回复表情：deny动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "reply",
+        "deny"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "dfa34e258c781003ca84923959ac24b42a91996943e2fcec12fe99e8410236b0": {
+      "entry_id": "dfa34e258c781003ca84923959ac24b42a91996943e2fcec12fe99e8410236b0",
+      "content_sha256": "2880c54d8079f82055e4250188edfd6ccbd494ed3637e9af3722f4927d02dc51",
+      "relative_path": "memes/reply/0006_wait.png",
+      "category": "reply",
+      "caption": "爱蜜莉雅 Q版回复表情：wait动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "reply",
+        "wait"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "2f11a8469572c32d65ba1f792c0bd412df270241bf047f3fc6ce2aac1ad5d395": {
+      "entry_id": "2f11a8469572c32d65ba1f792c0bd412df270241bf047f3fc6ce2aac1ad5d395",
+      "content_sha256": "2558b9a38809b785cfce01f1298479686ac91a6d40e35cfe203a74ca3e9233d0",
+      "relative_path": "memes/sad/0001_sad.png",
+      "category": "sad",
+      "caption": "爱蜜莉雅 Q版难过表情：sad动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "sad"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "219895edbc6e1b2d1804253ee011930edd91f9231d576f2ef2af1f3cdd281d9c": {
+      "entry_id": "219895edbc6e1b2d1804253ee011930edd91f9231d576f2ef2af1f3cdd281d9c",
+      "content_sha256": "69d85398364fcb9f6af1a7115b38102fc8178057f852029ad3aae81d1741d4d5",
+      "relative_path": "memes/sad/0002_pout.png",
+      "category": "sad",
+      "caption": "爱蜜莉雅 Q版难过表情：pout动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "sad",
+        "pout"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "3fd9bc1a96510b838bca899a3a12ac16f874c2a60f2d1b4ae8578e44f2468a2b": {
+      "entry_id": "3fd9bc1a96510b838bca899a3a12ac16f874c2a60f2d1b4ae8578e44f2468a2b",
+      "content_sha256": "cb41d89b022911495e4c1425078f9f9c5802e057cf5e856fc0b2769a81211735",
+      "relative_path": "memes/sad/0003_defeated.png",
+      "category": "sad",
+      "caption": "爱蜜莉雅 Q版难过表情：defeated动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "sad",
+        "defeated"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "5d6fab559061e81d8f415a17610ac706a47217bb100d361cb18b7a83c97119eb": {
+      "entry_id": "5d6fab559061e81d8f415a17610ac706a47217bb100d361cb18b7a83c97119eb",
+      "content_sha256": "b127c00e8fe6c6b326bb59bf84a95b41bbc16311cabeecc766578b9ff5ddb193",
+      "relative_path": "memes/sad/0004_comfort_me.png",
+      "category": "sad",
+      "caption": "爱蜜莉雅 Q版难过表情：comfort me动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "sad",
+        "comfort me"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "389396b35cd8d4a972670ec22c961d261e0d55f4aa84d32188cc6841c6a1adcf": {
+      "entry_id": "389396b35cd8d4a972670ec22c961d261e0d55f4aa84d32188cc6841c6a1adcf",
+      "content_sha256": "b55a3fcdb672da85b80abdb790eb1f86a1594597f9ed383f4e91b9210378001c",
+      "relative_path": "memes/sad/0005_rain.png",
+      "category": "sad",
+      "caption": "爱蜜莉雅 Q版难过表情：rain动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "sad",
+        "rain"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "9d0b04b3bfc88d9d0effdb2239c5b4ea195eee3eb460390df4b3af528bdeea37": {
+      "entry_id": "9d0b04b3bfc88d9d0effdb2239c5b4ea195eee3eb460390df4b3af528bdeea37",
+      "content_sha256": "4b3a11687c99a2733971f1c49b8f452426627c42ade9ff78c347121f3891aa35",
+      "relative_path": "memes/sad/0006_sigh.png",
+      "category": "sad",
+      "caption": "爱蜜莉雅 Q版难过表情：sigh动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "sad",
+        "sigh"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "1b51c681d2381d85469a71bef69fa468f187459810e38e5dc9cd197593b5d7b9": {
+      "entry_id": "1b51c681d2381d85469a71bef69fa468f187459810e38e5dc9cd197593b5d7b9",
+      "content_sha256": "ca3aed81da8955fa72e6dea09393000280c39d0a8cdd48f00df345385f2025ea",
+      "relative_path": "memes/shy/0001_shy.png",
+      "category": "shy",
+      "caption": "爱蜜莉雅 Q版害羞表情：shy动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "shy"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "045cc661056c73858b854bf11481f3be0a68d458e39181c42a8e1fff699ec55f": {
+      "entry_id": "045cc661056c73858b854bf11481f3be0a68d458e39181c42a8e1fff699ec55f",
+      "content_sha256": "c4867f8c7140f929e4f35f3c38fb542871c38fa8bd911f9c0ec7be60aa96e13f",
+      "relative_path": "memes/shy/0002_blush.png",
+      "category": "shy",
+      "caption": "爱蜜莉雅 Q版害羞表情：blush动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "shy",
+        "blush"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "b657916a8be38d604f1f86ccf115b771fdcc4a41164c98c0e3ac2bee1e5e8736": {
+      "entry_id": "b657916a8be38d604f1f86ccf115b771fdcc4a41164c98c0e3ac2bee1e5e8736",
+      "content_sha256": "9759a15e8cc3f900a4f03d512289be34df2d33d712c464ef278c8a2f8a366a6f",
+      "relative_path": "memes/shy/0003_peek.png",
+      "category": "shy",
+      "caption": "爱蜜莉雅 Q版害羞表情：peek动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "shy",
+        "peek"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "0d5a9cb7b6dc3bd92f1386e8ce4d384a14a1b13a4e4a64ebd8f07a55bae96033": {
+      "entry_id": "0d5a9cb7b6dc3bd92f1386e8ce4d384a14a1b13a4e4a64ebd8f07a55bae96033",
+      "content_sha256": "1627b31357eb0c6e46e4ab0cea1b71c095cc63058f9a3dc55683c74d54847693",
+      "relative_path": "memes/shy/0004_bow.png",
+      "category": "shy",
+      "caption": "爱蜜莉雅 Q版害羞表情：bow动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "shy",
+        "bow"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "b49dea7863776ca455beee2e0498b6727301fec32d76dba752510cfb8f6de2ac": {
+      "entry_id": "b49dea7863776ca455beee2e0498b6727301fec32d76dba752510cfb8f6de2ac",
+      "content_sha256": "ea203feb9e522aa5da844ed1bee5046f1a0c91fbb32e3a1ff02e3267f67298ca",
+      "relative_path": "memes/sleep/0001_sleep.png",
+      "category": "sleep",
+      "caption": "爱蜜莉雅 Q版困倦表情：sleep动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "sleep"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "20cf0f7a5afb3a5fbe2fb0f8f39cccc86b536bd9203923ac534a6c557cb29ca0": {
+      "entry_id": "20cf0f7a5afb3a5fbe2fb0f8f39cccc86b536bd9203923ac534a6c557cb29ca0",
+      "content_sha256": "c7210f692a98483dcbb5641d29574ca3593d6a2b28585e444d1f0f548b7b2ae0",
+      "relative_path": "memes/sleep/0002_yawn.png",
+      "category": "sleep",
+      "caption": "爱蜜莉雅 Q版困倦表情：yawn动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "sleep",
+        "yawn"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "08268d0f1ce1f7068477f32545c55e9ea9f44838cbf964f810bbab0586860981": {
+      "entry_id": "08268d0f1ce1f7068477f32545c55e9ea9f44838cbf964f810bbab0586860981",
+      "content_sha256": "07528912d401d410482df8e39bf3de2867021a8d172603b9c34148a97bbdcafe",
+      "relative_path": "memes/sleep/0003_blanket.png",
+      "category": "sleep",
+      "caption": "爱蜜莉雅 Q版困倦表情：blanket动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "sleep",
+        "blanket"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "40ca56361bbf2bbc96193a00189f043996fe70c4dcd996fffb35ec6313a6a2c0": {
+      "entry_id": "40ca56361bbf2bbc96193a00189f043996fe70c4dcd996fffb35ec6313a6a2c0",
+      "content_sha256": "45000212a86a2f42d44dfbe28859f5abf7dd6a68c1650d7b6d7fdc2a23ace6fa",
+      "relative_path": "memes/sleep/0004_alarm.png",
+      "category": "sleep",
+      "caption": "爱蜜莉雅 Q版困倦表情：alarm动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "sleep",
+        "alarm"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "30a0379a2de35464ad372cc8b0440df50e9abb4fc370ff5208587f14a2bcc36a": {
+      "entry_id": "30a0379a2de35464ad372cc8b0440df50e9abb4fc370ff5208587f14a2bcc36a",
+      "content_sha256": "2fc8b9868462eca8716a344fd2cbdf1b4c9a1910f4bd89beefe9944070421bf6",
+      "relative_path": "memes/surprised/0001_surprised.png",
+      "category": "surprised",
+      "caption": "爱蜜莉雅 Q版惊讶表情：surprised动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "surprised"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "1fd115a0a714960b71d1f57cc11064019e0ddffde537544decbf1f068bd9db4d": {
+      "entry_id": "1fd115a0a714960b71d1f57cc11064019e0ddffde537544decbf1f068bd9db4d",
+      "content_sha256": "b3636f257eaf0bc859255781901e5bc5da3fa08b3fc2aa7fd5bfe5f02cd821a1",
+      "relative_path": "memes/surprised/0002_gasp.png",
+      "category": "surprised",
+      "caption": "爱蜜莉雅 Q版惊讶表情：gasp动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "surprised",
+        "gasp"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "9d79c77b0a7ea09943eafa02f4557bef121f43d1a422818f1d908b7a6958a8fc": {
+      "entry_id": "9d79c77b0a7ea09943eafa02f4557bef121f43d1a422818f1d908b7a6958a8fc",
+      "content_sha256": "747349b01acf72d6b0f9c80b4d62d0b95006d840125c6a428f5bd38893d25dce",
+      "relative_path": "memes/surprised/0003_jump.png",
+      "category": "surprised",
+      "caption": "爱蜜莉雅 Q版惊讶表情：jump动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "surprised",
+        "jump"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "7a9dd9a0979aae12e2f122a38ea249d1a3ee18d15fc6899c477e0ec7a5700522": {
+      "entry_id": "7a9dd9a0979aae12e2f122a38ea249d1a3ee18d15fc6899c477e0ec7a5700522",
+      "content_sha256": "a3ffc205793b225a270fdfefdc619f5c606a1aa2d12b6942dbb18333a9cdc00d",
+      "relative_path": "memes/surprised/0004_freeze.png",
+      "category": "surprised",
+      "caption": "爱蜜莉雅 Q版惊讶表情：freeze动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "surprised",
+        "freeze"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "122563d1ef75f6c820f0b15e05ea91e2a15b23c029439a20a0db286d23dc720b": {
+      "entry_id": "122563d1ef75f6c820f0b15e05ea91e2a15b23c029439a20a0db286d23dc720b",
+      "content_sha256": "24d8f2c0ffc4d0ed8512025613ccc7f8784f0846219d39183b069113845e6487",
+      "relative_path": "memes/surprised/0005_jawdrop.png",
+      "category": "surprised",
+      "caption": "爱蜜莉雅 Q版惊讶表情：jawdrop动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "surprised",
+        "jawdrop"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "97fdb989738688b93242a26c46f2100d61a774cd13edd0781e3f231f0d828711": {
+      "entry_id": "97fdb989738688b93242a26c46f2100d61a774cd13edd0781e3f231f0d828711",
+      "content_sha256": "ba1d7634893f16f98c806bd5da09e7709d1d4f4e9fb162f445c62a07990cb5f5",
+      "relative_path": "memes/surprised/0006_thunder.png",
+      "category": "surprised",
+      "caption": "爱蜜莉雅 Q版惊讶表情：thunder动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "surprised",
+        "thunder"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "3ae5b7b2af3fedf3407111dc019d61a591b6fdd02ed21bbe134c13ce9c177fbd": {
+      "entry_id": "3ae5b7b2af3fedf3407111dc019d61a591b6fdd02ed21bbe134c13ce9c177fbd",
+      "content_sha256": "5c2e8906953dac0e8aebaad77f4e06253df1a858b8a1208beb4a5a6a3adc7fd0",
+      "relative_path": "memes/teasing/0001_teasing.png",
+      "category": "teasing",
+      "caption": "爱蜜莉雅 Q版调侃表情：teasing动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "teasing"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "33dd8e8f4c506d82ed52634fd84fe81be262f9539b8e7384eab795c0c7e77fbc": {
+      "entry_id": "33dd8e8f4c506d82ed52634fd84fe81be262f9539b8e7384eab795c0c7e77fbc",
+      "content_sha256": "1b6faae343c9704bf125e12b5797e459b47f3dd971dcbce154e07737593fa238",
+      "relative_path": "memes/teasing/0002_tongue.png",
+      "category": "teasing",
+      "caption": "爱蜜莉雅 Q版调侃表情：tongue动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "teasing",
+        "tongue"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "ceaa23630461100c536a4308eaa801ef651ff3035fe5c01a30ac53fc2494a8e2": {
+      "entry_id": "ceaa23630461100c536a4308eaa801ef651ff3035fe5c01a30ac53fc2494a8e2",
+      "content_sha256": "0a734915dddb8459879265e19980676e17492bf7845fdaa473aeba159b584d2a",
+      "relative_path": "memes/teasing/0003_prank.png",
+      "category": "teasing",
+      "caption": "爱蜜莉雅 Q版调侃表情：prank动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "teasing",
+        "prank"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "1e7e857b56078e0e82e13d41a4af695165c240f1dcc37d2730c73431b88d70ab": {
+      "entry_id": "1e7e857b56078e0e82e13d41a4af695165c240f1dcc37d2730c73431b88d70ab",
+      "content_sha256": "3137fa74992e9332f6500f515665073d672f8404ccae67b822c38e0e29235b2e",
+      "relative_path": "memes/teasing/0004_shrug.png",
+      "category": "teasing",
+      "caption": "爱蜜莉雅 Q版调侃表情：shrug动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "teasing",
+        "shrug"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "389fcf8ad3d557a2d95d31ac01aa52041b2c002942840db03cacdbc70e86818e": {
+      "entry_id": "389fcf8ad3d557a2d95d31ac01aa52041b2c002942840db03cacdbc70e86818e",
+      "content_sha256": "89f02e9721d869fe61927334ac150f818d080b0e4bdb445900db19756e80ef98",
+      "relative_path": "memes/teasing/0005_smug.png",
+      "category": "teasing",
+      "caption": "爱蜜莉雅 Q版调侃表情：smug动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "teasing",
+        "smug"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "8f597cd6ee7c4631afdca4b28da481c99e5a1e7ce52acbd56a61cb845625466c": {
+      "entry_id": "8f597cd6ee7c4631afdca4b28da481c99e5a1e7ce52acbd56a61cb845625466c",
+      "content_sha256": "411cba425f5af01b2da58d93f453ebefc997b3ce22ce2a40dea067fd0300c012",
+      "relative_path": "memes/teasing/0006_clapback.png",
+      "category": "teasing",
+      "caption": "爱蜜莉雅 Q版调侃表情：clapback动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "teasing",
+        "clapback"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "e11548cdae097222a168c5f5defefed7f3b5d150e8d7d18e619c32c5809ce088": {
+      "entry_id": "e11548cdae097222a168c5f5defefed7f3b5d150e8d7d18e619c32c5809ce088",
+      "content_sha256": "96e836e285c4826c44fb5b386776ef1abc61595f9b1cb60c6177f60676cd4cb5",
+      "relative_path": "memes/tech/0001_loading.png",
+      "category": "tech",
+      "caption": "爱蜜莉雅 Q版技术表情：loading动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "tech",
+        "loading"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "705ad5841960253b8d192498bf570a397762e473e241e85993032ef7f0cc8cb6": {
+      "entry_id": "705ad5841960253b8d192498bf570a397762e473e241e85993032ef7f0cc8cb6",
+      "content_sha256": "ebc97f6039407fa616ee402cd50e6be30fc649ad21c016ec5c366d48456cab42",
+      "relative_path": "memes/tech/0002_bug.png",
+      "category": "tech",
+      "caption": "爱蜜莉雅 Q版技术表情：bug动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "tech",
+        "bug"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "77eb4f54fe29ee2bdc5f6e256c000a88c618799b9190cfd7ca34001e393c2507": {
+      "entry_id": "77eb4f54fe29ee2bdc5f6e256c000a88c618799b9190cfd7ca34001e393c2507",
+      "content_sha256": "3bee32da48af6787b05098c8f7ac47a05eacc2ec3c67fd8ee6844d1859201271",
+      "relative_path": "memes/tech/0003_success.png",
+      "category": "tech",
+      "caption": "爱蜜莉雅 Q版技术表情：success动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "tech",
+        "success"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "ac66a5c35b85d98493fccda19de707902aa38be8b1717aa2aacb4b55e0ec5e8b": {
+      "entry_id": "ac66a5c35b85d98493fccda19de707902aa38be8b1717aa2aacb4b55e0ec5e8b",
+      "content_sha256": "0cb6ce38e5e4ce7dc697d8650082f75260e5332e8c0e29b36f273c1b1a887e95",
+      "relative_path": "memes/tech/0004_code.png",
+      "category": "tech",
+      "caption": "爱蜜莉雅 Q版技术表情：code动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "tech",
+        "code"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "7a989d13fe32cc8fffbc107b00127a7b90fbe4f5bffd7bfeeab72fbf1ba06fff": {
+      "entry_id": "7a989d13fe32cc8fffbc107b00127a7b90fbe4f5bffd7bfeeab72fbf1ba06fff",
+      "content_sha256": "1a8684d2e1f6a37b04327267bce1312b460ca5c205ab70c7b2949eeadccbf583",
+      "relative_path": "memes/tech/0005_server.png",
+      "category": "tech",
+      "caption": "爱蜜莉雅 Q版技术表情：server动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "tech",
+        "server"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "cf2bb7d1b3d4df832fc7171613fe19cebbb97392c6265776e61225731c791cf9": {
+      "entry_id": "cf2bb7d1b3d4df832fc7171613fe19cebbb97392c6265776e61225731c791cf9",
+      "content_sha256": "0065e8a82225fe866ccfc5eecc9269776d2570b0cf02e62782c656793f515308",
+      "relative_path": "memes/tech/0006_error.png",
+      "category": "tech",
+      "caption": "爱蜜莉雅 Q版技术表情：error动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "tech",
+        "error"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "bb5e314a3eddd59c05dcac0e71fe7cad975ae70f8ca9ad6c1f8d9a811b6eaba6": {
+      "entry_id": "bb5e314a3eddd59c05dcac0e71fe7cad975ae70f8ca9ad6c1f8d9a811b6eaba6",
+      "content_sha256": "a031d0aa815947d0ebdff238a43baf4e44b2bbd0cdfc87ca937ee00c08be7904",
+      "relative_path": "memes/tired/0001_rubbing_eyes.png",
+      "category": "tired",
+      "caption": "爱蜜莉雅 Q版疲惫表情：rubbing eyes动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "tired",
+        "rubbing eyes"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "e39fa1455c1c2fb22b230db4308cb34b7ea5abcdc50466c6e60be3b179816e7b": {
+      "entry_id": "e39fa1455c1c2fb22b230db4308cb34b7ea5abcdc50466c6e60be3b179816e7b",
+      "content_sha256": "773edc3ff7855edbd2fff62229cec62205e2dab3418d68b46f311a93430c60ce",
+      "relative_path": "memes/tired/0002_slouch.png",
+      "category": "tired",
+      "caption": "爱蜜莉雅 Q版疲惫表情：slouch动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "tired",
+        "slouch"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "57c209b54a063b5480b7f8706e46a401c7e799bc50121e4e79488d50ce5814c8": {
+      "entry_id": "57c209b54a063b5480b7f8706e46a401c7e799bc50121e4e79488d50ce5814c8",
+      "content_sha256": "60d169b60816e490ce072c21f210636a9c07f0c7485cafffbe62855de5a96e29",
+      "relative_path": "memes/tired/0003_coffee.png",
+      "category": "tired",
+      "caption": "爱蜜莉雅 Q版疲惫表情：coffee动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "tired",
+        "coffee"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "2d58ec57c8f8734c9ad2fb94ccfd89bfbc42c9d493a425761d3d9f5b86c8a56e": {
+      "entry_id": "2d58ec57c8f8734c9ad2fb94ccfd89bfbc42c9d493a425761d3d9f5b86c8a56e",
+      "content_sha256": "6ab3254eb3d7e3bff5b0ea4e5147785c760852b6a108317d92f7254c70a76a76",
+      "relative_path": "memes/tired/0004_stretch.png",
+      "category": "tired",
+      "caption": "爱蜜莉雅 Q版疲惫表情：stretch动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "tired",
+        "stretch"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "6b00cdaf922a38fc42e013fec4371d10ed72e58405bc9ffae6bc424c72d315ba": {
+      "entry_id": "6b00cdaf922a38fc42e013fec4371d10ed72e58405bc9ffae6bc424c72d315ba",
+      "content_sha256": "c92d3955561efa5a9ac6053b32b42bc0fc17efdb141e120553b581afbbc70899",
+      "relative_path": "memes/tired/0005_bedtime.png",
+      "category": "tired",
+      "caption": "爱蜜莉雅 Q版疲惫表情：bedtime动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "tired",
+        "bedtime"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "6ca2daedf44fbd7ced10025e5a9073e8d6da7169c7e57e0639adc83f1d3f082a": {
+      "entry_id": "6ca2daedf44fbd7ced10025e5a9073e8d6da7169c7e57e0639adc83f1d3f082a",
+      "content_sha256": "5c69af4414b6b6fd044ff51fdb28f25718dd8bcec0189d93a27684938461489c",
+      "relative_path": "memes/tired/0006_waiting.png",
+      "category": "tired",
+      "caption": "爱蜜莉雅 Q版疲惫表情：waiting动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "tired",
+        "waiting"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "1007cd2dc251cfdd335ba15bfd5643c0fc67649ff43b22669e4821acb433bd91": {
+      "entry_id": "1007cd2dc251cfdd335ba15bfd5643c0fc67649ff43b22669e4821acb433bd91",
+      "content_sha256": "5e2df9f6f6eed83f12387071fee5281c61280bfb4a7e0d302dd646b6867ac40f",
+      "relative_path": "memes/work/0001_work.png",
+      "category": "work",
+      "caption": "爱蜜莉雅 Q版工作表情：work动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "work"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "8163b82643dff5828a14a209328f8b1bd4d2f110527f5b7d715e3b0f2e945974": {
+      "entry_id": "8163b82643dff5828a14a209328f8b1bd4d2f110527f5b7d715e3b0f2e945974",
+      "content_sha256": "ae037ca9240976d20edee76eecfa926a4a0fcd7f6a3abd482077ca023fcab4d2",
+      "relative_path": "memes/work/0002_note.png",
+      "category": "work",
+      "caption": "爱蜜莉雅 Q版工作表情：note动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "work",
+        "note"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "fe2f3d67a221270adf7d04de2e723f71c0118f7e33841b333f7905ab873b5c3a": {
+      "entry_id": "fe2f3d67a221270adf7d04de2e723f71c0118f7e33841b333f7905ab873b5c3a",
+      "content_sha256": "30cea4f515e4613652b29212e968963b09ef1f5ad0a1fc915a8bde43afaffd2c",
+      "relative_path": "memes/work/0003_troubleshoot.png",
+      "category": "work",
+      "caption": "爱蜜莉雅 Q版工作表情：troubleshoot动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "work",
+        "troubleshoot"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    },
+    "916e8b10fe04591a9fa47c2a7cf15b59bd7fed5f2887894941da96c65ee94cce": {
+      "entry_id": "916e8b10fe04591a9fa47c2a7cf15b59bd7fed5f2887894941da96c65ee94cce",
+      "content_sha256": "8ef827a53dfa7adb029e059f5b6eff63ac14ccd6720d933177a2f159dffa53b8",
+      "relative_path": "memes/work/0004_break.png",
+      "category": "work",
+      "caption": "爱蜜莉雅 Q版工作表情：break动作。",
+      "caption_status": "done",
+      "tags": [
+        "emilia",
+        "chibi",
+        "work",
+        "break"
+      ],
+      "visible_text": "",
+      "provenance": "OpenAI image generation; original action prompt"
+    }
+  }
+}

@@ -1,0 +1,1082 @@
+{
+  "memes/happy/0001_happy.png": {
+    "category": "happy",
+    "sha256": "7607c472e43d0e224cfd6e630bf709b6d9b5ad104f724b4d22e5771e90a7d542",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2172145
+  },
+  "memes/happy/0002_cheering.png": {
+    "category": "happy",
+    "sha256": "f41d072220f4f42b95bce772532e3106f7e14e9704ea5d3b121da6fdd0c414ea",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2311022
+  },
+  "memes/happy/0003_laughing.png": {
+    "category": "happy",
+    "sha256": "626a53c13dbb8d6791cf15ef1beb5a729977223bfb08bbd6a7a664dee9e8d688",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2187693
+  },
+  "memes/happy/0004_clap.png": {
+    "category": "happy",
+    "sha256": "85aba4d91f07007e3faa9c605395f06f28117fffcc2b8e3b9d8a707b4a29f1d3",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2208398
+  },
+  "memes/happy/0005_party.png": {
+    "category": "happy",
+    "sha256": "8370ba8fb632728b1277a634d51559e498a7c516153b651f4cc2ec57848fd752",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2494956
+  },
+  "memes/happy/0006_victory.png": {
+    "category": "happy",
+    "sha256": "e74d28200b97ecd255290065b6c57a0a62875ec6cf76b7aa8bffdbce11cd4da9",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2386554
+  },
+  "memes/approval/0001_approval.png": {
+    "category": "approval",
+    "sha256": "f40b6396359d4d83a462c01f834fe42cec9a7fcf4e1d6376107709c958df69f9",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2339966
+  },
+  "memes/approval/0002_ok_sign.png": {
+    "category": "approval",
+    "sha256": "4fa482a9eba014272dbe268f00a7b4b9c126d7001ba3d4646eb57ec2ee76519d",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2368096
+  },
+  "memes/approval/0003_pointing.png": {
+    "category": "approval",
+    "sha256": "a0591bb3e3b340e2a4b2afe565292f9a72c9619e5781fcf934f77933f5e31632",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2254682
+  },
+  "memes/approval/0004_high_five.png": {
+    "category": "approval",
+    "sha256": "5e0c1d6f092197e5e9b81e879a940e326153c6d4e6e6d454cc4d68330870ba6f",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2301215
+  },
+  "memes/approval/0005_clap.png": {
+    "category": "approval",
+    "sha256": "8db473cb05b408d61d4eec1cd4fb741da5f4250866ab598177ff6d10852c56ca",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2269317
+  },
+  "memes/approval/0006_salute.png": {
+    "category": "approval",
+    "sha256": "c0d054450ac53cb2e888c0b6718022320cdcbe63964c4c967cac27ab7ee8878e",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2313191
+  },
+  "memes/angry/0001_angry.png": {
+    "category": "angry",
+    "sha256": "270352633cb57c410acabfa445c6504c2ed5cecbacdb875130d63de3aa8a8bd5",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2267762
+  },
+  "memes/angry/0002_stomp.png": {
+    "category": "angry",
+    "sha256": "24263b1e1cfaa2cd457090106ed6b8aa4e797557994be7ad52066fc1ac1154f7",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2343667
+  },
+  "memes/angry/0003_shout.png": {
+    "category": "angry",
+    "sha256": "00f16d4db82606df713f45ae67c1a4cbbd873a9360bbbec318fa746143e1f28d",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2383703
+  },
+  "memes/angry/0004_warning.png": {
+    "category": "angry",
+    "sha256": "b6b27a5153676ee3f6840176c7fa724f322e398a6fa1b11c76914ea8ff0a523f",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2275406
+  },
+  "memes/angry/0005_crossed_arms.png": {
+    "category": "angry",
+    "sha256": "f3aba24a7d4c55fb77588a4bb4cf808f6a9b22218011f0e4450d30d28e103019",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2233570
+  },
+  "memes/angry/0006_steam.png": {
+    "category": "angry",
+    "sha256": "a7f7e8ebb1b3b18835c6667db0b6ab52f0dd65105af76c34a0991430854ee00c",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2339996
+  },
+  "memes/sad/0001_sad.png": {
+    "category": "sad",
+    "sha256": "2558b9a38809b785cfce01f1298479686ac91a6d40e35cfe203a74ca3e9233d0",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2227516
+  },
+  "memes/sad/0002_pout.png": {
+    "category": "sad",
+    "sha256": "69d85398364fcb9f6af1a7115b38102fc8178057f852029ad3aae81d1741d4d5",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2238768
+  },
+  "memes/sad/0003_defeated.png": {
+    "category": "sad",
+    "sha256": "cb41d89b022911495e4c1425078f9f9c5802e057cf5e856fc0b2769a81211735",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2084439
+  },
+  "memes/sad/0004_comfort_me.png": {
+    "category": "sad",
+    "sha256": "b127c00e8fe6c6b326bb59bf84a95b41bbc16311cabeecc766578b9ff5ddb193",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2222090
+  },
+  "memes/sad/0005_rain.png": {
+    "category": "sad",
+    "sha256": "b55a3fcdb672da85b80abdb790eb1f86a1594597f9ed383f4e91b9210378001c",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2054506
+  },
+  "memes/sad/0006_sigh.png": {
+    "category": "sad",
+    "sha256": "4b3a11687c99a2733971f1c49b8f452426627c42ade9ff78c347121f3891aa35",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2187156
+  },
+  "memes/confused/0001_confused.png": {
+    "category": "confused",
+    "sha256": "9c61252db243f59ff8120b3490dfee3138f0f0262f6851f8e6fc5ad2ff7a8ca6",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2197762
+  },
+  "memes/confused/0002_loading.png": {
+    "category": "confused",
+    "sha256": "ae6558524125b9dfe0a0c0bf0b70093c67c2854c31bf1cf41d841780705fd1a7",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2074478
+  },
+  "memes/confused/0003_choice.png": {
+    "category": "confused",
+    "sha256": "9f656e98f35499aaf9a75d7f25ca1468e97986abeed85d9511984090530416b2",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2257329
+  },
+  "memes/confused/0004_facepalm.png": {
+    "category": "confused",
+    "sha256": "e46f1a8e8f243850eba8f53baca0a21c6187da8477df9ec15c8de563b53bfe0d",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2250910
+  },
+  "memes/confused/0005_manual.png": {
+    "category": "confused",
+    "sha256": "d40d8e4854dabb9fdf4994e462edb598859d14739ebe03e6fc8008c18d72f873",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2190499
+  },
+  "memes/confused/0006_split.png": {
+    "category": "confused",
+    "sha256": "bbad83dd56ae91e64b2878e86c6a2ebf2157a8cf10f12590eec8a91316925b4d",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2226602
+  },
+  "memes/surprised/0001_surprised.png": {
+    "category": "surprised",
+    "sha256": "2fc8b9868462eca8716a344fd2cbdf1b4c9a1910f4bd89beefe9944070421bf6",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2282051
+  },
+  "memes/surprised/0002_gasp.png": {
+    "category": "surprised",
+    "sha256": "b3636f257eaf0bc859255781901e5bc5da3fa08b3fc2aa7fd5bfe5f02cd821a1",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2260667
+  },
+  "memes/surprised/0003_jump.png": {
+    "category": "surprised",
+    "sha256": "747349b01acf72d6b0f9c80b4d62d0b95006d840125c6a428f5bd38893d25dce",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2250012
+  },
+  "memes/surprised/0004_freeze.png": {
+    "category": "surprised",
+    "sha256": "a3ffc205793b225a270fdfefdc619f5c606a1aa2d12b6942dbb18333a9cdc00d",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2418334
+  },
+  "memes/surprised/0005_jawdrop.png": {
+    "category": "surprised",
+    "sha256": "24d8f2c0ffc4d0ed8512025613ccc7f8784f0846219d39183b069113845e6487",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2305706
+  },
+  "memes/surprised/0006_thunder.png": {
+    "category": "surprised",
+    "sha256": "ba1d7634893f16f98c806bd5da09e7709d1d4f4e9fb162f445c62a07990cb5f5",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2317518
+  },
+  "memes/shy/0001_shy.png": {
+    "category": "shy",
+    "sha256": "ca3aed81da8955fa72e6dea09393000280c39d0a8cdd48f00df345385f2025ea",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2189316
+  },
+  "memes/shy/0002_blush.png": {
+    "category": "shy",
+    "sha256": "c4867f8c7140f929e4f35f3c38fb542871c38fa8bd911f9c0ec7be60aa96e13f",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2297041
+  },
+  "memes/shy/0003_peek.png": {
+    "category": "shy",
+    "sha256": "9759a15e8cc3f900a4f03d512289be34df2d33d712c464ef278c8a2f8a366a6f",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2166715
+  },
+  "memes/shy/0004_bow.png": {
+    "category": "shy",
+    "sha256": "1627b31357eb0c6e46e4ab0cea1b71c095cc63058f9a3dc55683c74d54847693",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2215952
+  },
+  "memes/sleep/0001_sleep.png": {
+    "category": "sleep",
+    "sha256": "ea203feb9e522aa5da844ed1bee5046f1a0c91fbb32e3a1ff02e3267f67298ca",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2045070
+  },
+  "memes/sleep/0002_yawn.png": {
+    "category": "sleep",
+    "sha256": "c7210f692a98483dcbb5641d29574ca3593d6a2b28585e444d1f0f548b7b2ae0",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2209559
+  },
+  "memes/sleep/0003_blanket.png": {
+    "category": "sleep",
+    "sha256": "07528912d401d410482df8e39bf3de2867021a8d172603b9c34148a97bbdcafe",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2023293
+  },
+  "memes/sleep/0004_alarm.png": {
+    "category": "sleep",
+    "sha256": "45000212a86a2f42d44dfbe28859f5abf7dd6a68c1650d7b6d7fdc2a23ace6fa",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2321336
+  },
+  "memes/affection/0001_affection.png": {
+    "category": "affection",
+    "sha256": "ce0d5e048560352d0f21691ccbed4cdcfe9b9b6c9899eae07825eccb75a8ce37",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2204750
+  },
+  "memes/affection/0002_pat.png": {
+    "category": "affection",
+    "sha256": "2dc2cdc91242e4e95a69ef912f731929d94344fd19dd51b8134d7d86b57b05f8",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2352754
+  },
+  "memes/affection/0003_hug.png": {
+    "category": "affection",
+    "sha256": "944017d3c65b34479a289ad8e3ec52d35b4a4ca1d8f505506cdab7d1022f32b7",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2164891
+  },
+  "memes/affection/0004_thanks.png": {
+    "category": "affection",
+    "sha256": "48787e5c0cd2781bf134e89a13e47ab9f0a3700f1dd0312501c795c2e932b2a0",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2280748
+  },
+  "memes/affection/0005_wave_heart.png": {
+    "category": "affection",
+    "sha256": "a13fb63830ee0efe4f85bb9e64b142eb003d7ab2df29c5b6bbf3c51c3e94d6f8",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2175253
+  },
+  "memes/affection/0006_pat_received.png": {
+    "category": "affection",
+    "sha256": "bcca64dd4fdef2787dbb510ee76b11fc445a64b926b497820a35f6d247175f73",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2248665
+  },
+  "memes/food/0001_food.png": {
+    "category": "food",
+    "sha256": "e40b087a6329ca7d3e91aecfd2df43730727015b69d1ebdfe6d68c5f8287c9df",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2274544
+  },
+  "memes/food/0002_drink.png": {
+    "category": "food",
+    "sha256": "3ae16a376485a040d462a66836da3d37c080f0de8d9116938806fafe86ac99b3",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2187435
+  },
+  "memes/food/0003_cake.png": {
+    "category": "food",
+    "sha256": "a22cb2e649f596102827e263d3d6537155fdb2a83741ea96daeabc4a74687461",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2340958
+  },
+  "memes/food/0004_omnom.png": {
+    "category": "food",
+    "sha256": "dc401e63d42d5cfb819a16dc257ecca02976a792055c3a2f5dac3f06751d0e96",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2305481
+  },
+  "memes/food/0005_snack.png": {
+    "category": "food",
+    "sha256": "795bbac29ed0640f3b5e2243b4c16178f9079e20ead5ff4f7da2353163407dc1",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2295522
+  },
+  "memes/food/0006_takeout.png": {
+    "category": "food",
+    "sha256": "c8838eff9fa1b1e1c75560fa6041c1ef3fd8ebabe318a35c6e651f9a50981313",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2228497
+  },
+  "memes/money/0001_money.png": {
+    "category": "money",
+    "sha256": "7d90638f0c56fc6335061b63ac9ff2847edb5f171652e7eb01d3ecdc41334590",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2273347
+  },
+  "memes/money/0002_payment.png": {
+    "category": "money",
+    "sha256": "97db2231c585a5ccb2588c5db06947a0497da936c4c30686a09152983076b55b",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2186150
+  },
+  "memes/money/0003_reward.png": {
+    "category": "money",
+    "sha256": "0dc723d4b87e2fb8c94c36c467e2be0499f686114cb964154120176a37159dae",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2315140
+  },
+  "memes/money/0004_budget.png": {
+    "category": "money",
+    "sha256": "1cb3ae64fea0001d74ed4cfa495afa5d62d3cc06c2e267ab60ef35408603416c",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2339182
+  },
+  "memes/money/0005_sponsor.png": {
+    "category": "money",
+    "sha256": "f2c4c2055900ccffc3cb73569f2267e9c46b92a21f63c9dfe5f97da9800d29e6",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2244603
+  },
+  "memes/money/0006_receipt.png": {
+    "category": "money",
+    "sha256": "24366985eb1ac08ddd880d832b1be3ff7536be6ab5de8ebbc1e834cda8788010",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2358222
+  },
+  "memes/greeting/0001_greeting.png": {
+    "category": "greeting",
+    "sha256": "13d2f1d8afa09f1bb3e9bd3d236dafcb448f81757cdc864cfe11140548a8ef4e",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2236838
+  },
+  "memes/greeting/0002_bye.png": {
+    "category": "greeting",
+    "sha256": "482fcf871dac68b48d1c6b7109a21ca0a49d982756fd5bbbc2a221e2c71836db",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2172910
+  },
+  "memes/greeting/0003_attention.png": {
+    "category": "greeting",
+    "sha256": "a62cb922f23ad04a29623dd6e0b60e8ad8b628301049c05c4baab4ff12756812",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2324266
+  },
+  "memes/greeting/0004_welcome.png": {
+    "category": "greeting",
+    "sha256": "54880874b259f84b3ab0b8f2d78ae60baec04ca6c54b5aa16e03d4c195e4e8ab",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2382920
+  },
+  "memes/greeting/0005_morning.png": {
+    "category": "greeting",
+    "sha256": "be923f1586dc01d08fdb1dd99595f76aa757b823cd530ddff411188de701654e",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2359287
+  },
+  "memes/greeting/0006_arrival.png": {
+    "category": "greeting",
+    "sha256": "f447cb44ba67534cbbb14b19dd58a3f7110f2e288f7360b501ff89ea51714610",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2174096
+  },
+  "memes/work/0001_work.png": {
+    "category": "work",
+    "sha256": "5e2df9f6f6eed83f12387071fee5281c61280bfb4a7e0d302dd646b6867ac40f",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2167413
+  },
+  "memes/work/0002_note.png": {
+    "category": "work",
+    "sha256": "ae037ca9240976d20edee76eecfa926a4a0fcd7f6a3abd482077ca023fcab4d2",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2220395
+  },
+  "memes/work/0003_troubleshoot.png": {
+    "category": "work",
+    "sha256": "30cea4f515e4613652b29212e968963b09ef1f5ad0a1fc915a8bde43afaffd2c",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2198251
+  },
+  "memes/work/0004_break.png": {
+    "category": "work",
+    "sha256": "8ef827a53dfa7adb029e059f5b6eff63ac14ccd6720d933177a2f159dffa53b8",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2170204
+  },
+  "memes/entertainment/0001_entertainment.png": {
+    "category": "entertainment",
+    "sha256": "1c163b87672b92558ffed4bbf10e10f7086c84e636b7e5d242a27a5c91cb44c6",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2291991
+  },
+  "memes/entertainment/0002_sing.png": {
+    "category": "entertainment",
+    "sha256": "f532c851fc67fa722767d5736a158349ffe4ed897e5924fe4109888fda3a8095",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2388234
+  },
+  "memes/entertainment/0003_dance.png": {
+    "category": "entertainment",
+    "sha256": "e7833a5180f069b75c43b7795ab966a57443e7409ff693ee67b498fcadc544f9",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2269696
+  },
+  "memes/entertainment/0004_photo.png": {
+    "category": "entertainment",
+    "sha256": "d966a50096b733ac88b2b772c6eb7b60338399288416bcfdb32cb9962b2a7034",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2293654
+  },
+  "memes/entertainment/0005_draw.png": {
+    "category": "entertainment",
+    "sha256": "8af89420689cbd657b3402a60fac04c2612dec82111bf7126869650c41e880ce",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2428350
+  },
+  "memes/entertainment/0006_read.png": {
+    "category": "entertainment",
+    "sha256": "21ff13dfd4e89ee1d6dfb1f9eda68028aea6e08490486c98ef1e248c61ac4958",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2213597
+  },
+  "memes/teasing/0001_teasing.png": {
+    "category": "teasing",
+    "sha256": "5c2e8906953dac0e8aebaad77f4e06253df1a858b8a1208beb4a5a6a3adc7fd0",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2211944
+  },
+  "memes/teasing/0002_tongue.png": {
+    "category": "teasing",
+    "sha256": "1b6faae343c9704bf125e12b5797e459b47f3dd971dcbce154e07737593fa238",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2261680
+  },
+  "memes/teasing/0003_prank.png": {
+    "category": "teasing",
+    "sha256": "0a734915dddb8459879265e19980676e17492bf7845fdaa473aeba159b584d2a",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2275319
+  },
+  "memes/teasing/0004_shrug.png": {
+    "category": "teasing",
+    "sha256": "3137fa74992e9332f6500f515665073d672f8404ccae67b822c38e0e29235b2e",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2211808
+  },
+  "memes/teasing/0005_smug.png": {
+    "category": "teasing",
+    "sha256": "89f02e9721d869fe61927334ac150f818d080b0e4bdb445900db19756e80ef98",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2332428
+  },
+  "memes/teasing/0006_clapback.png": {
+    "category": "teasing",
+    "sha256": "411cba425f5af01b2da58d93f453ebefc997b3ce22ce2a40dea067fd0300c012",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2187347
+  },
+  "memes/reply/0001_reply.png": {
+    "category": "reply",
+    "sha256": "2237d885f40a612c7b7a4c2e7f5a7306be361ecb9e5af0187542238abbcbfc26",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2300382
+  },
+  "memes/reply/0002_explain.png": {
+    "category": "reply",
+    "sha256": "f4f5ee51e2c93617f380665d41a2f478e11994591d025aaab16973aaef4c6441",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2252423
+  },
+  "memes/reply/0003_quiet.png": {
+    "category": "reply",
+    "sha256": "3f4632729cbdc7bb61818eebd41a0fcf94c4e94640c6685d1a8638571647603d",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2201094
+  },
+  "memes/reply/0004_agree.png": {
+    "category": "reply",
+    "sha256": "39a75780065179eb5e990df5092f47534ab3f6af56769283ae65871180848448",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2307755
+  },
+  "memes/reply/0005_deny.png": {
+    "category": "reply",
+    "sha256": "410874d27abf96a4610235ca79635cc265b960c6f8e9fd1b0148eff0f13fb763",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2185213
+  },
+  "memes/reply/0006_wait.png": {
+    "category": "reply",
+    "sha256": "2880c54d8079f82055e4250188edfd6ccbd494ed3637e9af3722f4927d02dc51",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2239826
+  },
+  "memes/comfort/0001_pat_back.png": {
+    "category": "comfort",
+    "sha256": "270845f8ad8cc899efd140bf5972bc61f9226beccb35d7b4f03194fcfb0c9b6c",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2230701
+  },
+  "memes/comfort/0002_tissue.png": {
+    "category": "comfort",
+    "sha256": "1835df086e35f28eb7fb55120a3d3e235f7d040f460a7df7a95d05747a11188d",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2237267
+  },
+  "memes/comfort/0003_hug_side.png": {
+    "category": "comfort",
+    "sha256": "f96d4ee85efeb57c6a456d507bd8bdd705dd0644d138b98ed6b1efc5857afde9",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2275618
+  },
+  "memes/comfort/0004_thumbs_up.png": {
+    "category": "comfort",
+    "sha256": "16412a64bc4dbeca5488f1ba66972bbc154fd0c8a71739f5f23c0f790ed63b8e",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2246570
+  },
+  "memes/comfort/0005_calm.png": {
+    "category": "comfort",
+    "sha256": "b4ad221dfd9421a66a67fd075a81a94899be7ef8d99b6851e1a869e8aa4ebdea",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2264526
+  },
+  "memes/comfort/0006_proud.png": {
+    "category": "comfort",
+    "sha256": "6393afb24fd399915e2012bbede08bce94e7aac899d88fc9836cd9dd42442bd1",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2298823
+  },
+  "memes/tired/0001_rubbing_eyes.png": {
+    "category": "tired",
+    "sha256": "a031d0aa815947d0ebdff238a43baf4e44b2bbd0cdfc87ca937ee00c08be7904",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2232426
+  },
+  "memes/tired/0002_slouch.png": {
+    "category": "tired",
+    "sha256": "773edc3ff7855edbd2fff62229cec62205e2dab3418d68b46f311a93430c60ce",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2003210
+  },
+  "memes/tired/0003_coffee.png": {
+    "category": "tired",
+    "sha256": "60d169b60816e490ce072c21f210636a9c07f0c7485cafffbe62855de5a96e29",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2202696
+  },
+  "memes/tired/0004_stretch.png": {
+    "category": "tired",
+    "sha256": "6ab3254eb3d7e3bff5b0ea4e5147785c760852b6a108317d92f7254c70a76a76",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2319345
+  },
+  "memes/tired/0005_bedtime.png": {
+    "category": "tired",
+    "sha256": "c92d3955561efa5a9ac6053b32b42bc0fc17efdb141e120553b581afbbc70899",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2156790
+  },
+  "memes/tired/0006_waiting.png": {
+    "category": "tired",
+    "sha256": "5c69af4414b6b6fd044ff51fdb28f25718dd8bcec0189d93a27684938461489c",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2140610
+  },
+  "memes/eating/0001_peel.png": {
+    "category": "eating",
+    "sha256": "a1785ad65eb55f092c16091a41548cd945915b6290592a64120bfd6f30e018fe",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2306149
+  },
+  "memes/eating/0002_bento.png": {
+    "category": "eating",
+    "sha256": "b6b22e9d6bf61a105a51c94921162d74b84089d4e2a04ef8e4eadeddeb86ba75",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2312310
+  },
+  "memes/eating/0003_noodles.png": {
+    "category": "eating",
+    "sha256": "42f9088917450929fac09e230675e03f7666144e6fad4c7dba56bbccd698caf8",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2316858
+  },
+  "memes/eating/0004_icecream.png": {
+    "category": "eating",
+    "sha256": "94e269697f5076fd39a6838ae319b69162e47e88570e6a7f8dba9932830e9df1",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2244782
+  },
+  "memes/eating/0005_cook.png": {
+    "category": "eating",
+    "sha256": "b47680cfd3fa974430c4a07004dcd1319efc6930251ef1620c106ab3bf82ad22",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2296285
+  },
+  "memes/eating/0006_cheers.png": {
+    "category": "eating",
+    "sha256": "4446b08bbec1918da4b6690b1c80c481bc824438bccca73f5a0f482a779e60ca",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2309939
+  },
+  "memes/tech/0001_loading.png": {
+    "category": "tech",
+    "sha256": "96e836e285c4826c44fb5b386776ef1abc61595f9b1cb60c6177f60676cd4cb5",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2218267
+  },
+  "memes/tech/0002_bug.png": {
+    "category": "tech",
+    "sha256": "ebc97f6039407fa616ee402cd50e6be30fc649ad21c016ec5c366d48456cab42",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2320985
+  },
+  "memes/tech/0003_success.png": {
+    "category": "tech",
+    "sha256": "3bee32da48af6787b05098c8f7ac47a05eacc2ec3c67fd8ee6844d1859201271",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2413368
+  },
+  "memes/tech/0004_code.png": {
+    "category": "tech",
+    "sha256": "0cb6ce38e5e4ce7dc697d8650082f75260e5332e8c0e29b36f273c1b1a887e95",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2158311
+  },
+  "memes/tech/0005_server.png": {
+    "category": "tech",
+    "sha256": "1a8684d2e1f6a37b04327267bce1312b460ca5c205ab70c7b2949eeadccbf583",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2360078
+  },
+  "memes/tech/0006_error.png": {
+    "category": "tech",
+    "sha256": "0065e8a82225fe866ccfc5eecc9269776d2570b0cf02e62782c656793f515308",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2189745
+  },
+  "memes/mischief/0001_peekaboo.png": {
+    "category": "mischief",
+    "sha256": "68d886bcb1787503f653d163c46889df6e609f95a91f59755a2fbc1a23ed8902",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2085552
+  },
+  "memes/mischief/0002_prank_button.png": {
+    "category": "mischief",
+    "sha256": "063508f8f9fa1004060d5ee9dfec64094babe34cabd1b928ab416e36028eaf6c",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2264069
+  },
+  "memes/mischief/0003_caught.png": {
+    "category": "mischief",
+    "sha256": "911326cc3e0046490884b297449080341027a7496764610a380b4ff67a52decf",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2186092
+  },
+  "memes/mischief/0004_cool.png": {
+    "category": "mischief",
+    "sha256": "22a3cd174a7fda6808c166cbb62ee22263ebe59a7f98d9b3610c1e8c2b15c678",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2340849
+  },
+  "memes/mischief/0005_tongue.png": {
+    "category": "mischief",
+    "sha256": "ca1f90fa3124fde998aeb8ba52971f37b6a12078bf0552b894a338c585fa1da2",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 2215892
+  },
+  "memes/mischief/0006_hide.png": {
+    "category": "mischief",
+    "sha256": "b054478beed771e1d609bad1bffb64e8a770f6e94f47f93ab9a0dcfd67b42a73",
+    "width": 1254,
+    "height": 1254,
+    "frames": 1,
+    "duration_ms": null,
+    "bytes": 1956775
+  }
+}
