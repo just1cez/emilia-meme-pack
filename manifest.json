@@ -6,7 +6,7 @@
   "description": "120 张 AI 生成的爱蜜莉雅 Q版透明表情，覆盖 21 个分类；附逐图视觉核对的中文画面描述、聊天用途和动作标签。",
   "author": "Codex + OpenAI Image Generation",
   "homepage": "https://github.com/just1cez/emilia-meme-pack",
-  "license": "项目代码与元数据见 LICENSE（MIT）；角色图片及第三方权利说明见 ASSET_NOTICE.md。",
+  "license": "项目代码与元数据见 LICENSE（MIT）；角色图片相关说明见 README.md。",
   "source": {
     "type": "github",
     "repo": "just1cez/emilia-meme-pack",

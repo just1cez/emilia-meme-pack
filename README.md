@@ -42,5 +42,5 @@
 
 爱蜜莉雅、Re:Zero 及相关角色形象属于原权利人。本包是非官方 AI 生成同人资源，仅建议个人非商业使用；发布或再分发前请自行确认当地法律和原作者/权利人的要求。
 
-项目代码与元数据的 MIT 许可见 [LICENSE](LICENSE)。角色图片及第三方权利说明见 [ASSET_NOTICE.md](ASSET_NOTICE.md)，MIT 许可不代表角色权利人的授权。
+项目代码与元数据的 MIT 许可见 [LICENSE](LICENSE)。
 
