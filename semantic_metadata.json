@@ -7,1904 +7,2161 @@
       "content_sha256": "ce0d5e048560352d0f21691ccbed4cdcfe9b9b6c9899eae07825eccb75a8ce37",
       "relative_path": "memes/affection/0001_affection.png",
       "category": "affection",
-      "caption": "爱蜜莉雅 Q版亲近表情：affection动作。",
+      "caption": "爱蜜莉雅闭眼笑着，双手在胸前比出爱心，周围浮着粉色小心心。适合直接表达喜欢、爱你、感谢陪伴和甜蜜回应。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "affection"
+        "双手比心",
+        "爱你",
+        "表达喜欢",
+        "甜蜜回应",
+        "粉色爱心",
+        "闭眼微笑"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "3e0ba5abcdaa5fb7e0cf32d1fe9c4537c5813295665b07841d6baff8b6716d83": {
       "entry_id": "3e0ba5abcdaa5fb7e0cf32d1fe9c4537c5813295665b07841d6baff8b6716d83",
       "content_sha256": "2dc2cdc91242e4e95a69ef912f731929d94344fd19dd51b8134d7d86b57b05f8",
       "relative_path": "memes/affection/0002_pat.png",
       "category": "affection",
-      "caption": "爱蜜莉雅 Q版亲近表情：pat动作。",
+      "caption": "爱蜜莉雅睁着闪亮的眼睛，笑着把两只手向前伸出，手掌朝下。适合撒娇求关注、伸手要抱抱，或以伸手动作表达亲近。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "affection",
-        "pat"
+        "双手前伸",
+        "撒娇",
+        "求关注",
+        "求抱抱",
+        "亲近互动",
+        "星星眼"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "b0574eaecf6fd164e7eb1ec4ec44c2e37ffcac217b9a6a6e31e0c8129abc612a": {
       "entry_id": "b0574eaecf6fd164e7eb1ec4ec44c2e37ffcac217b9a6a6e31e0c8129abc612a",
       "content_sha256": "944017d3c65b34479a289ad8e3ec52d35b4a4ca1d8f505506cdab7d1022f32b7",
       "relative_path": "memes/affection/0003_hug.png",
       "category": "affection",
-      "caption": "爱蜜莉雅 Q版亲近表情：hug动作。",
+      "caption": "爱蜜莉雅闭眼露出满足的笑容，把紫色心形抱枕紧紧抱在怀里，周围都是爱心。适合表达珍惜、喜欢得舍不得放手、想抱抱和获得陪伴后的幸福。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "affection",
-        "hug"
+        "抱心形抱枕",
+        "紧紧抱住",
+        "珍惜",
+        "舍不得放手",
+        "幸福满足",
+        "想抱抱"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "a9275226d6082426fa751411d3eea67a47bffd6a998f771e82b88fec4c2cd6a5": {
       "entry_id": "a9275226d6082426fa751411d3eea67a47bffd6a998f771e82b88fec4c2cd6a5",
       "content_sha256": "48787e5c0cd2781bf134e89a13e47ab9f0a3700f1dd0312501c795c2e932b2a0",
       "relative_path": "memes/affection/0004_thanks.png",
       "category": "affection",
-      "caption": "爱蜜莉雅 Q版亲近表情：thanks动作。",
+      "caption": "爱蜜莉雅在胸前合起双手，眼睛发亮，笑容温柔，身边点缀小花和星光。适合真诚道谢、感谢帮助、感激对方的心意。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "affection",
-        "thanks"
+        "双手合十",
+        "谢谢你",
+        "感谢帮助",
+        "感激",
+        "小花",
+        "温柔笑容"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "d0743e2e997bebdbfcb5c5d0abb8467fd1dfdbcd8319db35f51ce6d88a9cb967": {
       "entry_id": "d0743e2e997bebdbfcb5c5d0abb8467fd1dfdbcd8319db35f51ce6d88a9cb967",
       "content_sha256": "a13fb63830ee0efe4f85bb9e64b142eb003d7ab2df29c5b6bbf3c51c3e94d6f8",
       "relative_path": "memes/affection/0005_wave_heart.png",
       "category": "affection",
-      "caption": "爱蜜莉雅 Q版亲近表情：wave heart动作。",
+      "caption": "爱蜜莉雅俏皮地眨一只眼，一只手向前摊开，另一只手托着发亮的粉色爱心。适合送你一颗心、主动示好、传递喜欢和甜蜜互动。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "affection",
-        "wave heart"
+        "递出爱心",
+        "送你爱心",
+        "主动示好",
+        "眨眼",
+        "摊手前伸",
+        "甜蜜互动"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "00636d6f16d566797c42ede85b6648f4ece3afe450f692e2307eeb7f19386d02": {
       "entry_id": "00636d6f16d566797c42ede85b6648f4ece3afe450f692e2307eeb7f19386d02",
       "content_sha256": "bcca64dd4fdef2787dbb510ee76b11fc445a64b926b497820a35f6d247175f73",
       "relative_path": "memes/affection/0006_pat_received.png",
       "category": "affection",
-      "caption": "爱蜜莉雅 Q版亲近表情：pat received动作。",
+      "caption": "爱蜜莉雅双手托着脸颊，闭眼微笑，脸颊泛红，周围飘着粉色爱心。适合收到夸奖或关心后的幸福、被宠爱的满足和甜甜地回应。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "affection",
-        "pat received"
+        "双手托腮",
+        "被宠爱",
+        "收到夸奖",
+        "幸福满足",
+        "脸红",
+        "闭眼微笑"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "7bec834dca0f6bca5cf7e478d31b8896cf1c41398cb3aa4402a72dbcddac5be2": {
       "entry_id": "7bec834dca0f6bca5cf7e478d31b8896cf1c41398cb3aa4402a72dbcddac5be2",
       "content_sha256": "270352633cb57c410acabfa445c6504c2ed5cecbacdb875130d63de3aa8a8bd5",
       "relative_path": "memes/angry/0001_angry.png",
       "category": "angry",
-      "caption": "爱蜜莉雅 Q版生气表情：angry动作。",
+      "caption": "爱蜜莉雅皱眉鼓起脸颊，两只拳头攥在胸前，头侧出现红色生气符号和小气团。适合表达正在生气、对事情不满或可爱地抗议。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "angry"
+        "生气",
+        "鼓脸",
+        "胸前握拳",
+        "不满",
+        "抗议",
+        "红色怒气符号"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "b2ef27fc6c76cb2a338cf544fb7c592152d953152816c5c17c53e2fb08e0bdf2": {
       "entry_id": "b2ef27fc6c76cb2a338cf544fb7c592152d953152816c5c17c53e2fb08e0bdf2",
       "content_sha256": "24263b1e1cfaa2cd457090106ed6b8aa4e797557994be7ad52066fc1ac1154f7",
       "relative_path": "memes/angry/0002_stomp.png",
       "category": "angry",
-      "caption": "爱蜜莉雅 Q版生气表情：stomp动作。",
+      "caption": "爱蜜莉雅全身站立，鼓着脸攥紧拳头，一只脚用力跺地，脚边有冲击线，头顶冒着火苗。适合急得跺脚、气不过、强烈抗议或闹小脾气。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "angry",
-        "stomp"
+        "跺脚",
+        "气不过",
+        "强烈抗议",
+        "闹脾气",
+        "握拳",
+        "火苗",
+        "全身站姿"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "2c9db84f22c78c09684e822b2fc6076ecbb283027928942eed50117795fc3f7d": {
       "entry_id": "2c9db84f22c78c09684e822b2fc6076ecbb283027928942eed50117795fc3f7d",
       "content_sha256": "00f16d4db82606df713f45ae67c1a4cbbd873a9360bbbec318fa746143e1f28d",
       "relative_path": "memes/angry/0003_shout.png",
       "category": "angry",
-      "caption": "爱蜜莉雅 Q版生气表情：shout动作。",
+      "caption": "爱蜜莉雅皱着眉张大嘴，两只手拢在嘴边大声喊，旁边有放射线和气团。适合喊话制止、提高音量表达不满、催人注意自己的抗议。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "angry",
-        "shout"
+        "大声喊叫",
+        "双手拢嘴",
+        "喊话制止",
+        "愤怒喊话",
+        "抗议",
+        "放射线"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "cc5654bba80665f88d6297bd437c79d642e79f32ae935e33c188567186116f3e": {
       "entry_id": "cc5654bba80665f88d6297bd437c79d642e79f32ae935e33c188567186116f3e",
       "content_sha256": "b6b27a5153676ee3f6840176c7fa724f322e398a6fa1b11c76914ea8ff0a523f",
       "relative_path": "memes/angry/0004_warning.png",
       "category": "angry",
-      "caption": "爱蜜莉雅 Q版生气表情：warning动作。",
+      "caption": "爱蜜莉雅神情严肃地张嘴，举起一把玩具木槌，另一只手攥成拳头。适合开玩笑地警告、提醒别再闹、制止越界和表达要敲打一下。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "angry",
-        "warning"
+        "举木槌",
+        "玩笑警告",
+        "别再闹",
+        "提醒收敛",
+        "严肃表情",
+        "制止"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "767f3e3475246977484c4caf203b39bc6c4d5d325df67c353f055c0bd77b1095": {
       "entry_id": "767f3e3475246977484c4caf203b39bc6c4d5d325df67c353f055c0bd77b1095",
       "content_sha256": "f3aba24a7d4c55fb77588a4bb4cf808f6a9b22218011f0e4450d30d28e103019",
       "relative_path": "memes/angry/0005_crossed_arms.png",
       "category": "angry",
-      "caption": "爱蜜莉雅 Q版生气表情：crossed arms动作。",
+      "caption": "爱蜜莉雅双臂抱在胸前，皱眉鼓脸，头侧冒出小气团。适合赌气、不服气、暂时不想理人和坚持自己的反对意见。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "angry",
-        "crossed arms"
+        "双臂抱胸",
+        "赌气",
+        "不服气",
+        "不想理人",
+        "反对",
+        "鼓脸"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "c86e1dd1fc705de21af7143d1724470ba976ead37e280c413bce7d27c64c1304": {
       "entry_id": "c86e1dd1fc705de21af7143d1724470ba976ead37e280c413bce7d27c64c1304",
       "content_sha256": "a7f7e8ebb1b3b18835c6667db0b6ab52f0dd65105af76c34a0991430854ee00c",
       "relative_path": "memes/angry/0006_steam.png",
       "category": "angry",
-      "caption": "爱蜜莉雅 Q版生气表情：steam动作。",
+      "caption": "爱蜜莉雅把两只拳头举在脸颊旁，皱眉鼓脸，头顶和两侧冒出多团蒸汽状怒气。适合气得冒烟、憋着一肚子气、被反复惹恼。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "angry",
-        "steam"
+        "气得冒烟",
+        "脸旁握拳",
+        "多团怒气",
+        "被惹恼",
+        "憋气",
+        "鼓脸"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "4029ca9e3585b4f5827850885ca69a9163d6d5aa85e2c92d80366a3a4ee13b3a": {
       "entry_id": "4029ca9e3585b4f5827850885ca69a9163d6d5aa85e2c92d80366a3a4ee13b3a",
       "content_sha256": "f40b6396359d4d83a462c01f834fe42cec9a7fcf4e1d6376107709c958df69f9",
       "relative_path": "memes/approval/0001_approval.png",
       "category": "approval",
-      "caption": "爱蜜莉雅 Q版认可表情：approval动作。",
+      "caption": "爱蜜莉雅开心地同时竖起两个大拇指，眼睛闪亮，手边带着黄色强调线。适合称赞做得好、强烈认可、给对方点赞。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "approval"
+        "双手点赞",
+        "做得好",
+        "强烈认可",
+        "称赞",
+        "两个大拇指",
+        "开心"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "c6fede49bc4543364501ece3b0b7158589d33d1e7c7fb88e5b5e0a1a73d529a1": {
       "entry_id": "c6fede49bc4543364501ece3b0b7158589d33d1e7c7fb88e5b5e0a1a73d529a1",
       "content_sha256": "4fa482a9eba014272dbe268f00a7b4b9c126d7001ba3d4646eb57ec2ee76519d",
       "relative_path": "memes/approval/0002_ok_sign.png",
       "category": "approval",
-      "caption": "爱蜜莉雅 Q版认可表情：ok sign动作。",
+      "caption": "爱蜜莉雅微笑着在脸旁用双手比出 OK 手势，拇指和食指圈成圆。适合确认没问题、答应请求、表示可以照办。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "approval",
-        "ok sign"
+        "OK手势",
+        "没问题",
+        "可以照办",
+        "答应请求",
+        "确认可行",
+        "双手画圈"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "6a502cc5ef2e721edc92ef7093dcb06b1a1fd1eaa450129e1638aca5fc7f9eda": {
       "entry_id": "6a502cc5ef2e721edc92ef7093dcb06b1a1fd1eaa450129e1638aca5fc7f9eda",
       "content_sha256": "a0591bb3e3b340e2a4b2afe565292f9a72c9619e5781fcf934f77933f5e31632",
       "relative_path": "memes/approval/0003_pointing.png",
       "category": "approval",
-      "caption": "爱蜜莉雅 Q版认可表情：pointing动作。",
+      "caption": "爱蜜莉雅笑着向斜前方伸出食指，指尖旁有金黄色对勾，另一只手握拳。适合指出正确选项、肯定某个答案、表示就是这个。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "approval",
-        "pointing"
+        "指向对勾",
+        "就是这个",
+        "答案正确",
+        "选定方案",
+        "食指指点",
+        "肯定"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "6cf7cdfff01812093b39b429327277d4faa92597b6595db8e002c6dd0bdd8f77": {
       "entry_id": "6cf7cdfff01812093b39b429327277d4faa92597b6595db8e002c6dd0bdd8f77",
       "content_sha256": "5e0c1d6f092197e5e9b81e879a940e326153c6d4e6e6d454cc4d68330870ba6f",
       "relative_path": "memes/approval/0004_high_five.png",
       "category": "approval",
-      "caption": "爱蜜莉雅 Q版认可表情：high five动作。",
+      "caption": "爱蜜莉雅笑着向前伸出一只张开的手掌，另一只手在胸前握拳。适合邀请击掌、庆祝合作成功、给伙伴加油。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "approval",
-        "high five"
+        "伸掌击掌",
+        "合作成功",
+        "击个掌",
+        "伙伴鼓励",
+        "庆祝配合",
+        "手掌朝前"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "b96b9d070334c2236684f182ca40264916d5d01058db9bc812d11db938a8bebf": {
       "entry_id": "b96b9d070334c2236684f182ca40264916d5d01058db9bc812d11db938a8bebf",
       "content_sha256": "8db473cb05b408d61d4eec1cd4fb741da5f4250866ab598177ff6d10852c56ca",
       "relative_path": "memes/approval/0005_clap.png",
       "category": "approval",
-      "caption": "爱蜜莉雅 Q版认可表情：clap动作。",
+      "caption": "爱蜜莉雅睁眼笑着，两只手在胸前相拍，手边有黄色拍手动效。适合为别人鼓掌、赞赏表现、祝贺对方完成任务。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "approval",
-        "clap"
+        "鼓掌称赞",
+        "赞赏表现",
+        "祝贺对方",
+        "拍手",
+        "睁眼微笑",
+        "干得漂亮"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "e9e2f946868e100ea39a8d024fc16645959f4f6e52156299ce5b764fa9730abf": {
       "entry_id": "e9e2f946868e100ea39a8d024fc16645959f4f6e52156299ce5b764fa9730abf",
       "content_sha256": "c0d054450ac53cb2e888c0b6718022320cdcbe63964c4c967cac27ab7ee8878e",
       "relative_path": "memes/approval/0006_salute.png",
       "category": "approval",
-      "caption": "爱蜜莉雅 Q版认可表情：salute动作。",
+      "caption": "爱蜜莉雅笑着把一只手举到额旁敬礼，另一只手握在胸前。适合收到指令后回应、认真领命、表示保证完成或致敬。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "approval",
-        "salute"
+        "敬礼",
+        "收到指令",
+        "领命",
+        "保证完成",
+        "致敬",
+        "额旁举手"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "bbdcbeba84a4f4451b180aafaaed051be5c681a492cd7689fd04a013b29666a4": {
       "entry_id": "bbdcbeba84a4f4451b180aafaaed051be5c681a492cd7689fd04a013b29666a4",
       "content_sha256": "270845f8ad8cc899efd140bf5972bc61f9226beccb35d7b4f03194fcfb0c9b6c",
       "relative_path": "memes/comfort/0001_pat_back.png",
       "category": "comfort",
-      "caption": "爱蜜莉雅 Q版安慰表情：pat back动作。",
+      "caption": "爱蜜莉雅微笑着，双手轻搭在身前一块浅紫色抱枕状软垫上，神情温柔。适合轻声安抚、陪对方缓一缓、表达可以安心休息。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "comfort",
-        "pat back"
+        "温柔安抚",
+        "陪你缓缓",
+        "安心休息",
+        "浅紫色软垫",
+        "轻搭双手",
+        "温柔微笑"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "7b906819888f5b41bf6819e8aab4c865140d11bbb25c327eb05f9f58b09d7efd": {
       "entry_id": "7b906819888f5b41bf6819e8aab4c865140d11bbb25c327eb05f9f58b09d7efd",
       "content_sha256": "1835df086e35f28eb7fb55120a3d3e235f7d040f460a7df7a95d05747a11188d",
       "relative_path": "memes/comfort/0002_tissue.png",
       "category": "comfort",
-      "caption": "爱蜜莉雅 Q版安慰表情：tissue动作。",
+      "caption": "爱蜜莉雅微笑着向前递出一块带花纹的白色手帕，另一只手握在胸前。适合递纸巾式安慰、劝对方擦擦眼泪、关心难过的人。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "comfort",
-        "tissue"
+        "递手帕",
+        "擦擦眼泪",
+        "别哭了",
+        "安慰对方",
+        "关心难过的人",
+        "白色手帕"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "354d6e7ba59f199f324ab16e86a67fd8730c81e7aae0d88e0fa2e7e3f4ee3401": {
       "entry_id": "354d6e7ba59f199f324ab16e86a67fd8730c81e7aae0d88e0fa2e7e3f4ee3401",
       "content_sha256": "f96d4ee85efeb57c6a456d507bd8bdd705dd0644d138b98ed6b1efc5857afde9",
       "relative_path": "memes/comfort/0003_hug_side.png",
       "category": "comfort",
-      "caption": "爱蜜莉雅 Q版安慰表情：hug side动作。",
+      "caption": "爱蜜莉雅笑着向前张开双臂和手掌，周围飘着粉色爱心。适合主动邀请拥抱、表达我在这里、欢迎对方来寻求安慰。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "comfort",
-        "hug side"
+        "张开双臂",
+        "来抱抱",
+        "我在这里",
+        "主动安慰",
+        "敞开怀抱",
+        "粉色爱心"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "b344f7cc8b890d3fd9782f75a723a57cbdf9488c48d9636d948a8a6f12bdb55d": {
       "entry_id": "b344f7cc8b890d3fd9782f75a723a57cbdf9488c48d9636d948a8a6f12bdb55d",
       "content_sha256": "16412a64bc4dbeca5488f1ba66972bbc154fd0c8a71739f5f23c0f790ed63b8e",
       "relative_path": "memes/comfort/0004_thumbs_up.png",
       "category": "comfort",
-      "caption": "爱蜜莉雅 Q版安慰表情：thumbs up动作。",
+      "caption": "爱蜜莉雅笑着把两只小拳头举在胸前，眼睛明亮，周围有黄色振奋线条。适合给正在努力的人打气、表达你可以的、鼓励再试一次。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "comfort",
-        "thumbs up"
+        "双拳打气",
+        "你可以的",
+        "再试一次",
+        "为你加油",
+        "鼓励努力",
+        "振奋"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "ab0a62fbfa359a61556b27c08f7e02e4dc2d31054514c84281285e63da79bad2": {
       "entry_id": "ab0a62fbfa359a61556b27c08f7e02e4dc2d31054514c84281285e63da79bad2",
       "content_sha256": "b4ad221dfd9421a66a67fd075a81a94899be7ef8d99b6851e1a869e8aa4ebdea",
       "relative_path": "memes/comfort/0005_calm.png",
       "category": "comfort",
-      "caption": "爱蜜莉雅 Q版安慰表情：calm动作。",
+      "caption": "爱蜜莉雅微笑着向前伸出双手，手掌展开，旁边有轻晃的动作线和小爱心。适合温和地劝人别急、慢慢来、先放轻松。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "comfort",
-        "calm"
+        "双手安抚",
+        "别着急",
+        "慢慢来",
+        "放轻松",
+        "温和劝慰",
+        "展开手掌"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "8cf77d93d003e641908e5c8bf068a62b19e0d2e24f42969840f8dc6a26d9d93a": {
       "entry_id": "8cf77d93d003e641908e5c8bf068a62b19e0d2e24f42969840f8dc6a26d9d93a",
       "content_sha256": "6393afb24fd399915e2012bbede08bce94e7aac899d88fc9836cd9dd42442bd1",
       "relative_path": "memes/comfort/0006_proud.png",
       "category": "comfort",
-      "caption": "爱蜜莉雅 Q版安慰表情：proud动作。",
+      "caption": "爱蜜莉雅微笑着把一只手轻放在胸口，身边点缀爱心和星光。适合由衷欣慰、为对方感到骄傲、表达真心支持和温柔肯定。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "comfort",
-        "proud"
+        "手放心口",
+        "由衷欣慰",
+        "为你骄傲",
+        "真心支持",
+        "温柔肯定",
+        "微笑"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "9f4536f64b2b7656bec07b389c289c9ee3bc0f3095c3eed1a675a23f8505ab6b": {
       "entry_id": "9f4536f64b2b7656bec07b389c289c9ee3bc0f3095c3eed1a675a23f8505ab6b",
       "content_sha256": "9c61252db243f59ff8120b3490dfee3138f0f0262f6851f8e6fc5ad2ff7a8ca6",
       "relative_path": "memes/confused/0001_confused.png",
       "category": "confused",
-      "caption": "爱蜜莉雅 Q版困惑表情：confused动作。",
+      "caption": "爱蜜莉雅歪着头，食指抵在下巴附近，微张着嘴，头旁浮着一个问号。适合没听懂、询问什么意思、对一件事感到疑惑。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "confused"
+        "歪头疑惑",
+        "什么意思",
+        "没听懂",
+        "单个问号",
+        "手指抵下巴",
+        "请求解释"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "3a89c5f4a1182e8478730db73ee591ace44a44bb18107f6f50240a0a243c8394": {
       "entry_id": "3a89c5f4a1182e8478730db73ee591ace44a44bb18107f6f50240a0a243c8394",
       "content_sha256": "ae6558524125b9dfe0a0c0bf0b70093c67c2854c31bf1cf41d841780705fd1a7",
       "relative_path": "memes/confused/0002_loading.png",
       "category": "confused",
-      "caption": "爱蜜莉雅 Q版困惑表情：loading动作。",
+      "caption": "爱蜜莉雅歪头发呆，一只手停在下巴旁，头顶浮着环形加载图案。适合脑子还没转过来、正在思考、需要时间消化信息。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "confused",
-        "loading"
+        "脑内加载",
+        "让我想想",
+        "反应迟缓",
+        "消化信息",
+        "环形加载图案",
+        "歪头发呆"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "8c37798378b6879a1f21a5a71fdb4691288e2020dc3d197c7582eb057a3c0152": {
       "entry_id": "8c37798378b6879a1f21a5a71fdb4691288e2020dc3d197c7582eb057a3c0152",
       "content_sha256": "9f656e98f35499aaf9a75d7f25ca1468e97986abeed85d9511984090530416b2",
       "relative_path": "memes/confused/0003_choice.png",
       "category": "confused",
-      "caption": "爱蜜莉雅 Q版困惑表情：choice动作。",
+      "caption": "爱蜜莉雅两只手分别拿着一张空白卡片，眼神偏向一边，嘴角紧张，脸上有汗滴，左右浮着问号。适合二选一、选择困难、拿不定主意。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "confused",
-        "choice"
+        "二选一",
+        "选择困难",
+        "两张空白卡片",
+        "犹豫",
+        "拿不定主意",
+        "冒汗"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "358783a5828f862854a4237471dafd2e22f653efcbbcfb044c091ce76a0512a8": {
       "entry_id": "358783a5828f862854a4237471dafd2e22f653efcbbcfb044c091ce76a0512a8",
       "content_sha256": "e46f1a8e8f243850eba8f53baca0a21c6187da8477df9ec15c8de563b53bfe0d",
       "relative_path": "memes/confused/0004_facepalm.png",
       "category": "confused",
-      "caption": "爱蜜莉雅 Q版困惑表情：facepalm动作。",
+      "caption": "爱蜜莉雅用一只手扶住额头，嘴微张，脸旁冒着汗，表情有些窘迫。适合看见低级失误后扶额、被问题难住、无奈地表示头疼。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "confused",
-        "facepalm"
+        "扶额",
+        "头疼",
+        "无奈",
+        "低级失误",
+        "窘迫",
+        "冒汗"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "f3b9467d52355c34f37203ce1ac8b35f01c631419739efb46efcf6d945aa3964": {
       "entry_id": "f3b9467d52355c34f37203ce1ac8b35f01c631419739efb46efcf6d945aa3964",
       "content_sha256": "d40d8e4854dabb9fdf4994e462edb598859d14739ebe03e6fc8008c18d72f873",
       "relative_path": "memes/confused/0005_manual.png",
       "category": "confused",
-      "caption": "爱蜜莉雅 Q版困惑表情：manual动作。",
+      "caption": "爱蜜莉雅捧着一本展开的图解说明书，另一只手抵着下巴，头旁出现问号。适合看不懂说明、研究操作步骤、询问怎么使用。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "confused",
-        "manual"
+        "看说明书",
+        "怎么使用",
+        "研究步骤",
+        "看不懂教程",
+        "图解手册",
+        "问号"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "721507b0acb0d644751f2893735b18e2ce7c6948f4b512266ef36a585e032c49": {
       "entry_id": "721507b0acb0d644751f2893735b18e2ce7c6948f4b512266ef36a585e032c49",
       "content_sha256": "bbad83dd56ae91e64b2878e86c6a2ebf2157a8cf10f12590eec8a91316925b4d",
       "relative_path": "memes/confused/0006_split.png",
       "category": "confused",
-      "caption": "爱蜜莉雅 Q版困惑表情：split动作。",
+      "caption": "爱蜜莉雅把两根食指放在脸颊旁思考，左右分别出现蓝色左箭头和粉色右箭头，头顶有问号。适合纠结方向、面对两条路线、在不同方案之间摇摆。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "confused",
-        "split"
+        "左右箭头",
+        "方向选择",
+        "两条路线",
+        "方案纠结",
+        "左右为难",
+        "思考"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "3608e3b6f815d16ab41ece9636304511f704453823a6dcff0bf272306358b82f": {
       "entry_id": "3608e3b6f815d16ab41ece9636304511f704453823a6dcff0bf272306358b82f",
       "content_sha256": "a1785ad65eb55f092c16091a41548cd945915b6290592a64120bfd6f30e018fe",
       "relative_path": "memes/eating/0001_peel.png",
       "category": "eating",
-      "caption": "爱蜜莉雅 Q版进食表情：peel动作。",
+      "caption": "爱蜜莉雅笑着捧住橘子，另一只手正在拉开长长的橘皮，露出里面的果肉。适合剥橘子、吃水果、分享水果和轻松的日常互动。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "eating",
-        "peel"
+        "剥橘子",
+        "橘子皮",
+        "吃水果",
+        "分享水果",
+        "日常小事",
+        "开心"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "0369c3b8f78af441fee3077778d914f5d5467ee5c363b2ec6a145c6d2dadbc5d": {
       "entry_id": "0369c3b8f78af441fee3077778d914f5d5467ee5c363b2ec6a145c6d2dadbc5d",
       "content_sha256": "b6b22e9d6bf61a105a51c94921162d74b84089d4e2a04ef8e4eadeddeb86ba75",
       "relative_path": "memes/eating/0002_bento.png",
       "category": "eating",
-      "caption": "爱蜜莉雅 Q版进食表情：bento动作。",
+      "caption": "爱蜜莉雅开心地双手端出一个敞开的便当盒，里面装着饭团、蔬菜和配菜。适合晒午饭、邀请吃便当、展示准备好的餐食。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "eating",
-        "bento"
+        "便当盒",
+        "饭团",
+        "午饭时间",
+        "晒午饭",
+        "给你便当",
+        "准备好饭菜"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "607060f1c8e127fe9dc166feda5b0d10e4bc492d4a34b6f1f4b63a4dfb9768e6": {
       "entry_id": "607060f1c8e127fe9dc166feda5b0d10e4bc492d4a34b6f1f4b63a4dfb9768e6",
       "content_sha256": "42f9088917450929fac09e230675e03f7666144e6fad4c7dba56bbccd698caf8",
       "relative_path": "memes/eating/0003_noodles.png",
       "category": "eating",
-      "caption": "爱蜜莉雅 Q版进食表情：noodles动作。",
+      "caption": "爱蜜莉雅一手端着热汤面碗，一手拿筷子，把长面条送进嘴里，碗上冒着热气。适合正在嗦面、吃热乎的饭、忙着吃东西。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "eating",
-        "noodles"
+        "嗦面",
+        "热汤面",
+        "筷子夹面",
+        "正在吃饭",
+        "热气",
+        "面碗"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "f2a22da5a8f7e23213f2994d14a7c4cad5f8ea24acc3bd8637b848a5e16e5a21": {
       "entry_id": "f2a22da5a8f7e23213f2994d14a7c4cad5f8ea24acc3bd8637b848a5e16e5a21",
       "content_sha256": "94e269697f5076fd39a6838ae319b69162e47e88570e6a7f8dba9932830e9df1",
       "relative_path": "memes/eating/0004_icecream.png",
       "category": "eating",
-      "caption": "爱蜜莉雅 Q版进食表情：icecream动作。",
+      "caption": "爱蜜莉雅一手拿着紫色冰淇淋甜筒，另一只手用小勺舀起冰淇淋送到嘴边，脸颊微鼓。适合吃冰淇淋、享受甜品、夏日解馋。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "eating",
-        "icecream"
+        "勺子吃冰淇淋",
+        "紫色甜筒",
+        "冰淇淋",
+        "享受甜品",
+        "夏日解馋",
+        "脸颊微鼓"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "bcdb6f043fffc1964500bb00c5077e20b5999648a4508f66b0b67857fadd0452": {
       "entry_id": "bcdb6f043fffc1964500bb00c5077e20b5999648a4508f66b0b67857fadd0452",
       "content_sha256": "b47680cfd3fa974430c4a07004dcd1319efc6930251ef1620c106ab3bf82ad22",
       "relative_path": "memes/eating/0005_cook.png",
       "category": "eating",
-      "caption": "爱蜜莉雅 Q版进食表情：cook动作。",
+      "caption": "爱蜜莉雅笑着举起锅铲，身前的锅里盛着蔬菜和食物，热气正在升起。适合正在做饭、准备开餐、分享烹饪进度。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "eating",
-        "cook"
+        "举锅铲",
+        "正在做饭",
+        "烹饪",
+        "一锅食物",
+        "准备开餐",
+        "热气"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "4bcfb17c0e1a6e70ac8a59d76cf3689646413d6f2d931ce9e50f956a4642b068": {
       "entry_id": "4bcfb17c0e1a6e70ac8a59d76cf3689646413d6f2d931ce9e50f956a4642b068",
       "content_sha256": "4446b08bbec1918da4b6690b1c80c481bc824438bccca73f5a0f482a779e60ca",
       "relative_path": "memes/eating/0006_cheers.png",
       "category": "eating",
-      "caption": "爱蜜莉雅 Q版进食表情：cheers动作。",
+      "caption": "爱蜜莉雅眨着一只眼，笑着向前举起装有粉色饮品和水果片的高脚杯。适合举杯庆祝、一起干杯、庆祝相聚和完成一件事。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "eating",
-        "cheers"
+        "举杯干杯",
+        "水果饮品",
+        "高脚杯",
+        "庆祝相聚",
+        "眨眼",
+        "碰个杯"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "ad346222d495a57f78cc334631a5797e2e0165c9f36e5836716d1e3d394480a1": {
       "entry_id": "ad346222d495a57f78cc334631a5797e2e0165c9f36e5836716d1e3d394480a1",
       "content_sha256": "1c163b87672b92558ffed4bbf10e10f7086c84e636b7e5d242a27a5c91cb44c6",
       "relative_path": "memes/entertainment/0001_entertainment.png",
       "category": "entertainment",
-      "caption": "爱蜜莉雅 Q版娱乐表情：entertainment动作。",
+      "caption": "爱蜜莉雅双手握着游戏手柄，睁着闪亮的眼睛兴奋地笑。适合邀请开黑、正在打游戏、聊游戏时表达跃跃欲试。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "entertainment"
+        "游戏手柄",
+        "一起开黑",
+        "正在打游戏",
+        "邀约游戏",
+        "跃跃欲试",
+        "兴奋"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "71c53c96f60989885e874d141afa1b431e4e94be5d632daee0d8e6d556d75620": {
       "entry_id": "71c53c96f60989885e874d141afa1b431e4e94be5d632daee0d8e6d556d75620",
       "content_sha256": "f532c851fc67fa722767d5736a158349ffe4ed897e5924fe4109888fda3a8095",
       "relative_path": "memes/entertainment/0002_sing.png",
       "category": "entertainment",
-      "caption": "爱蜜莉雅 Q版娱乐表情：sing动作。",
+      "caption": "爱蜜莉雅拿着麦克风张嘴唱歌，另一只手向外展开，周围飘着彩色音符。适合唱一首、邀请唱歌、分享音乐兴致和表演。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "entertainment",
-        "sing"
+        "麦克风",
+        "唱歌",
+        "彩色音符",
+        "来一首",
+        "音乐表演",
+        "邀请唱歌"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "5d288085fbe2c4b82ae4919cb1a0d2982633ff2da405656c77c5bd7fffeaf172": {
       "entry_id": "5d288085fbe2c4b82ae4919cb1a0d2982633ff2da405656c77c5bd7fffeaf172",
       "content_sha256": "e7833a5180f069b75c43b7795ab966a57443e7409ff693ee67b498fcadc544f9",
       "relative_path": "memes/entertainment/0003_dance.png",
       "category": "entertainment",
-      "caption": "爱蜜莉雅 Q版娱乐表情：dance动作。",
+      "caption": "爱蜜莉雅全身跃起，一只手臂高举，一条腿弯起，裙摆和发丝随动作扬起，身边有彩纸和彩色弧线。适合开心跳舞、蹦起来庆祝、表达活力。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "entertainment",
-        "dance"
+        "跳舞",
+        "蹦跳庆祝",
+        "全身跃起",
+        "扬起裙摆",
+        "活力满满",
+        "彩纸"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "b7d58917819f9a12935131acad8e0563a6c0ec23edb6c49c3a709944afb6ca74": {
       "entry_id": "b7d58917819f9a12935131acad8e0563a6c0ec23edb6c49c3a709944afb6ca74",
       "content_sha256": "d966a50096b733ac88b2b772c6eb7b60338399288416bcfdb32cb9962b2a7034",
       "relative_path": "memes/entertainment/0004_photo.png",
       "category": "entertainment",
-      "caption": "爱蜜莉雅 Q版娱乐表情：photo动作。",
+      "caption": "爱蜜莉雅双手举着相机对向前方，一只眼藏在相机后，镜头旁闪出亮光。适合拍张照、记录精彩瞬间、喊人看镜头。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "entertainment",
-        "photo"
+        "相机拍照",
+        "看镜头",
+        "记录瞬间",
+        "留念",
+        "闪光",
+        "拍一张"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "2ef13cd55ef4a5da323bb2edb1e9053f0aac66a62a9331dd593b5083a078fc6c": {
       "entry_id": "2ef13cd55ef4a5da323bb2edb1e9053f0aac66a62a9331dd593b5083a078fc6c",
       "content_sha256": "8af89420689cbd657b3402a60fac04c2612dec82111bf7126869650c41e880ce",
       "relative_path": "memes/entertainment/0005_draw.png",
       "category": "entertainment",
-      "caption": "爱蜜莉雅 Q版娱乐表情：draw动作。",
+      "caption": "爱蜜莉雅举着沾有彩色颜料的画笔，另一只手展示画着小猫、星星和爱心的画本。适合画画、展示涂鸦、分享创作成果。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "entertainment",
-        "draw"
+        "彩色画笔",
+        "小猫涂鸦",
+        "展示画作",
+        "创作完成",
+        "画本",
+        "画画"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "a8dc7fab89e6eace1ed8cad797269abd8075547078ee7eba7d8a5308805036d4": {
       "entry_id": "a8dc7fab89e6eace1ed8cad797269abd8075547078ee7eba7d8a5308805036d4",
       "content_sha256": "21ff13dfd4e89ee1d6dfb1f9eda68028aea6e08490486c98ef1e248c61ac4958",
       "relative_path": "memes/entertainment/0006_read.png",
       "category": "entertainment",
-      "caption": "爱蜜莉雅 Q版娱乐表情：read动作。",
+      "caption": "爱蜜莉雅微笑着双手捧住一本打开的紫色封面书，书封有金色装饰。适合安静看书、阅读故事、分享阅读时光。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "entertainment",
-        "read"
+        "捧书阅读",
+        "紫色封面",
+        "安静看书",
+        "阅读故事",
+        "阅读时光",
+        "平静微笑"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "3b452961ef6b49fa661e63ea879405debbaa007090ba236192f788b5238bb2c7": {
       "entry_id": "3b452961ef6b49fa661e63ea879405debbaa007090ba236192f788b5238bb2c7",
       "content_sha256": "e40b087a6329ca7d3e91aecfd2df43730727015b69d1ebdfe6d68c5f8287c9df",
       "relative_path": "memes/food/0001_food.png",
       "category": "food",
-      "caption": "爱蜜莉雅 Q版美食表情：food动作。",
+      "caption": "爱蜜莉雅双手捧着金黄色夹心点心，吐出一点舌尖，嘴角有碎屑，眼睛亮晶晶。适合看到好吃的嘴馋、想吃点心、被美食吸引。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "food"
+        "馋点心",
+        "夹心点心",
+        "嘴馋",
+        "想吃",
+        "舌尖",
+        "美食诱惑"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "e01d502bebcbf125ddf1ce50e4d822ca064da846b90275f6d22da5519127f2d0": {
       "entry_id": "e01d502bebcbf125ddf1ce50e4d822ca064da846b90275f6d22da5519127f2d0",
       "content_sha256": "3ae16a376485a040d462a66836da3d37c080f0de8d9116938806fafe86ac99b3",
       "relative_path": "memes/food/0002_drink.png",
       "category": "food",
-      "caption": "爱蜜莉雅 Q版美食表情：drink动作。",
+      "caption": "爱蜜莉雅双手抱住花纹马克杯，凑近杯口，冒出的热气带着心形弧线，神情惬意。适合喝点热饮、暖暖身子、休息时慢慢喝一杯。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "food",
-        "drink"
+        "双手捧杯",
+        "热饮",
+        "暖暖身子",
+        "惬意",
+        "休息喝一杯",
+        "马克杯"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "1e3f5adb2984972239e08c91dac44257f19f7559df8a9ff406404cfd0184e796": {
       "entry_id": "1e3f5adb2984972239e08c91dac44257f19f7559df8a9ff406404cfd0184e796",
       "content_sha256": "a22cb2e649f596102827e263d3d6537155fdb2a83741ea96daeabc4a74687461",
       "relative_path": "memes/food/0003_cake.png",
       "category": "food",
-      "caption": "爱蜜莉雅 Q版美食表情：cake动作。",
+      "caption": "爱蜜莉雅开心地端着插有一根点燃蜡烛的小蛋糕，周围飘着彩纸和爱心。适合生日祝福、庆祝纪念日、送上蛋糕和许愿。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "food",
-        "cake"
+        "生日蛋糕",
+        "点燃蜡烛",
+        "生日快乐",
+        "庆祝纪念日",
+        "许愿",
+        "送蛋糕"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "31fdb62d9be2cb512d0dad90bc022dff6b73158c2d4a05eec26fe6cf250c8294": {
       "entry_id": "31fdb62d9be2cb512d0dad90bc022dff6b73158c2d4a05eec26fe6cf250c8294",
       "content_sha256": "dc401e63d42d5cfb819a16dc257ecca02976a792055c3a2f5dac3f06751d0e96",
       "relative_path": "memes/food/0004_omnom.png",
       "category": "food",
-      "caption": "爱蜜莉雅 Q版美食表情：omnom动作。",
+      "caption": "爱蜜莉雅捧着被咬过的金黄色点心，鼓着腮帮子咀嚼，嘴边和周围散着碎屑。适合正在嚼东西、吃得津津有味、嘴里塞满零食。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "food",
-        "omnom"
+        "鼓腮咀嚼",
+        "正在吃零食",
+        "咬过的点心",
+        "食物碎屑",
+        "津津有味",
+        "嘴里塞满"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "b01d0e11d133c9de59901cf69237ba5a676966f15038d636ef9e113beb921168": {
       "entry_id": "b01d0e11d133c9de59901cf69237ba5a676966f15038d636ef9e113beb921168",
       "content_sha256": "795bbac29ed0640f3b5e2243b4c16178f9079e20ead5ff4f7da2353163407dc1",
       "relative_path": "memes/food/0005_snack.png",
       "category": "food",
-      "caption": "爱蜜莉雅 Q版美食表情：snack动作。",
+      "caption": "爱蜜莉雅笑着撕开一袋紫色包装的零食，袋口露出金黄色小块食物。适合拆零食、边聊天边吃、准备围观时拿出吃的。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "food",
-        "snack"
+        "拆零食袋",
+        "紫色包装",
+        "边聊边吃",
+        "准备围观",
+        "开袋",
+        "分享零食"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "99b6b4ea175126b22cbf2c442f9dbd74c6cd7bea64a719b5bb3dece48eb2c36e": {
       "entry_id": "99b6b4ea175126b22cbf2c442f9dbd74c6cd7bea64a719b5bb3dece48eb2c36e",
       "content_sha256": "c8838eff9fa1b1e1c75560fa6041c1ef3fd8ebabe318a35c6e651f9a50981313",
       "relative_path": "memes/food/0006_takeout.png",
       "category": "food",
-      "caption": "爱蜜莉雅 Q版美食表情：takeout动作。",
+      "caption": "爱蜜莉雅双手捧着一个合着盖子的棕色纸餐盒，开心地张嘴，盒子旁有黄色强调线。适合外卖到了、拿到打包餐、准备拆盒开饭。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "food",
-        "takeout"
+        "外卖到了",
+        "纸餐盒",
+        "打包餐",
+        "准备开饭",
+        "捧餐盒",
+        "期待拆盒"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "28ce612cc460010109ed28c732ea7bb40a32bf9d134d028af5c2c754139959b1": {
       "entry_id": "28ce612cc460010109ed28c732ea7bb40a32bf9d134d028af5c2c754139959b1",
       "content_sha256": "13d2f1d8afa09f1bb3e9bd3d236dafcb448f81757cdc864cfe11140548a8ef4e",
       "relative_path": "memes/greeting/0001_greeting.png",
       "category": "greeting",
-      "caption": "爱蜜莉雅 Q版问候表情：greeting动作。",
+      "caption": "爱蜜莉雅正面笑着伸出一只张开的手打招呼，另一只手握在胸前。适合初次见面说你好、群聊冒泡、轻快地向大家问好。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "greeting"
+        "正面挥手",
+        "你好",
+        "群聊冒泡",
+        "打招呼",
+        "初次见面",
+        "热情问好"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "fc039a19912df3756d32c639a495a21ebb5e90ff5b8f373fb647c8419a363a17": {
       "entry_id": "fc039a19912df3756d32c639a495a21ebb5e90ff5b8f373fb647c8419a363a17",
       "content_sha256": "482fcf871dac68b48d1c6b7109a21ca0a49d982756fd5bbbc2a221e2c71836db",
       "relative_path": "memes/greeting/0002_bye.png",
       "category": "greeting",
-      "caption": "爱蜜莉雅 Q版问候表情：bye动作。",
+      "caption": "爱蜜莉雅转身回头微笑，一只手举在身侧挥动，长发随着转身铺开。适合挥手告别、回头说再见、表示先走一步。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "greeting",
-        "bye"
+        "转身挥手",
+        "再见",
+        "先走一步",
+        "回头告别",
+        "下次见",
+        "微笑"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "71e4de3f48f51df9848853a5799129ab42525c11693841a26c799662ebd25b15": {
       "entry_id": "71e4de3f48f51df9848853a5799129ab42525c11693841a26c799662ebd25b15",
       "content_sha256": "a62cb922f23ad04a29623dd6e0b60e8ad8b628301049c05c4baab4ff12756812",
       "relative_path": "memes/greeting/0003_attention.png",
       "category": "greeting",
-      "caption": "爱蜜莉雅 Q版问候表情：attention动作。",
+      "caption": "爱蜜莉雅举着紫白色扩音喇叭，另一只手抬起招呼大家，神情明快。适合发布通知、召集大家、提醒注意接下来的消息。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "greeting",
-        "attention"
+        "扩音喇叭",
+        "通知大家",
+        "集合",
+        "请注意",
+        "召集",
+        "举手招呼"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "bafcac92ee675fefd6a29b33d4a1715bf90089a6a0bad7b1fa624fdaeef71886": {
       "entry_id": "bafcac92ee675fefd6a29b33d4a1715bf90089a6a0bad7b1fa624fdaeef71886",
       "content_sha256": "54880874b259f84b3ab0b8f2d78ae60baec04ca6c54b5aa16e03d4c195e4e8ab",
       "relative_path": "memes/greeting/0004_welcome.png",
       "category": "greeting",
-      "caption": "爱蜜莉雅 Q版问候表情：welcome动作。",
+      "caption": "爱蜜莉雅笑着朝前张开双臂，两只手掌展开，旁边飘着爱心。适合热情欢迎、迎接归来、表达快过来和欢迎加入。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "greeting",
-        "welcome"
+        "张臂欢迎",
+        "欢迎加入",
+        "欢迎回来",
+        "热情迎接",
+        "快过来",
+        "爱心"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "d4bff2481c877805368d6f4fdd1a47df519bb613ce1996fad1e8ef71003a39e9": {
       "entry_id": "d4bff2481c877805368d6f4fdd1a47df519bb613ce1996fad1e8ef71003a39e9",
       "content_sha256": "be923f1586dc01d08fdb1dd99595f76aa757b823cd530ddff411188de701654e",
       "relative_path": "memes/greeting/0005_morning.png",
       "category": "greeting",
-      "caption": "爱蜜莉雅 Q版问候表情：morning动作。",
+      "caption": "爱蜜莉雅怀抱一束白紫色鲜花，另一只手举起挥动，开心地问候。适合带着花打招呼、温柔早安、祝对方有美好的一天。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "greeting",
-        "morning"
+        "捧花问候",
+        "早安",
+        "美好的一天",
+        "白紫花束",
+        "挥手",
+        "送上祝福"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "fe50aa7f5e692137da3b91a970ba9d06339725d5a4906442f1c4f7e747e7fd66": {
       "entry_id": "fe50aa7f5e692137da3b91a970ba9d06339725d5a4906442f1c4f7e747e7fd66",
       "content_sha256": "f447cb44ba67534cbbb14b19dd58a3f7110f2e288f7360b501ff89ea51714610",
       "relative_path": "memes/greeting/0006_arrival.png",
       "category": "greeting",
-      "caption": "爱蜜莉雅 Q版问候表情：arrival动作。",
+      "caption": "爱蜜莉雅从半开的木门旁探出身子，一只手扶着门边，另一只手笑着挥动。适合进门报到、表示我来了、回家时打招呼。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "greeting",
-        "arrival"
+        "推门探身",
+        "我来了",
+        "进门报到",
+        "回家了",
+        "扶门挥手",
+        "木门"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "7fc904d7a11782a57d8e502ed692a3aa9a274f1ab61156629d48881fbc70e4d4": {
       "entry_id": "7fc904d7a11782a57d8e502ed692a3aa9a274f1ab61156629d48881fbc70e4d4",
       "content_sha256": "7607c472e43d0e224cfd6e630bf709b6d9b5ad104f724b4d22e5771e90a7d542",
       "relative_path": "memes/happy/0001_happy.png",
       "category": "happy",
-      "caption": "爱蜜莉雅 Q版开心表情：happy动作。",
+      "caption": "爱蜜莉雅眼睛闪亮，张嘴开心地笑，两只拳头兴奋地收在胸前，周围散着星光。适合听到好消息、满心期待、表达太好了和按捺不住的开心。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "happy"
+        "听到好消息",
+        "太好了",
+        "兴奋握拳",
+        "满心期待",
+        "星星眼",
+        "开心"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "f682e226f27fb9da904386f00f8366879104d55482b55f50b260c51500b5d1b9": {
       "entry_id": "f682e226f27fb9da904386f00f8366879104d55482b55f50b260c51500b5d1b9",
       "content_sha256": "f41d072220f4f42b95bce772532e3106f7e14e9704ea5d3b121da6fdd0c414ea",
       "relative_path": "memes/happy/0002_cheering.png",
       "category": "happy",
-      "caption": "爱蜜莉雅 Q版开心表情：cheering动作。",
+      "caption": "爱蜜莉雅高举两面带紫色花纹的小旗，笑着摇旗，身边飘着彩纸和星光。适合为比赛或活动助威、应援打气、摇旗庆祝。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "happy",
-        "cheering"
+        "双手摇旗",
+        "应援助威",
+        "比赛加油",
+        "小旗子",
+        "活动庆祝",
+        "兴奋"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "c31693fdba3a1ce52af75e59d326446820c01c6f7216004fe49d0b6ed892a623": {
       "entry_id": "c31693fdba3a1ce52af75e59d326446820c01c6f7216004fe49d0b6ed892a623",
       "content_sha256": "626a53c13dbb8d6791cf15ef1beb5a729977223bfb08bbd6a7a664dee9e8d688",
       "relative_path": "memes/happy/0003_laughing.png",
       "category": "happy",
-      "caption": "爱蜜莉雅 Q版开心表情：laughing动作。",
+      "caption": "爱蜜莉雅闭眼笑得张大嘴，双手遮在嘴前，脸颊红红的，头旁带着笑意动效。适合觉得太好笑、忍不住笑出声、被逗乐。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "happy",
-        "laughing"
+        "捂嘴大笑",
+        "笑出声",
+        "太好笑了",
+        "被逗乐",
+        "闭眼笑",
+        "双手掩嘴"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "bc056855babbe29b8c3b7b0a8d8aad65ee9d7351dae0111825bbf1ba0377d25d": {
       "entry_id": "bc056855babbe29b8c3b7b0a8d8aad65ee9d7351dae0111825bbf1ba0377d25d",
       "content_sha256": "85aba4d91f07007e3faa9c605395f06f28117fffcc2b8e3b9d8a707b4a29f1d3",
       "relative_path": "memes/happy/0004_clap.png",
       "category": "happy",
-      "caption": "爱蜜莉雅 Q版开心表情：clap动作。",
+      "caption": "爱蜜莉雅张嘴开心地笑，双手在脸侧鼓掌，手边有密集的黄色拍手线条和星光。适合为好消息欢呼鼓掌、拍手叫好、热烈庆祝。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "happy",
-        "clap"
+        "欢呼鼓掌",
+        "拍手叫好",
+        "热烈庆祝",
+        "脸侧拍手",
+        "好消息",
+        "开心大笑"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "6dbf1da2be4897b3b431a1b1ed6ca24c98eb418a8383983d7928b64db6b863ff": {
       "entry_id": "6dbf1da2be4897b3b431a1b1ed6ca24c98eb418a8383983d7928b64db6b863ff",
       "content_sha256": "8370ba8fb632728b1277a634d51559e498a7c516153b651f4cc2ec57848fd752",
       "relative_path": "memes/happy/0005_party.png",
       "category": "happy",
-      "caption": "爱蜜莉雅 Q版开心表情：party动作。",
+      "caption": "爱蜜莉雅开心地举起双臂、张开手掌，头顶和身边落下五颜六色的彩纸。适合派对狂欢、热闹庆祝、一起庆功。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "happy",
-        "party"
+        "彩纸庆祝",
+        "派对狂欢",
+        "举起双臂",
+        "庆功",
+        "热闹",
+        "好耶"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "ec8d489fd88e5a80d2b9c29dc01216246347e8df4d549bb839408b8aa0b107ed": {
       "entry_id": "ec8d489fd88e5a80d2b9c29dc01216246347e8df4d549bb839408b8aa0b107ed",
       "content_sha256": "e74d28200b97ecd255290065b6c57a0a62875ec6cf76b7aa8bffdbce11cd4da9",
       "relative_path": "memes/happy/0006_victory.png",
       "category": "happy",
-      "caption": "爱蜜莉雅 Q版开心表情：victory动作。",
+      "caption": "爱蜜莉雅笑着在两侧同时比出 V 字手势，身边有黄色强调线和星光。适合赢了比赛、任务顺利结束、晒出胜利和开心合影。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "happy",
-        "victory"
+        "双手比耶",
+        "胜利",
+        "赢啦",
+        "任务完成",
+        "V字手势",
+        "开心合影"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "4d80f0be61f82ed38bdcc2e6d7bbe5251b6178b687a1fab9c4f9e0dbf0792440": {
       "entry_id": "4d80f0be61f82ed38bdcc2e6d7bbe5251b6178b687a1fab9c4f9e0dbf0792440",
       "content_sha256": "68d886bcb1787503f653d163c46889df6e609f95a91f59755a2fbc1a23ed8902",
       "relative_path": "memes/mischief/0001_peekaboo.png",
       "category": "mischief",
-      "caption": "爱蜜莉雅 Q版恶作剧表情：peekaboo动作。",
+      "caption": "爱蜜莉雅从浅色挡板后探出身子，双手扒着边缘，一边眨眼一边开心地笑。适合突然探头逗人、躲猫猫、俏皮地出现。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "mischief",
-        "peekaboo"
+        "挡板后探头",
+        "躲猫猫",
+        "突然出现",
+        "眨眼逗人",
+        "扒住边缘",
+        "俏皮"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "9327b57b6c2def326f63fd5fbbc963c35ec4930f36a8f4be0e09573b54a4acc9": {
       "entry_id": "9327b57b6c2def326f63fd5fbbc963c35ec4930f36a8f4be0e09573b54a4acc9",
       "content_sha256": "063508f8f9fa1004060d5ee9dfec64094babe34cabd1b928ab416e36028eaf6c",
       "relative_path": "memes/mischief/0002_prank_button.png",
       "category": "mischief",
-      "caption": "爱蜜莉雅 Q版恶作剧表情：prank button动作。",
+      "caption": "爱蜜莉雅带着淘气的笑容伸手按向一个巨大的红色按钮，另一只手握在脸旁。适合手痒想按一下、准备搞点小恶作剧、开玩笑地启动某件事。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "mischief",
-        "prank button"
+        "红色按钮",
+        "伸手按键",
+        "手痒",
+        "准备恶作剧",
+        "启动一下",
+        "淘气笑容"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "49ae7aff6599296cf6508f84b4134f604b7199f861d00789f9820ac0c98d9cfc": {
       "entry_id": "49ae7aff6599296cf6508f84b4134f604b7199f861d00789f9820ac0c98d9cfc",
       "content_sha256": "911326cc3e0046490884b297449080341027a7496764610a380b4ff67a52decf",
       "relative_path": "memes/mischief/0003_caught.png",
       "category": "mischief",
-      "caption": "爱蜜莉雅 Q版恶作剧表情：caught动作。",
+      "caption": "爱蜜莉雅双拳缩在胸前，睁大眼睛惊慌张嘴，额头有阴影竖线，脸旁冒出大量汗滴。适合做了小坏事被发现、突然露馅、心虚地表示糟了。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "mischief",
-        "caught"
+        "被发现了",
+        "露馅",
+        "心虚慌张",
+        "大量汗滴",
+        "缩起双拳",
+        "糟了"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "0e67c434c9411a5e49168ce06113a999a7e574779e75001682a129a3cc6c23ac": {
       "entry_id": "0e67c434c9411a5e49168ce06113a999a7e574779e75001682a129a3cc6c23ac",
       "content_sha256": "22a3cd174a7fda6808c166cbb62ee22263ebe59a7f98d9b3610c1e8c2b15c678",
       "relative_path": "memes/mischief/0004_cool.png",
       "category": "mischief",
-      "caption": "爱蜜莉雅 Q版恶作剧表情：cool动作。",
+      "caption": "爱蜜莉雅一只手扶着深色墨镜向下拉，露出闪亮的眼睛，另一只手比出手枪状手势，嘴角露出得意笑容。适合耍帅、摆酷、俏皮地说看我的。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "mischief",
-        "cool"
+        "扶墨镜",
+        "耍帅",
+        "摆酷",
+        "手枪手势",
+        "看我的",
+        "得意"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "9c4d5b115dde7e73eef77c0cbaaccc040772fa1b36a057e9228b2c3555e5d5aa": {
       "entry_id": "9c4d5b115dde7e73eef77c0cbaaccc040772fa1b36a057e9228b2c3555e5d5aa",
       "content_sha256": "ca1f90fa3124fde998aeb8ba52971f37b6a12078bf0552b894a338c585fa1da2",
       "relative_path": "memes/mischief/0005_tongue.png",
       "category": "mischief",
-      "caption": "爱蜜莉雅 Q版恶作剧表情：tongue动作。",
+      "caption": "爱蜜莉雅眨一只眼并吐出舌头，两根食指分别点着脸颊，周围有粉色强调线。适合扮鬼脸逗人、调皮回应、友好地说略略略。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "mischief",
-        "tongue"
+        "吐舌鬼脸",
+        "双指点脸颊",
+        "略略略",
+        "调皮回应",
+        "眨眼",
+        "逗人"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "4ea88ce1a08d6624d861683f42a127c00ebb686f80d962587edbf6d1c0af5c60": {
       "entry_id": "4ea88ce1a08d6624d861683f42a127c00ebb686f80d962587edbf6d1c0af5c60",
       "content_sha256": "b054478beed771e1d609bad1bffb64e8a770f6e94f47f93ab9a0dcfd67b42a73",
       "relative_path": "memes/mischief/0006_hide.png",
       "category": "mischief",
-      "caption": "爱蜜莉雅 Q版恶作剧表情：hide动作。",
+      "caption": "爱蜜莉雅躲在打开的棕色纸箱里，只露出头部和扒在箱沿上的两只手，眼睛悄悄向外看。适合躲起来围观、暗中观察、想暂时藏一下。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "mischief",
-        "hide"
+        "躲纸箱",
+        "扒箱沿",
+        "暗中观察",
+        "潜伏围观",
+        "藏一下",
+        "露出脑袋"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "4321f2f2d52b18cb211fe76f3ce85e4e8334d2bf4b56fdea4baaab967ea99cb2": {
       "entry_id": "4321f2f2d52b18cb211fe76f3ce85e4e8334d2bf4b56fdea4baaab967ea99cb2",
       "content_sha256": "7d90638f0c56fc6335061b63ac9ff2847edb5f171652e7eb01d3ecdc41334590",
       "relative_path": "memes/money/0001_money.png",
       "category": "money",
-      "caption": "爱蜜莉雅 Q版金钱表情：money动作。",
+      "caption": "爱蜜莉雅开心地捧着一个紫色零钱包，周围飞着金色硬币。适合聊到钱时开心、表达赚钱的喜悦、财迷式满足。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "money"
+        "紫色零钱包",
+        "金色硬币",
+        "赚钱开心",
+        "财迷",
+        "小钱钱",
+        "开心捧钱包"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "f750f0c9b94d686de8ebd1842f0b045c5dd41b436bf1ff1ace8ea089135d50cd": {
       "entry_id": "f750f0c9b94d686de8ebd1842f0b045c5dd41b436bf1ff1ace8ea089135d50cd",
       "content_sha256": "97db2231c585a5ccb2588c5db06947a0497da936c4c30686a09152983076b55b",
       "relative_path": "memes/money/0002_payment.png",
       "category": "money",
-      "caption": "爱蜜莉雅 Q版金钱表情：payment动作。",
+      "caption": "爱蜜莉雅拿着一张卡靠近读卡设备，视线专注，机器上有感应波纹。适合刷卡付款、结账买单、表示这笔我来付。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "money",
-        "payment"
+        "刷卡付款",
+        "读卡器",
+        "结账",
+        "我来买单",
+        "感应支付",
+        "拿卡"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "23a6c26bf7f51ba059be604837a4b7d0f1c18fd81fa15660f765508a02b4c30e": {
       "entry_id": "23a6c26bf7f51ba059be604837a4b7d0f1c18fd81fa15660f765508a02b4c30e",
       "content_sha256": "0dc723d4b87e2fb8c94c36c467e2be0499f686114cb964154120176a37159dae",
       "relative_path": "memes/money/0003_reward.png",
       "category": "money",
-      "caption": "爱蜜莉雅 Q版金钱表情：reward动作。",
+      "caption": "爱蜜莉雅开心地双手捧着红色红包，红包口和周围散着金色硬币。适合收到红包、获得奖金、感谢打赏和分享奖励的喜悦。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "money",
-        "reward"
+        "捧红包",
+        "收到奖金",
+        "感谢打赏",
+        "奖励到账",
+        "金色硬币",
+        "开心"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "07e91533b999494cd85ec795c4311782f0250886d09731787602cb8cf257b5c8": {
       "entry_id": "07e91533b999494cd85ec795c4311782f0250886d09731787602cb8cf257b5c8",
       "content_sha256": "1cb3ae64fea0001d74ed4cfa495afa5d62d3cc06c2e267ab60ef35408603416c",
       "relative_path": "memes/money/0004_budget.png",
       "category": "money",
-      "caption": "爱蜜莉雅 Q版金钱表情：budget动作。",
+      "caption": "爱蜜莉雅拿着记账本和笔思考，身前摆着计算器和一摞摞金币。适合计算预算、核对收支、精打细算和认真记账。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "money",
-        "budget"
+        "计算预算",
+        "记账本",
+        "计算器",
+        "核对收支",
+        "精打细算",
+        "金币堆"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "8bc2ba7b44782ce2b7f2c43707b45bd6977df3daed24358a19b3c5c5adde3218": {
       "entry_id": "8bc2ba7b44782ce2b7f2c43707b45bd6977df3daed24358a19b3c5c5adde3218",
       "content_sha256": "f2c4c2055900ccffc3cb73569f2267e9c46b92a21f63c9dfe5f97da9800d29e6",
       "relative_path": "memes/money/0005_sponsor.png",
       "category": "money",
-      "caption": "爱蜜莉雅 Q版金钱表情：sponsor动作。",
+      "caption": "爱蜜莉雅笑着双手端出一个带投币口和爱心装饰的小盒子。适合求一点赞助、邀请打赏、礼貌地希望获得支持。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "money",
-        "sponsor"
+        "爱心投币盒",
+        "求赞助",
+        "邀请打赏",
+        "求支持",
+        "双手端盒",
+        "期待"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "f7594110a2b9c0a251b603e233a40c6e1ced91aaf30b5159a3ba1de428908356": {
       "entry_id": "f7594110a2b9c0a251b603e233a40c6e1ced91aaf30b5159a3ba1de428908356",
       "content_sha256": "24366985eb1ac08ddd880d832b1be3ff7536be6ab5de8ebbc1e834cda8788010",
       "relative_path": "memes/money/0006_receipt.png",
       "category": "money",
-      "caption": "爱蜜莉雅 Q版金钱表情：receipt动作。",
+      "caption": "爱蜜莉雅双手展开一条很长的小票，皱眉张嘴，额头冒汗，周围飘着金币。适合看到账单后震惊、吐槽花钱太多、惊叹怎么这么贵。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "money",
-        "receipt"
+        "超长小票",
+        "账单震惊",
+        "怎么这么贵",
+        "花钱太多",
+        "消费心疼",
+        "冒汗"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "379920e02a756097cf59646e2dfb350b68723c9dcab334b7831f71c1c1e01a68": {
       "entry_id": "379920e02a756097cf59646e2dfb350b68723c9dcab334b7831f71c1c1e01a68",
       "content_sha256": "2237d885f40a612c7b7a4c2e7f5a7306be361ecb9e5af0187542238abbcbfc26",
       "relative_path": "memes/reply/0001_reply.png",
       "category": "reply",
-      "caption": "爱蜜莉雅 Q版回复表情：reply动作。",
+      "caption": "爱蜜莉雅带着自信的笑容朝前伸出一只摊开的手，另一只手握拳收在胸前。适合主动接话、邀请对方继续说、热情地参与讨论。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "reply"
+        "主动接话",
+        "你继续说",
+        "伸手回应",
+        "参与讨论",
+        "自信笑容",
+        "单手摊开"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "9176fd63fa8784d14378982340cdca52dae8b462b513706c323107df2700ae74": {
       "entry_id": "9176fd63fa8784d14378982340cdca52dae8b462b513706c323107df2700ae74",
       "content_sha256": "f4f5ee51e2c93617f380665d41a2f478e11994591d025aaab16973aaef4c6441",
       "relative_path": "memes/reply/0002_explain.png",
       "category": "reply",
-      "caption": "爱蜜莉雅 Q版回复表情：explain动作。",
+      "caption": "爱蜜莉雅拿着细长指示棒指向红蓝黄三个圆点，另一只手掌朝上，张嘴微笑。适合分点说明、讲解步骤、解释给对方听。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "reply",
-        "explain"
+        "指示棒",
+        "分点说明",
+        "讲解步骤",
+        "解释",
+        "三个圆点",
+        "掌心朝上"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "c460837940afe398549b990b71b808de5c6d38f7e0d4b72288f2a2003c4c78be": {
       "entry_id": "c460837940afe398549b990b71b808de5c6d38f7e0d4b72288f2a2003c4c78be",
       "content_sha256": "3f4632729cbdc7bb61818eebd41a0fcf94c4e94640c6685d1a8638571647603d",
       "relative_path": "memes/reply/0003_quiet.png",
       "category": "reply",
-      "caption": "爱蜜莉雅 Q版回复表情：quiet动作。",
+      "caption": "爱蜜莉雅把一根食指竖在嘴前，旁边的气泡里画着被斜线划掉的铃铛。适合提醒安静、小声一点、暂停打扰或保密。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "reply",
-        "quiet"
+        "嘘声手势",
+        "安静一点",
+        "小声说",
+        "请勿打扰",
+        "保密",
+        "静音铃铛"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "d1c25a57de0ef1937b794e111aeeae0916be90f1a98fa3bbd42897051969e3ae": {
       "entry_id": "d1c25a57de0ef1937b794e111aeeae0916be90f1a98fa3bbd42897051969e3ae",
       "content_sha256": "39a75780065179eb5e990df5092f47534ab3f6af56769283ae65871180848448",
       "relative_path": "memes/reply/0004_agree.png",
       "category": "reply",
-      "caption": "爱蜜莉雅 Q版回复表情：agree动作。",
+      "caption": "爱蜜莉雅笑着竖起一根食指，另一只手握拳，头旁带着轻微动作线。适合赞同对方的说法、表示对的、接着补充一点。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "reply",
-        "agree"
+        "竖起食指",
+        "赞同说法",
+        "对的",
+        "补充一点",
+        "回应观点",
+        "头旁动作线"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "e05b29b3d1ccb5ac3bc9da7e582c80cfe476b2db03b6a4f15dcc92c3f65b9aae": {
       "entry_id": "e05b29b3d1ccb5ac3bc9da7e582c80cfe476b2db03b6a4f15dcc92c3f65b9aae",
       "content_sha256": "410874d27abf96a4610235ca79635cc265b960c6f8e9fd1b0148eff0f13fb763",
       "relative_path": "memes/reply/0005_deny.png",
       "category": "reply",
-      "caption": "爱蜜莉雅 Q版回复表情：deny动作。",
+      "caption": "爱蜜莉雅抿嘴鼓着脸，把两只前臂交叉成大大的 X，手边带着摆动线。适合明确拒绝、表示不可以、否定一个提议。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "reply",
-        "deny"
+        "双臂交叉",
+        "X形手势",
+        "明确拒绝",
+        "不可以",
+        "否定提议",
+        "认真拒绝"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "dfa34e258c781003ca84923959ac24b42a91996943e2fcec12fe99e8410236b0": {
       "entry_id": "dfa34e258c781003ca84923959ac24b42a91996943e2fcec12fe99e8410236b0",
       "content_sha256": "2880c54d8079f82055e4250188edfd6ccbd494ed3637e9af3722f4927d02dc51",
       "relative_path": "memes/reply/0006_wait.png",
       "category": "reply",
-      "caption": "爱蜜莉雅 Q版回复表情：wait动作。",
+      "caption": "爱蜜莉雅双手托腮，带着平静的微笑看向前方，身旁浮着一个紫色沙漏。适合耐心等待回复、表示我等你、等待对方准备好。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "reply",
-        "wait"
+        "沙漏等待",
+        "耐心等回复",
+        "我等你",
+        "双手托腮",
+        "等你准备好",
+        "平静微笑"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "2f11a8469572c32d65ba1f792c0bd412df270241bf047f3fc6ce2aac1ad5d395": {
       "entry_id": "2f11a8469572c32d65ba1f792c0bd412df270241bf047f3fc6ce2aac1ad5d395",
       "content_sha256": "2558b9a38809b785cfce01f1298479686ac91a6d40e35cfe203a74ca3e9233d0",
       "relative_path": "memes/sad/0001_sad.png",
       "category": "sad",
-      "caption": "爱蜜莉雅 Q版难过表情：sad动作。",
+      "caption": "爱蜜莉雅眉头下垂，双眼蓄满泪水并流过脸颊，两只手紧紧攥在胸前，嘴角委屈地弯着。适合伤心哭泣、感到委屈、难过得说不出话。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "sad"
+        "流泪哭泣",
+        "很委屈",
+        "伤心",
+        "泪流脸颊",
+        "胸前攥手",
+        "想哭"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "219895edbc6e1b2d1804253ee011930edd91f9231d576f2ef2af1f3cdd281d9c": {
       "entry_id": "219895edbc6e1b2d1804253ee011930edd91f9231d576f2ef2af1f3cdd281d9c",
       "content_sha256": "69d85398364fcb9f6af1a7115b38102fc8178057f852029ad3aae81d1741d4d5",
       "relative_path": "memes/sad/0002_pout.png",
       "category": "sad",
-      "caption": "爱蜜莉雅 Q版难过表情：pout动作。",
+      "caption": "爱蜜莉雅抱膝坐着，双手托在脸侧，噘着嘴看向一旁，神情闷闷不乐。适合独自生闷气、被冷落后的失落、委屈地缩成一团。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "sad",
-        "pout"
+        "抱膝缩成团",
+        "生闷气",
+        "被冷落",
+        "噘嘴",
+        "失落",
+        "视线偏向一旁"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "3fd9bc1a96510b838bca899a3a12ac16f874c2a60f2d1b4ae8578e44f2468a2b": {
       "entry_id": "3fd9bc1a96510b838bca899a3a12ac16f874c2a60f2d1b4ae8578e44f2468a2b",
       "content_sha256": "cb41d89b022911495e4c1425078f9f9c5802e057cf5e856fc0b2769a81211735",
       "relative_path": "memes/sad/0003_defeated.png",
       "category": "sad",
-      "caption": "爱蜜莉雅 Q版难过表情：defeated动作。",
+      "caption": "爱蜜莉雅无力地趴在木桌上，眼眶带泪，嘴角下垂，一只手摊在桌边。适合遭遇失败后泄气、被打击得趴下、表示今天撑不住了。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "sad",
-        "defeated"
+        "趴桌泄气",
+        "失败受挫",
+        "被打击",
+        "无力",
+        "眼眶带泪",
+        "撑不住了"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "5d6fab559061e81d8f415a17610ac706a47217bb100d361cb18b7a83c97119eb": {
       "entry_id": "5d6fab559061e81d8f415a17610ac706a47217bb100d361cb18b7a83c97119eb",
       "content_sha256": "b127c00e8fe6c6b326bb59bf84a95b41bbc16311cabeecc766578b9ff5ddb193",
       "relative_path": "memes/sad/0004_comfort_me.png",
       "category": "sad",
-      "caption": "爱蜜莉雅 Q版难过表情：comfort me动作。",
+      "caption": "爱蜜莉雅泪水挂满脸颊，一只手抓住衣袖，另一只手向前张开，委屈地张着嘴。适合主动求安慰、伸手求抱抱、难过时想让人陪伴。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "sad",
-        "comfort me"
+        "求安慰",
+        "哭着伸手",
+        "求抱抱",
+        "需要陪伴",
+        "委屈",
+        "抓住衣袖"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "389396b35cd8d4a972670ec22c961d261e0d55f4aa84d32188cc6841c6a1adcf": {
       "entry_id": "389396b35cd8d4a972670ec22c961d261e0d55f4aa84d32188cc6841c6a1adcf",
       "content_sha256": "b55a3fcdb672da85b80abdb790eb1f86a1594597f9ed383f4e91b9210378001c",
       "relative_path": "memes/sad/0005_rain.png",
       "category": "sad",
-      "caption": "爱蜜莉雅 Q版难过表情：rain动作。",
+      "caption": "爱蜜莉雅缩着肩膀，眼中含泪，双手攥在下巴旁，头顶一朵愁眉苦脸的小乌云正在下雨。适合心情低落、觉得倒霉、形容心里下雨了。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "sad",
-        "rain"
+        "头顶乌云",
+        "心里下雨",
+        "情绪低落",
+        "倒霉",
+        "缩肩含泪",
+        "小雨滴"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "9d0b04b3bfc88d9d0effdb2239c5b4ea195eee3eb460390df4b3af528bdeea37": {
       "entry_id": "9d0b04b3bfc88d9d0effdb2239c5b4ea195eee3eb460390df4b3af528bdeea37",
       "content_sha256": "4b3a11687c99a2733971f1c49b8f452426627c42ade9ff78c347121f3891aa35",
       "relative_path": "memes/sad/0006_sigh.png",
       "category": "sad",
-      "caption": "爱蜜莉雅 Q版难过表情：sigh动作。",
+      "caption": "爱蜜莉雅单手托腮，另一只胳膊搭在身前，半垂着眼睛，嘴边吐出一小团气。适合叹气、无奈、失望地表示唉或算了。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "sad",
-        "sigh"
+        "单手托腮",
+        "叹气",
+        "唉",
+        "算了",
+        "无奈失望",
+        "吐气"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "1b51c681d2381d85469a71bef69fa468f187459810e38e5dc9cd197593b5d7b9": {
       "entry_id": "1b51c681d2381d85469a71bef69fa468f187459810e38e5dc9cd197593b5d7b9",
       "content_sha256": "ca3aed81da8955fa72e6dea09393000280c39d0a8cdd48f00df345385f2025ea",
       "relative_path": "memes/shy/0001_shy.png",
       "category": "shy",
-      "caption": "爱蜜莉雅 Q版害羞表情：shy动作。",
+      "caption": "爱蜜莉雅把双手收拢在胸前，肩膀微缩，脸颊明显泛红，目光羞涩地偏向一旁。适合不好意思、被夸后害羞、拘谨地回应。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "shy"
+        "害羞脸红",
+        "不好意思",
+        "被夸害羞",
+        "双手收拢",
+        "羞涩侧目",
+        "拘谨"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "045cc661056c73858b854bf11481f3be0a68d458e39181c42a8e1fff699ec55f": {
       "entry_id": "045cc661056c73858b854bf11481f3be0a68d458e39181c42a8e1fff699ec55f",
       "content_sha256": "c4867f8c7140f929e4f35f3c38fb542871c38fa8bd911f9c0ec7be60aa96e13f",
       "relative_path": "memes/shy/0002_blush.png",
       "category": "shy",
-      "caption": "爱蜜莉雅 Q版害羞表情：blush动作。",
+      "caption": "爱蜜莉雅双手捧着滚烫发红的脸颊，眼神柔软，嘴角带笑，周围浮着爱心。适合被甜言蜜语说得脸红、心动、害羞地回应喜欢。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "shy",
-        "blush"
+        "捧脸脸红",
+        "心动",
+        "甜蜜害羞",
+        "被撩害羞",
+        "爱心",
+        "柔软眼神"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "b657916a8be38d604f1f86ccf115b771fdcc4a41164c98c0e3ac2bee1e5e8736": {
       "entry_id": "b657916a8be38d604f1f86ccf115b771fdcc4a41164c98c0e3ac2bee1e5e8736",
       "content_sha256": "9759a15e8cc3f900a4f03d512289be34df2d33d712c464ef278c8a2f8a366a6f",
       "relative_path": "memes/shy/0003_peek.png",
       "category": "shy",
-      "caption": "爱蜜莉雅 Q版害羞表情：peek动作。",
+      "caption": "爱蜜莉雅拉起一束长发遮住半边脸，只露出一只亮晶晶的眼睛和羞涩的笑容。适合害羞躲脸、偷偷看对方、想看又不好意思。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "shy",
-        "peek"
+        "头发遮脸",
+        "偷偷看",
+        "害羞躲脸",
+        "只露一只眼",
+        "不好意思看",
+        "羞涩微笑"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "0d5a9cb7b6dc3bd92f1386e8ce4d384a14a1b13a4e4a64ebd8f07a55bae96033": {
       "entry_id": "0d5a9cb7b6dc3bd92f1386e8ce4d384a14a1b13a4e4a64ebd8f07a55bae96033",
       "content_sha256": "1627b31357eb0c6e46e4ab0cea1b71c095cc63058f9a3dc55683c74d54847693",
       "relative_path": "memes/shy/0004_bow.png",
       "category": "shy",
-      "caption": "爱蜜莉雅 Q版害羞表情：bow动作。",
+      "caption": "爱蜜莉雅闭着眼低下头，双拳轻轻收在胸前，脸上泛着红晕。适合腼腆致谢、礼貌地低头致意、害羞地接受夸奖。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "shy",
-        "bow"
+        "低头致意",
+        "腼腆致谢",
+        "害羞接受夸奖",
+        "闭眼低头",
+        "胸前握手",
+        "脸红"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "b49dea7863776ca455beee2e0498b6727301fec32d76dba752510cfb8f6de2ac": {
       "entry_id": "b49dea7863776ca455beee2e0498b6727301fec32d76dba752510cfb8f6de2ac",
       "content_sha256": "ea203feb9e522aa5da844ed1bee5046f1a0c91fbb32e3a1ff02e3267f67298ca",
       "relative_path": "memes/sleep/0001_sleep.png",
       "category": "sleep",
-      "caption": "爱蜜莉雅 Q版困倦表情：sleep动作。",
+      "caption": "爱蜜莉雅闭着眼打哈欠，一只手靠在张开的嘴前，身旁浮着紫色困倦气泡。适合眼睛快睁不开、开始犯困、准备去睡觉。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "sleep"
+        "闭眼哈欠",
+        "困得睁不开眼",
+        "开始犯困",
+        "准备睡觉",
+        "困倦气泡",
+        "掩嘴"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "20cf0f7a5afb3a5fbe2fb0f8f39cccc86b536bd9203923ac534a6c557cb29ca0": {
       "entry_id": "20cf0f7a5afb3a5fbe2fb0f8f39cccc86b536bd9203923ac534a6c557cb29ca0",
       "content_sha256": "c7210f692a98483dcbb5641d29574ca3593d6a2b28585e444d1f0f548b7b2ae0",
       "relative_path": "memes/sleep/0002_yawn.png",
       "category": "sleep",
-      "caption": "爱蜜莉雅 Q版困倦表情：yawn动作。",
+      "caption": "爱蜜莉雅半睁着惺忪的眼睛，抬手遮嘴打了一个大哈欠，眼角带着困倦的泪花。适合哈欠连天、睡眠不足、熬夜后撑着精神。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "sleep",
-        "yawn"
+        "大哈欠",
+        "眼角泪花",
+        "睡眠不足",
+        "哈欠连天",
+        "睡眼惺忪",
+        "抬手掩嘴"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "08268d0f1ce1f7068477f32545c55e9ea9f44838cbf964f810bbab0586860981": {
       "entry_id": "08268d0f1ce1f7068477f32545c55e9ea9f44838cbf964f810bbab0586860981",
       "content_sha256": "07528912d401d410482df8e39bf3de2867021a8d172603b9c34148a97bbdcafe",
       "relative_path": "memes/sleep/0003_blanket.png",
       "category": "sleep",
-      "caption": "爱蜜莉雅 Q版困倦表情：blanket动作。",
+      "caption": "爱蜜莉雅蜷坐在紫色花纹毛毯里，双手抓着毯子边缘，一只眼困得闭起。适合裹毯休息、赖在温暖的角落、准备入睡或不想起身。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "sleep",
-        "blanket"
+        "裹毛毯",
+        "蜷坐休息",
+        "不想起身",
+        "准备入睡",
+        "保暖",
+        "抓毯角"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "40ca56361bbf2bbc96193a00189f043996fe70c4dcd996fffb35ec6313a6a2c0": {
       "entry_id": "40ca56361bbf2bbc96193a00189f043996fe70c4dcd996fffb35ec6313a6a2c0",
       "content_sha256": "45000212a86a2f42d44dfbe28859f5abf7dd6a68c1650d7b6d7fdc2a23ace6fa",
       "relative_path": "memes/sleep/0004_alarm.png",
       "category": "sleep",
-      "caption": "爱蜜莉雅 Q版困倦表情：alarm动作。",
+      "caption": "爱蜜莉雅睡眼惺忪地抱着正在响动的紫色闹钟，头发有些翘起，脸上露出惊扰和无奈。适合被闹钟叫醒、起床困难、还想再睡一会儿。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "sleep",
-        "alarm"
+        "响闹钟",
+        "被叫醒",
+        "起床困难",
+        "再睡一会儿",
+        "睡眼惺忪",
+        "翘起头发"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "30a0379a2de35464ad372cc8b0440df50e9abb4fc370ff5208587f14a2bcc36a": {
       "entry_id": "30a0379a2de35464ad372cc8b0440df50e9abb4fc370ff5208587f14a2bcc36a",
       "content_sha256": "2fc8b9868462eca8716a344fd2cbdf1b4c9a1910f4bd89beefe9944070421bf6",
       "relative_path": "memes/surprised/0001_surprised.png",
       "category": "surprised",
-      "caption": "爱蜜莉雅 Q版惊讶表情：surprised动作。",
+      "caption": "爱蜜莉雅睁大眼睛，嘴张成小圆形，两只拳头停在脸颊旁，头侧有黄色惊讶符号。适合突然听到意外消息、惊讶地问真的吗、感到出乎预料。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "surprised"
+        "睁眼惊讶",
+        "真的吗",
+        "意外消息",
+        "小圆嘴",
+        "脸旁握拳",
+        "出乎预料"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "1fd115a0a714960b71d1f57cc11064019e0ddffde537544decbf1f068bd9db4d": {
       "entry_id": "1fd115a0a714960b71d1f57cc11064019e0ddffde537544decbf1f068bd9db4d",
       "content_sha256": "b3636f257eaf0bc859255781901e5bc5da3fa08b3fc2aa7fd5bfe5f02cd821a1",
       "relative_path": "memes/surprised/0002_gasp.png",
       "category": "surprised",
-      "caption": "爱蜜莉雅 Q版惊讶表情：gasp动作。",
+      "caption": "爱蜜莉雅睁大眼睛，用双手捂住嘴，头两侧出现黄色惊叹线条。适合震惊得捂嘴、被突然的消息惊到、一时说不出话。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "surprised",
-        "gasp"
+        "双手捂嘴",
+        "震惊失语",
+        "倒吸一口气",
+        "突然得知",
+        "惊叹",
+        "睁大眼睛"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "9d79c77b0a7ea09943eafa02f4557bef121f43d1a422818f1d908b7a6958a8fc": {
       "entry_id": "9d79c77b0a7ea09943eafa02f4557bef121f43d1a422818f1d908b7a6958a8fc",
       "content_sha256": "747349b01acf72d6b0f9c80b4d62d0b95006d840125c6a428f5bd38893d25dce",
       "relative_path": "memes/surprised/0003_jump.png",
       "category": "surprised",
-      "caption": "爱蜜莉雅 Q版惊讶表情：jump动作。",
+      "caption": "爱蜜莉雅受惊般整个人跳起，双腿弯曲，双拳缩在身前，张大嘴并冒汗，周围有尖锐冲击线。适合被吓一跳、突发状况让人弹起来、反应特别剧烈。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "surprised",
-        "jump"
+        "吓得跳起",
+        "突发惊吓",
+        "全身腾空",
+        "冒汗",
+        "冲击线",
+        "剧烈反应"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "7a9dd9a0979aae12e2f122a38ea249d1a3ee18d15fc6899c477e0ec7a5700522": {
       "entry_id": "7a9dd9a0979aae12e2f122a38ea249d1a3ee18d15fc6899c477e0ec7a5700522",
       "content_sha256": "a3ffc205793b225a270fdfefdc619f5c606a1aa2d12b6942dbb18333a9cdc00d",
       "relative_path": "memes/surprised/0004_freeze.png",
       "category": "surprised",
-      "caption": "爱蜜莉雅 Q版惊讶表情：freeze动作。",
+      "caption": "爱蜜莉雅睁大眼睛惊慌张嘴，双手僵在身前、手指张开，头发翘起，脸边有汗滴。适合突然慌住、吓得僵住、不知道下一步该怎么办。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "surprised",
-        "freeze"
+        "吓得僵住",
+        "双手僵住",
+        "手足无措",
+        "慌住了",
+        "翘发冒汗",
+        "惊慌"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "122563d1ef75f6c820f0b15e05ea91e2a15b23c029439a20a0db286d23dc720b": {
       "entry_id": "122563d1ef75f6c820f0b15e05ea91e2a15b23c029439a20a0db286d23dc720b",
       "content_sha256": "24d8f2c0ffc4d0ed8512025613ccc7f8784f0846219d39183b069113845e6487",
       "relative_path": "memes/surprised/0005_jawdrop.png",
       "category": "surprised",
-      "caption": "爱蜜莉雅 Q版惊讶表情：jawdrop动作。",
+      "caption": "爱蜜莉雅双手贴着脸颊，睁大眼睛，嘴张得很大，头侧有黄色惊叹线。适合惊掉下巴、看到难以置信的结果、夸张地表示哇。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "surprised",
-        "jawdrop"
+        "惊掉下巴",
+        "双手贴脸",
+        "难以置信",
+        "哇",
+        "张大嘴",
+        "震撼"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "97fdb989738688b93242a26c46f2100d61a774cd13edd0781e3f231f0d828711": {
       "entry_id": "97fdb989738688b93242a26c46f2100d61a774cd13edd0781e3f231f0d828711",
       "content_sha256": "ba1d7634893f16f98c806bd5da09e7709d1d4f4e9fb162f445c62a07990cb5f5",
       "relative_path": "memes/surprised/0006_thunder.png",
       "category": "surprised",
-      "caption": "爱蜜莉雅 Q版惊讶表情：thunder动作。",
+      "caption": "爱蜜莉雅惊慌地张嘴并抬起双手，额头带汗，头顶出现一大片黄色闪电形冲击符号。适合被消息雷到、突然受到强烈冲击、吓得一激灵。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "surprised",
-        "thunder"
+        "黄色闪电符号",
+        "被雷到了",
+        "强烈冲击",
+        "一激灵",
+        "抬手惊慌",
+        "冒汗"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "3ae5b7b2af3fedf3407111dc019d61a591b6fdd02ed21bbe134c13ce9c177fbd": {
       "entry_id": "3ae5b7b2af3fedf3407111dc019d61a591b6fdd02ed21bbe134c13ce9c177fbd",
       "content_sha256": "5c2e8906953dac0e8aebaad77f4e06253df1a858b8a1208beb4a5a6a3adc7fd0",
       "relative_path": "memes/teasing/0001_teasing.png",
       "category": "teasing",
-      "caption": "爱蜜莉雅 Q版调侃表情：teasing动作。",
+      "caption": "爱蜜莉雅眨着一只眼，俏皮地笑着，把一根食指放在嘴角旁。适合卖个关子、开个小玩笑、用心照不宣的语气逗对方。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "teasing"
+        "眨眼坏笑",
+        "卖个关子",
+        "心照不宣",
+        "开玩笑",
+        "食指靠嘴角",
+        "逗对方"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "33dd8e8f4c506d82ed52634fd84fe81be262f9539b8e7384eab795c0c7e77fbc": {
       "entry_id": "33dd8e8f4c506d82ed52634fd84fe81be262f9539b8e7384eab795c0c7e77fbc",
       "content_sha256": "1b6faae343c9704bf125e12b5797e459b47f3dd971dcbce154e07737593fa238",
       "relative_path": "memes/teasing/0002_tongue.png",
       "category": "teasing",
-      "caption": "爱蜜莉雅 Q版调侃表情：tongue动作。",
+      "caption": "爱蜜莉雅眨眼吐出一点舌尖，双手在胸前比出指尖爱心，旁边飘着粉色小心心。适合俏皮地示爱、撒娇逗人、带着喜欢开玩笑。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "teasing",
-        "tongue"
+        "指尖比心",
+        "眨眼吐舌",
+        "俏皮示爱",
+        "撒娇逗人",
+        "粉色爱心",
+        "甜蜜玩笑"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "ceaa23630461100c536a4308eaa801ef651ff3035fe5c01a30ac53fc2494a8e2": {
       "entry_id": "ceaa23630461100c536a4308eaa801ef651ff3035fe5c01a30ac53fc2494a8e2",
       "content_sha256": "0a734915dddb8459879265e19980676e17492bf7845fdaa473aeba159b584d2a",
       "relative_path": "memes/teasing/0003_prank.png",
       "category": "teasing",
-      "caption": "爱蜜莉雅 Q版调侃表情：prank动作。",
+      "caption": "爱蜜莉雅侧身回头笑，一根食指竖在嘴边，另一只手拿着喷出彩纸的小礼花筒。适合偷偷准备惊喜、假装保密、庆祝时淘气地逗人。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "teasing",
-        "prank"
+        "礼花筒",
+        "彩纸喷出",
+        "偷偷惊喜",
+        "保密手势",
+        "侧身回头",
+        "淘气庆祝"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "1e7e857b56078e0e82e13d41a4af695165c240f1dcc37d2730c73431b88d70ab": {
       "entry_id": "1e7e857b56078e0e82e13d41a4af695165c240f1dcc37d2730c73431b88d70ab",
       "content_sha256": "3137fa74992e9332f6500f515665073d672f8404ccae67b822c38e0e29235b2e",
       "relative_path": "memes/teasing/0004_shrug.png",
       "category": "teasing",
-      "caption": "爱蜜莉雅 Q版调侃表情：shrug动作。",
+      "caption": "爱蜜莉雅眨着一只眼、吐出舌尖，两手向两侧摊开，掌心朝上。适合俏皮摊手、表示我也没办法、轻松自嘲或随你啦。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "teasing",
-        "shrug"
+        "双手摊开",
+        "我也没办法",
+        "随你啦",
+        "轻松自嘲",
+        "眨眼吐舌",
+        "俏皮无奈"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "389fcf8ad3d557a2d95d31ac01aa52041b2c002942840db03cacdbc70e86818e": {
       "entry_id": "389fcf8ad3d557a2d95d31ac01aa52041b2c002942840db03cacdbc70e86818e",
       "content_sha256": "89f02e9721d869fe61927334ac150f818d080b0e4bdb445900db19756e80ef98",
       "relative_path": "memes/teasing/0005_smug.png",
       "category": "teasing",
-      "caption": "爱蜜莉雅 Q版调侃表情：smug动作。",
+      "caption": "爱蜜莉雅双手叉腰，眨一只眼，带着自信又得意的笑容。适合小小得瑟、表示我厉害吧、开玩笑地自夸。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "teasing",
-        "smug"
+        "双手叉腰",
+        "得瑟",
+        "我厉害吧",
+        "自信得意",
+        "自夸",
+        "眨眼"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "8f597cd6ee7c4631afdca4b28da481c99e5a1e7ce52acbd56a61cb845625466c": {
       "entry_id": "8f597cd6ee7c4631afdca4b28da481c99e5a1e7ce52acbd56a61cb845625466c",
       "content_sha256": "411cba425f5af01b2da58d93f453ebefc997b3ce22ce2a40dea067fd0300c012",
       "relative_path": "memes/teasing/0006_clapback.png",
       "category": "teasing",
-      "caption": "爱蜜莉雅 Q版调侃表情：clapback动作。",
+      "caption": "爱蜜莉雅半眯着眼睛露出带笑的神情，侧着身子拍手，手边有黄色拍手线。适合熟人间带点调侃的鼓掌、玩笑地表示真有你的或看完表演后的打趣。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "teasing",
-        "clapback"
+        "调侃鼓掌",
+        "真有你的",
+        "熟人打趣",
+        "半眯眼笑",
+        "侧身拍手",
+        "玩笑回应"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "e11548cdae097222a168c5f5defefed7f3b5d150e8d7d18e619c32c5809ce088": {
       "entry_id": "e11548cdae097222a168c5f5defefed7f3b5d150e8d7d18e619c32c5809ce088",
       "content_sha256": "96e836e285c4826c44fb5b386776ef1abc61595f9b1cb60c6177f60676cd4cb5",
       "relative_path": "memes/tech/0001_loading.png",
       "category": "tech",
-      "caption": "爱蜜莉雅 Q版技术表情：loading动作。",
+      "caption": "爱蜜莉雅单手托腮，另一根食指指着悬浮的蓝色环形加载图案，头旁还有问号。适合程序一直转圈、等待加载、疑惑怎么还没响应。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "tech",
-        "loading"
+        "蓝色加载圈",
+        "程序转圈",
+        "等待加载",
+        "怎么没响应",
+        "指向加载图案",
+        "单手托腮"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "705ad5841960253b8d192498bf570a397762e473e241e85993032ef7f0cc8cb6": {
       "entry_id": "705ad5841960253b8d192498bf570a397762e473e241e85993032ef7f0cc8cb6",
       "content_sha256": "ebc97f6039407fa616ee402cd50e6be30fc649ad21c016ec5c366d48456cab42",
       "relative_path": "memes/tech/0002_bug.png",
       "category": "tech",
-      "caption": "爱蜜莉雅 Q版技术表情：bug动作。",
+      "caption": "爱蜜莉雅在笔记本电脑后惊慌张嘴，双手抬起，电脑外壳上画着醒目的小虫图标，身边带着抖动线。适合突然发现 Bug、程序出问题、被错误吓一跳。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "tech",
-        "bug"
+        "发现Bug",
+        "小虫图标",
+        "程序出问题",
+        "突发报错",
+        "电脑前惊慌",
+        "抬起双手"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "77eb4f54fe29ee2bdc5f6e256c000a88c618799b9190cfd7ca34001e393c2507": {
       "entry_id": "77eb4f54fe29ee2bdc5f6e256c000a88c618799b9190cfd7ca34001e393c2507",
       "content_sha256": "3bee32da48af6787b05098c8f7ac47a05eacc2ec3c67fd8ee6844d1859201271",
       "relative_path": "memes/tech/0003_success.png",
       "category": "tech",
-      "caption": "爱蜜莉雅 Q版技术表情：success动作。",
+      "caption": "爱蜜莉雅眨眼笑着高举一块检查清单板，上面有大大的绿色对勾和多个已勾选方框，另一只手振奋地握拳。适合检查通过、任务全部完成、验收成功。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "tech",
-        "success"
+        "绿色对勾",
+        "检查清单",
+        "检查通过",
+        "全部完成",
+        "验收成功",
+        "举板庆祝"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "ac66a5c35b85d98493fccda19de707902aa38be8b1717aa2aacb4b55e0ec5e8b": {
       "entry_id": "ac66a5c35b85d98493fccda19de707902aa38be8b1717aa2aacb4b55e0ec5e8b",
       "content_sha256": "0cb6ce38e5e4ce7dc697d8650082f75260e5332e8c0e29b36f273c1b1a887e95",
       "relative_path": "memes/tech/0004_code.png",
       "category": "tech",
-      "caption": "爱蜜莉雅 Q版技术表情：code动作。",
+      "caption": "爱蜜莉雅戴着圆框眼镜，神情专注，双手在带有彩色方块装饰的笔记本电脑键盘上操作。适合专心写代码、开发中、正在敲键盘处理技术任务。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "tech",
-        "code"
+        "圆框眼镜",
+        "专心写代码",
+        "开发中",
+        "敲键盘",
+        "彩色笔记本",
+        "技术任务"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "7a989d13fe32cc8fffbc107b00127a7b90fbe4f5bffd7bfeeab72fbf1ba06fff": {
       "entry_id": "7a989d13fe32cc8fffbc107b00127a7b90fbe4f5bffd7bfeeab72fbf1ba06fff",
       "content_sha256": "1a8684d2e1f6a37b04327267bce1312b460ca5c205ab70c7b2949eeadccbf583",
       "relative_path": "memes/tech/0005_server.png",
       "category": "tech",
-      "caption": "爱蜜莉雅 Q版技术表情：server动作。",
+      "caption": "爱蜜莉雅拿着螺丝刀，认真地在打开上盖的服务器机箱里操作，前面板亮着彩色指示灯。适合检修服务器、维护硬件、动手修设备。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "tech",
-        "server"
+        "螺丝刀",
+        "服务器机箱",
+        "检修服务器",
+        "硬件维护",
+        "打开机箱",
+        "动手维修"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "cf2bb7d1b3d4df832fc7171613fe19cebbb97392c6265776e61225731c791cf9": {
       "entry_id": "cf2bb7d1b3d4df832fc7171613fe19cebbb97392c6265776e61225731c791cf9",
       "content_sha256": "0065e8a82225fe866ccfc5eecc9269776d2570b0cf02e62782c656793f515308",
       "relative_path": "memes/tech/0006_error.png",
       "category": "tech",
-      "caption": "爱蜜莉雅 Q版技术表情：error动作。",
+      "caption": "爱蜜莉雅坐在冒出灰烟的笔记本电脑前，一只手扶额，另一只手停在键盘上，神情焦急又无奈。适合电脑出故障、系统崩了、设备出问题让人头疼。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "tech",
-        "error"
+        "电脑冒烟",
+        "电脑故障",
+        "系统崩了",
+        "扶额焦急",
+        "设备出问题",
+        "故障头疼"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "bb5e314a3eddd59c05dcac0e71fe7cad975ae70f8ca9ad6c1f8d9a811b6eaba6": {
       "entry_id": "bb5e314a3eddd59c05dcac0e71fe7cad975ae70f8ca9ad6c1f8d9a811b6eaba6",
       "content_sha256": "a031d0aa815947d0ebdff238a43baf4e44b2bbd0cdfc87ca937ee00c08be7904",
       "relative_path": "memes/tired/0001_rubbing_eyes.png",
       "category": "tired",
-      "caption": "爱蜜莉雅 Q版疲惫表情：rubbing eyes动作。",
+      "caption": "爱蜜莉雅一只手揉眼睛，另一只手遮着张开的嘴打哈欠，眼角湿润，旁边飘着困倦气泡。适合困得揉眼、熬夜眼酸、勉强保持清醒。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "tired",
-        "rubbing eyes"
+        "揉眼睛",
+        "困得揉眼",
+        "熬夜眼酸",
+        "勉强清醒",
+        "打哈欠",
+        "困倦气泡"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "e39fa1455c1c2fb22b230db4308cb34b7ea5abcdc50466c6e60be3b179816e7b": {
       "entry_id": "e39fa1455c1c2fb22b230db4308cb34b7ea5abcdc50466c6e60be3b179816e7b",
       "content_sha256": "773edc3ff7855edbd2fff62229cec62205e2dab3418d68b46f311a93430c60ce",
       "relative_path": "memes/tired/0002_slouch.png",
       "category": "tired",
-      "caption": "爱蜜莉雅 Q版疲惫表情：slouch动作。",
+      "caption": "爱蜜莉雅趴在圆形木桌上，头枕着胳膊，一只眼闭着，另一只眼半睁，嘴微微张开。适合累趴了、趴桌打盹、精力耗尽想歇一下。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "tired",
-        "slouch"
+        "趴桌打盹",
+        "累趴了",
+        "头枕手臂",
+        "精力耗尽",
+        "想歇一下",
+        "半睁眼"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "57c209b54a063b5480b7f8706e46a401c7e799bc50121e4e79488d50ce5814c8": {
       "entry_id": "57c209b54a063b5480b7f8706e46a401c7e799bc50121e4e79488d50ce5814c8",
       "content_sha256": "60d169b60816e490ce072c21f210636a9c07f0c7485cafffbe62855de5a96e29",
       "relative_path": "memes/tired/0003_coffee.png",
       "category": "tired",
-      "caption": "爱蜜莉雅 Q版疲惫表情：coffee动作。",
+      "caption": "爱蜜莉雅双手抱着盛有棕色热饮的杯子，眼皮低垂，头旁有困倦符号。适合困了靠咖啡提神、强撑精神、需要续命一杯。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "tired",
-        "coffee"
+        "困倦喝咖啡",
+        "咖啡提神",
+        "续命一杯",
+        "强撑精神",
+        "眼皮低垂",
+        "双手捧杯"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "2d58ec57c8f8734c9ad2fb94ccfd89bfbc42c9d493a425761d3d9f5b86c8a56e": {
       "entry_id": "2d58ec57c8f8734c9ad2fb94ccfd89bfbc42c9d493a425761d3d9f5b86c8a56e",
       "content_sha256": "6ab3254eb3d7e3bff5b0ea4e5147785c760852b6a108317d92f7254c70a76a76",
       "relative_path": "memes/tired/0004_stretch.png",
       "category": "tired",
-      "caption": "爱蜜莉雅 Q版疲惫表情：stretch动作。",
+      "caption": "爱蜜莉雅一边张嘴打哈欠，一边把双臂高高伸展开来，双手握拳，眼角带着困意。适合久坐后伸懒腰、活动一下、刚醒时舒展身体。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "tired",
-        "stretch"
+        "伸懒腰",
+        "双臂高举",
+        "久坐活动",
+        "舒展身体",
+        "刚醒",
+        "哈欠"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "6b00cdaf922a38fc42e013fec4371d10ed72e58405bc9ffae6bc424c72d315ba": {
       "entry_id": "6b00cdaf922a38fc42e013fec4371d10ed72e58405bc9ffae6bc424c72d315ba",
       "content_sha256": "c92d3955561efa5a9ac6053b32b42bc0fc17efdb141e120553b581afbbc70899",
       "relative_path": "memes/tired/0005_bedtime.png",
       "category": "tired",
-      "caption": "爱蜜莉雅 Q版疲惫表情：bedtime动作。",
+      "caption": "爱蜜莉雅抱着一个白色枕头，一只手揉眼，张嘴带着困意。适合抱枕准备睡觉、道晚安、表示今天要去休息了。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "tired",
-        "bedtime"
+        "抱白色枕头",
+        "晚安",
+        "准备睡觉",
+        "今天先休息",
+        "揉眼",
+        "困倦"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "6ca2daedf44fbd7ced10025e5a9073e8d6da7169c7e57e0639adc83f1d3f082a": {
       "entry_id": "6ca2daedf44fbd7ced10025e5a9073e8d6da7169c7e57e0639adc83f1d3f082a",
       "content_sha256": "5c69af4414b6b6fd044ff51fdb28f25718dd8bcec0189d93a27684938461489c",
       "relative_path": "memes/tired/0006_waiting.png",
       "category": "tired",
-      "caption": "爱蜜莉雅 Q版疲惫表情：waiting动作。",
+      "caption": "爱蜜莉雅双手托腮，嘴微微噘起，桌边摆着一个紫色沙漏。适合等得无聊、等待太久、想问怎么还没好。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "tired",
-        "waiting"
+        "等得无聊",
+        "等待太久",
+        "怎么还没好",
+        "双手托腮",
+        "桌上沙漏",
+        "微微噘嘴"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "1007cd2dc251cfdd335ba15bfd5643c0fc67649ff43b22669e4821acb433bd91": {
       "entry_id": "1007cd2dc251cfdd335ba15bfd5643c0fc67649ff43b22669e4821acb433bd91",
       "content_sha256": "5e2df9f6f6eed83f12387071fee5281c61280bfb4a7e0d302dd646b6867ac40f",
       "relative_path": "memes/work/0001_work.png",
       "category": "work",
-      "caption": "爱蜜莉雅 Q版工作表情：work动作。",
+      "caption": "爱蜜莉雅戴着细框眼镜，皱眉盯着笔记本电脑并敲键盘，脸旁带着汗滴。适合忙着工作、赶任务、压力下认真处理事务。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "work"
+        "忙着工作",
+        "赶任务",
+        "压力办公",
+        "细框眼镜",
+        "电脑打字",
+        "皱眉冒汗"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "8163b82643dff5828a14a209328f8b1bd4d2f110527f5b7d715e3b0f2e945974": {
       "entry_id": "8163b82643dff5828a14a209328f8b1bd4d2f110527f5b7d715e3b0f2e945974",
       "content_sha256": "ae037ca9240976d20edee76eecfa926a4a0fcd7f6a3abd482077ca023fcab4d2",
       "relative_path": "memes/work/0002_note.png",
       "category": "work",
-      "caption": "爱蜜莉雅 Q版工作表情：note动作。",
+      "caption": "爱蜜莉雅一手拿笔一手扶着写字夹板，神情认真又略显紧张，脸旁带着汗滴。适合认真记录、记下要求、整理待办事项。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "work",
-        "note"
+        "拿笔记录",
+        "写字夹板",
+        "记下要求",
+        "整理待办",
+        "认真记笔记",
+        "略显紧张"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "fe2f3d67a221270adf7d04de2e723f71c0118f7e33841b333f7905ab873b5c3a": {
       "entry_id": "fe2f3d67a221270adf7d04de2e723f71c0118f7e33841b333f7905ab873b5c3a",
       "content_sha256": "30cea4f515e4613652b29212e968963b09ef1f5ad0a1fc915a8bde43afaffd2c",
       "relative_path": "memes/work/0003_troubleshoot.png",
       "category": "work",
-      "caption": "爱蜜莉雅 Q版工作表情：troubleshoot动作。",
+      "caption": "爱蜜莉雅坐在电脑前，一只手托住脸，另一只手举着尚未插入的 USB 插头，旁边浮着问号，脸上带汗。适合排查连接故障、设备连不上、拿不准线该怎么接。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "work",
-        "troubleshoot"
+        "USB插头",
+        "设备连不上",
+        "排查连接",
+        "怎么接线",
+        "问号冒汗",
+        "电脑前困惑"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     },
     "916e8b10fe04591a9fa47c2a7cf15b59bd7fed5f2887894941da96c65ee94cce": {
       "entry_id": "916e8b10fe04591a9fa47c2a7cf15b59bd7fed5f2887894941da96c65ee94cce",
       "content_sha256": "8ef827a53dfa7adb029e059f5b6eff63ac14ccd6720d933177a2f159dffa53b8",
       "relative_path": "memes/work/0004_break.png",
       "category": "work",
-      "caption": "爱蜜莉雅 Q版工作表情：break动作。",
+      "caption": "爱蜜莉雅双手拿着一杯冒热气的饮料，眯眼笑得很放松，身体微微侧转。适合忙完休息一下、工作间隙喝一杯、享受短暂放松。",
       "caption_status": "done",
       "tags": [
-        "emilia",
-        "chibi",
-        "work",
-        "break"
+        "工作间隙",
+        "休息一下",
+        "轻松喝一杯",
+        "忙完放松",
+        "眯眼笑",
+        "热饮"
       ],
       "visible_text": "",
-      "provenance": "OpenAI image generation; original action prompt"
+      "provenance": "2026-10-25：Codex 按实际图片逐图视觉核对后撰写；首句描述可见画面，后句为建议聊天用途；未做人类审核或插件向量检索实测。"
     }
   }
 }
